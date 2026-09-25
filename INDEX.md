@@ -8,4 +8,5 @@
 
 ### September
 
-- [2026-09-25](digests/2026/09/2026-09-25.md) — GPT-6/Claude/Gemini、AlloyDB for agents、Databricks Row Zero、Snowflake AIM、NVIDIA MoE/SWE-Serve、GitHub Copilot
+- [2026-09-25](digests/2026/09/2026-09-25.md)
+- [2026-09-25 追補](digests/2026/09/2026-09-25-followup.md)
