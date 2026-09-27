@@ -1,6 +1,19 @@
 # Machine Learning
 
-- [2026-09-27](../digests/2026/09/2026-09-27.md) — TrollGAN、XAI、safe-DRL、SW-DEIM
-- [2026-09-26](../digests/2026/09/2026-09-26.md) — TDPO、AI4U、蓄熱材料の物性予測
-- [2026-09-25](../digests/2026/09/2026-09-25.md) — MedStar EHR研究
-- [2026-09-25 追補](../digests/2026/09/2026-09-25-followup.md) — MoE、SWE-Serve
+本文に `machine-learning` が付いた項目の索引です。2026-09-26の訂正を反映。
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-09-25 | [MedStar EHRによるうつ病進行予測](../digests/2026/09/2026-09-25.md#ehr-depression) | 2026-09-24 |
+
+## 2026-09-25 追補
+
+- [追補ダイジェスト](../digests/2026/09/2026-09-25-followup.md) — Efficient MoE training; SWE-Serve coding-agent benchmark
+
+## 2026-09-26
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-09-26 | [TDPO：画像分類用プロンプト最適化](../digests/2026/09/2026-09-26.md#tdpo) | 2026-09-26 |
+| 2026-09-26 | [AI4U：ML介入選択のランダム化試験](../digests/2026/09/2026-09-26.md#ai4u-mrt) | 2026-09-26 |
+| 2026-09-26 | [蓄熱材料の熱伝導率予測](../digests/2026/09/2026-09-26.md#nepcm-thermal) | 2026-09-26 |
