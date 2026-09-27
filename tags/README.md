@@ -8,3 +8,7 @@
 - [Data Engineering](data-engineering.md)
 
 記事には必要に応じて `llm`, `agents`, `research`, `analytics`, `developer-tools` などの補助タグも付与します。
+
+## 日次タグスナップショット
+
+- [2026-09-27](2026-09-27.md)
