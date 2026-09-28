@@ -6,6 +6,17 @@
 
 ### September
 
+[2026-09-28号](digests/2026/09/2026-09-28.md) — 6件。9/28付の製品発表3件と原論文の出版版3件。先行版・確認範囲は本文参照。
+
+| トピック | 一次情報の公開日 |
+| --- | --- |
+| [Claude Sonnet 5.5](digests/2026/09/2026-09-28.md#sonnet-5-5) | 2026-09-28 |
+| [Google Earth Engine Ask](digests/2026/09/2026-09-28.md#earth-engine-ask) | 2026-09-28 |
+| [Model Armorのテンプレート別除外ルール](digests/2026/09/2026-09-28.md#model-armor-exclusions) | 2026-09-28 |
+| [AGENT：mRNAワクチン製剤の探索](digests/2026/09/2026-09-28.md#agent-thermostable-mrna) | 2026-09-28 |
+| [GenFocal：気候予測の確率的ダウンスケーリング](digests/2026/09/2026-09-28.md#genfocal-climate) | 2026-09-28 |
+| [多課題学習とネットワークのモジュール性](digests/2026/09/2026-09-28.md#multitask-modularity) | 2026-09-28 |
+
 [2026-09-26号](digests/2026/09/2026-09-26.md) — 4件。9/26公開の原論文（SurgVeo、TDPO、AI4U、蓄熱材料の物性予測）。SurgVeoの先行版と、抄録中心の確認範囲は本文参照。
 
 | トピック | 一次情報の公開日 |
