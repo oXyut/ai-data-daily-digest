@@ -1,5 +1,6 @@
 # September 2026
 
+- [2026-09-30](2026-09-30.md) — Gemini 4 Argon、GPT-Synopsys、ロボット職務露出分析、Lakebase Postgresコスト最適化の4件。
 - [2026-09-29](2026-09-29.md) — GPT-6.1 Sol、dots、BigQuery AI.KEY_DRIVERS、API Gateway streamingの4件。
 - [2026-09-28](2026-09-28.md) — 9/28付の製品発表3件と原論文の出版版3件。先行版と確認範囲は本文参照。
 - [2026-09-27](2026-09-27.md) — 9/27公開のAI・ML・データ分析関連原論文6件。
