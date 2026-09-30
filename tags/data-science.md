@@ -33,3 +33,9 @@
 | 2026-09-28 | [Google Earth Engine Ask](../digests/2026/09/2026-09-28.md#earth-engine-ask) | 2026-09-28 |
 | 2026-09-28 | [AGENT：mRNAワクチン製剤の探索](../digests/2026/09/2026-09-28.md#agent-thermostable-mrna) | 2026-09-28 |
 | 2026-09-28 | [GenFocal：気候予測の確率的ダウンスケーリング](../digests/2026/09/2026-09-28.md#genfocal-climate) | 2026-09-28 |
+
+## 2026-09-29
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-09-29 | [BigQuery AI.KEY_DRIVERSのGA](../digests/2026/09/2026-09-29.md#bigquery-key-drivers) | 2026-09-29 |

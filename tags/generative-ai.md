@@ -34,3 +34,11 @@
 | 2026-09-28 | [Google Earth Engine Ask](../digests/2026/09/2026-09-28.md#earth-engine-ask) | 2026-09-28 |
 | 2026-09-28 | [Model Armorのテンプレート別除外ルール](../digests/2026/09/2026-09-28.md#model-armor-exclusions) | 2026-09-28 |
 | 2026-09-28 | [GenFocal：気候予測の確率的ダウンスケーリング](../digests/2026/09/2026-09-28.md#genfocal-climate) | 2026-09-28 |
+
+## 2026-09-29
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-09-29 | [GPT-6.1 Sol](../digests/2026/09/2026-09-29.md#gpt-6-1-sol) | 2026-09-29 |
+| 2026-09-29 | [OpenAI dots](../digests/2026/09/2026-09-29.md#openai-dots) | 2026-09-29 |
+| 2026-09-29 | [API Gatewayのストリーミング](../digests/2026/09/2026-09-29.md#api-gateway-streaming) | 2026-09-29 |
