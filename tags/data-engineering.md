@@ -8,3 +8,9 @@
 | --- | --- | --- |
 | 2026-09-29 | [BigQuery AI.KEY_DRIVERSのGA](../digests/2026/09/2026-09-29.md#bigquery-key-drivers) | 2026-09-29 |
 | 2026-09-29 | [API Gatewayのストリーミング](../digests/2026/09/2026-09-29.md#api-gateway-streaming) | 2026-09-29 |
+
+## 2026-09-30
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-09-30 | [Lakebase Postgresのコスト最適化](../digests/2026/09/2026-09-30.md#lakebase-cost-optimization) | 2026-09-30 |
