@@ -49,3 +49,9 @@
 | --- | --- | --- |
 | 2026-09-30 | [Gemini 4 Argon](../digests/2026/09/2026-09-30.md#gemini-4-argon) | 2026-09-30 |
 | 2026-09-30 | [GPT-Synopsys](../digests/2026/09/2026-09-30.md#gpt-synopsys) | 2026-09-30 |
+
+## 2026-10-01
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-01 | [Claude-shaped science / BootLoops](../digests/2026/10/2026-10-01.md#claude-shaped-science) | 2026-10-01 |

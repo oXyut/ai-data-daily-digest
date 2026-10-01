@@ -4,6 +4,18 @@
 
 ## 2026
 
+### October
+
+[2026-10-01号](digests/2026/10/2026-10-01.md) — 5件。10/1付のAI研究ワークフロー、IP分析、GitHub自動化・runner基盤、材料AIレビュー。確認範囲は本文参照。
+
+| トピック | 一次情報の公開日 |
+| --- | --- |
+| [Claude-shaped science / BootLoops](digests/2026/10/2026-10-01.md#claude-shaped-science) | 2026-10-01 |
+| [Databricks IP FunctionsのGA](digests/2026/10/2026-10-01.md#databricks-ip-functions) | 2026-10-01 |
+| [GitHub async merge APIのGA](digests/2026/10/2026-10-01.md#github-async-merge-api) | 2026-10-01 |
+| [Actions Runner Controller 0.15.0](digests/2026/10/2026-10-01.md#actions-runner-controller-015) | 2026-10-01 |
+| [ペロブスカイト太陽電池におけるシステムレベルAI](digests/2026/10/2026-10-01.md#perovskite-system-ai) | 2026-10-01 |
+
 ### September
 
 [2026-09-30号](digests/2026/09/2026-09-30.md) — 4件。9/30付のモデル・専門エージェント・ロボット研究・データ基盤の技術解説。確認範囲は本文参照。
