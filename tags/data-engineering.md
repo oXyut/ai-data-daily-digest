@@ -22,3 +22,10 @@
 | 2026-10-01 | [Databricks IP FunctionsのGA](../digests/2026/10/2026-10-01.md#databricks-ip-functions) | 2026-10-01 |
 | 2026-10-01 | [GitHub async merge APIのGA](../digests/2026/10/2026-10-01.md#github-async-merge-api) | 2026-10-01 |
 | 2026-10-01 | [Actions Runner Controller 0.15.0](../digests/2026/10/2026-10-01.md#actions-runner-controller-015) | 2026-10-01 |
+
+## 2026-10-02
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-02 | [GitHub Security Advisoryの共同作業・API拡張](../digests/2026/10/2026-10-02.md#security-advisory-workflow) | 2026-10-02 |
+| 2026-10-02 | [ブラジル医療DBのMLレコードリンケージ](../digests/2026/10/2026-10-02.md#health-record-linkage) | 2026-10-02 |
