@@ -6,6 +6,15 @@
 
 ### October
 
+[2026-10-03号](digests/2026/10/2026-10-03.md) — 4件。10/3付の4D-STEM解析、連合few-shot学習、尿培養画像ML、最適制御ソフトウェア。確認範囲は本文参照。
+
+| トピック | 一次情報の公開日 |
+| --- | --- |
+| [ノイズの多い4D-STEMの教師なし結晶方位マッピング](digests/2026/10/2026-10-03.md#stem-orientation-mapping) | 2026-10-03（先行版は2026-04-22） |
+| [AdaptFFSL-DS：適応型連合few-shot学習](digests/2026/10/2026-10-03.md#adaptffsl-ds) | 2026-10-03 |
+| [尿培養画像のMLスクリーニング](digests/2026/10/2026-10-03.md#urine-culture-screening) | 2026-10-03 |
+| [OptimalControl.jlのJOSS論文](digests/2026/10/2026-10-03.md#optimalcontrol-jl) | 2026-10-03 |
+
 [2026-10-02号](digests/2026/10/2026-10-02.md) — 6件。10/2付のCopilotモデル更新、Security Advisory連携、公開データ・ML研究4件。確認範囲は本文参照。
 
 | トピック | 一次情報の公開日 |
