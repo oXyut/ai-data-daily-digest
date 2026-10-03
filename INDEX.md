@@ -6,6 +6,17 @@
 
 ### October
 
+[2026-10-02号](digests/2026/10/2026-10-02.md) — 6件。10/2付のCopilotモデル更新、Security Advisory連携、公開データ・ML研究4件。確認範囲は本文参照。
+
+| トピック | 一次情報の公開日 |
+| --- | --- |
+| [GitHub Copilotの旧モデル4種を非推奨化](digests/2026/10/2026-10-02.md#copilot-model-deprecations) | 2026-10-02 |
+| [GitHub Security Advisoryの共同作業・API拡張](digests/2026/10/2026-10-02.md#security-advisory-workflow) | 2026-10-02 |
+| [PORTIA：港湾音響・AIS統合データセット](digests/2026/10/2026-10-02.md#portia-dataset) | 2026-10-02（データv2は2026-07-17） |
+| [ブラジル医療DBのMLレコードリンケージ](digests/2026/10/2026-10-02.md#health-record-linkage) | 2026-10-02 |
+| [FuXi-Nowcast：環境条件付き深層学習](digests/2026/10/2026-10-02.md#fuxi-nowcast) | 2026-10-02（先行版は2025-12） |
+| [AI支援によるペロブスカイトナノ結晶合成](digests/2026/10/2026-10-02.md#ai-nanocrystal-synthesis) | 2026-10-02 |
+
 [2026-10-01号](digests/2026/10/2026-10-01.md) — 5件。10/1付のAI研究ワークフロー、IP分析、GitHub自動化・runner基盤、材料AIレビュー。確認範囲は本文参照。
 
 | トピック | 一次情報の公開日 |
