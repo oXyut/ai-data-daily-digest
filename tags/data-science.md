@@ -70,3 +70,13 @@
 | 2026-10-03 | [AdaptFFSL-DS：適応型連合few-shot学習](../digests/2026/10/2026-10-03.md#adaptffsl-ds) | 2026-10-03 |
 | 2026-10-03 | [尿培養画像のMLスクリーニング](../digests/2026/10/2026-10-03.md#urine-culture-screening) | 2026-10-03 |
 | 2026-10-03 | [OptimalControl.jlのJOSS論文](../digests/2026/10/2026-10-03.md#optimalcontrol-jl) | 2026-10-03 |
+
+## 2026-10-04
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-04 | [D-MambaFormer：長期エネルギー時系列予測](../digests/2026/10/2026-10-04.md#d-mambaformer) | 2026-10-04 |
+| 2026-10-04 | [ATLAS：異種モデル間の連合フィッシング検知](../digests/2026/10/2026-10-04.md#atlas-federated-security) | 2026-10-04 |
+| 2026-10-04 | [校正・コスト考慮型の事故重症度予測](../digests/2026/10/2026-10-04.md#crash-severity) | 2026-10-04 |
+| 2026-10-04 | [AdaptDelivery：ポリマー構造特性のML予測](../digests/2026/10/2026-10-04.md#adaptdelivery) | 2026-10-04 |
+| 2026-10-04 | [縦断MRIによる膠芽腫治療反応予測](../digests/2026/10/2026-10-04.md#glioblastoma-response) | 2026-10-04 |
