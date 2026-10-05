@@ -65,6 +65,16 @@
 | --- | --- | --- |
 | 2026-10-01 | [Claude-shaped science / BootLoops](../digests/2026/10/2026-10-01.md#claude-shaped-science) | 2026-10-01 |
 
+## 2026-10-05
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-05 | [OpenAIのテキスト透かしtextGrain](../digests/2026/10/2026-10-05.md#openai-textgrain) | 2026-10-05 |
+| 2026-10-05 | [ChatGPT Adsの画像形式と効果測定](../digests/2026/10/2026-10-05.md#chatgpt-ads-measurement) | 2026-10-05 |
+| 2026-10-05 | [GitHub ReviewBench](../digests/2026/10/2026-10-05.md#github-reviewbench) | 2026-10-05 |
+| 2026-10-05 | [スマートウォッチレビューから製品改善点を抽出](../digests/2026/10/2026-10-05.md#smartwatch-review-preferences) | 2026-10-05 |
+| 2026-10-05 | [AIプログラミングの評価ループ](../digests/2026/10/2026-10-05.md#mizchi-ai-coding-loop) | 2026-10-05 |
+
 ## 2026-10-02
 
 | 掲載号 | トピック | 一次情報の公開日 |
