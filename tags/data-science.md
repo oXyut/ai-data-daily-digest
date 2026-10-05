@@ -2,6 +2,13 @@
 
 本文に `data-science` が付いた項目の索引です。2026-09-26の訂正を反映。
 
+## 2026-10-05 特別号（Zenn・Qiita）
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-05 特別号 | [事業の問いから分析手法を選ぶ](../digests/2026/10/special-2026-10-05-tech-blogs.md#business-research-questions) | 2026-09-08 |
+| 2026-10-05 特別号 | [分析手法と診断をセットで運用するSkills](../digests/2026/10/special-2026-10-05-tech-blogs.md#ds-diagnostics-skills) | 2026-09-28 |
+
 | 掲載号 | トピック | 一次情報の公開日 |
 | --- | --- | --- |
 | 2026-09-25 | [MedStar EHRによるうつ病進行予測](../digests/2026/09/2026-09-25.md#ehr-depression) | 2026-09-24 |
