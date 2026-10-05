@@ -1,5 +1,6 @@
 # October 2026
 
+- [2026-10-05](2026-10-05.md) — AIニュース3件、事業向けデータ分析2件、最近の話題のIT記事3件。
 - [2026-10-04](2026-10-04.md) — DHCBT、D-MambaFormer、ATLAS、事故重症度予測、AdaptDelivery、膠芽腫治療反応予測の6件。
 - [2026-10-03](2026-10-03.md) — 4D-STEM結晶方位解析、AdaptFFSL-DS、尿培養画像ML、OptimalControl.jlの4件。
 - [2026-10-02](2026-10-02.md) — GitHub Copilotモデル非推奨化、Security Advisory拡張、PORTIA、医療DBレコードリンケージ、FuXi-Nowcast、AI支援ナノ結晶合成の6件。
