@@ -36,16 +36,20 @@
 | [Actions Runner Controller 0.15.0](digests/2026/10/2026-10-01.md#actions-runner-controller-015) | 2026-10-01 |
 | [ペロブスカイト太陽電池におけるシステムレベルAI](digests/2026/10/2026-10-01.md#perovskite-system-ai) | 2026-10-01 |
 
-### 特別号：Zenn・Qiitaとデータサイエンス×ビジネス（2026-10-05）
+### 特別号：前日データサイエンス×ビジネスと最近の話題のIT記事（2026-10-05）
 
-[2026-10-05 特別号](digests/2026/10/special-2026-10-05-tech-blogs.md) — Zenn・Qiitaの注目技術記事4件。事業課題への分析のつなぎ方と分析品質の実務を含む。ブログ枠の公開日例外は本文参照。
+[2026-10-05 特別号](digests/2026/10/special-2026-10-05-tech-blogs.md) — 10/4公開の事業向けデータ分析研究2件、媒体を限定しない最近の話題のIT記事6件。記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
 | --- | --- |
+| [レビュー感情分析と能動学習](digests/2026/10/special-2026-10-05-tech-blogs.md#marketing-sentiment-ppo) | 2026-10-04 |
+| [金融リスク予測への敵対的攻撃対策](digests/2026/10/special-2026-10-05-tech-blogs.md#financial-risk-defense) | 2026-10-04 |
+| [課金サービスに強制上限を](digests/2026/10/special-2026-10-05-tech-blogs.md#hard-budget-caps) | 2026-10-03 |
 | [事業の問いから分析手法を選ぶ](digests/2026/10/special-2026-10-05-tech-blogs.md#business-research-questions) | 2026-09-08 |
 | [分析手法と診断をセットで運用するSkills](digests/2026/10/special-2026-10-05-tech-blogs.md#ds-diagnostics-skills) | 2026-09-28 |
 | [AI開発時代のテストの役割](digests/2026/10/special-2026-10-05-tech-blogs.md#ai-testing-roles) | 2026-09-29 |
 | [LLMのSchema出力と業務検証](digests/2026/10/special-2026-10-05-tech-blogs.md#schema-business-validation) | 2026-10-04 |
+| [トランザクションと取り消せない処理](digests/2026/10/special-2026-10-05-tech-blogs.md#transaction-action-order) | 2026-09-29 |
 
 ### September
 
