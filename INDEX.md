@@ -36,6 +36,15 @@
 | [Actions Runner Controller 0.15.0](digests/2026/10/2026-10-01.md#actions-runner-controller-015) | 2026-10-01 |
 | [ペロブスカイト太陽電池におけるシステムレベルAI](digests/2026/10/2026-10-01.md#perovskite-system-ai) | 2026-10-01 |
 
+### 特別号：注目技術ブログ（2026-10-05）
+
+[2026-10-05 特別号](digests/2026/10/special-2026-10-05-tech-blogs.md) — Hacker Newsで注目された技術ブログ2件。前日限定の例外枠として公開日・人気根拠を確認。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [従量課金サービスに既定のハード予算上限を](digests/2026/10/special-2026-10-05-tech-blogs.md#hard-budget-caps) | 2026-10-03 |
+| [エージェントに必要なのは記憶よりドキュメント](digests/2026/10/special-2026-10-05-tech-blogs.md#agents-documentation) | 2026-10-03 |
+
 ### September
 
 [2026-09-30号](digests/2026/09/2026-09-30.md) — 4件。9/30付のモデル・専門エージェント・ロボット研究・データ基盤の技術解説。確認範囲は本文参照。
