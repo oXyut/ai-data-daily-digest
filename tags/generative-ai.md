@@ -2,13 +2,13 @@
 
 本文に `generative-ai` が付いた項目の索引です。2026-09-26の訂正を反映。
 
-## 2026-10-05 特別号（注目技術ブログ）
+## 2026-10-05 特別号（Zenn・Qiita）
 
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
-| 2026-10-05 特別号 | [従量課金サービスに既定のハード予算上限を](../digests/2026/10/special-2026-10-05-tech-blogs.md#hard-budget-caps) | 2026-10-03 |
-| 2026-10-05 特別号 | [エージェントに必要なのは記憶よりドキュメント](../digests/2026/10/special-2026-10-05-tech-blogs.md#agents-documentation) | 2026-10-03 |
-
+| 2026-10-05 特別号 | [分析手法と診断をセットで運用するSkills](../digests/2026/10/special-2026-10-05-tech-blogs.md#ds-diagnostics-skills) | 2026-09-28 |
+| 2026-10-05 特別号 | [AI開発時代のテストの役割](../digests/2026/10/special-2026-10-05-tech-blogs.md#ai-testing-roles) | 2026-09-29 |
+| 2026-10-05 特別号 | [LLMのSchema出力と業務検証](../digests/2026/10/special-2026-10-05-tech-blogs.md#schema-business-validation) | 2026-10-04 |
 
 | 掲載号 | トピック | 一次情報の公開日 |
 | --- | --- | --- |
