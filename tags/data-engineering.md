@@ -2,6 +2,12 @@
 
 - [2026-09-25 追補](../digests/2026/09/2026-09-25-followup.md) — AlloyDB PostgreSQL for agents; Databricks Row Zero; Snowflake AIM PowerCenter migration
 
+## 2026-10-05 特別号
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-05 特別号 | [トランザクションと取り消せない処理](../digests/2026/10/special-2026-10-05-tech-blogs.md#transaction-action-order) | 2026-09-29 |
+
 ## 2026-09-29
 
 | 掲載号 | トピック | 一次情報の公開日 |
