@@ -2,10 +2,12 @@
 
 本文に `data-science` が付いた項目の索引です。2026-09-26の訂正を反映。
 
-## 2026-10-05 特別号（Zenn・Qiita）
+## 2026-10-05 特別号
 
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
+| 2026-10-05 特別号 | [レビュー感情分析と能動学習](../digests/2026/10/special-2026-10-05-tech-blogs.md#marketing-sentiment-ppo) | 2026-10-04 |
+| 2026-10-05 特別号 | [金融リスク予測への敵対的攻撃対策](../digests/2026/10/special-2026-10-05-tech-blogs.md#financial-risk-defense) | 2026-10-04 |
 | 2026-10-05 特別号 | [事業の問いから分析手法を選ぶ](../digests/2026/10/special-2026-10-05-tech-blogs.md#business-research-questions) | 2026-09-08 |
 | 2026-10-05 特別号 | [分析手法と診断をセットで運用するSkills](../digests/2026/10/special-2026-10-05-tech-blogs.md#ds-diagnostics-skills) | 2026-09-28 |
 
