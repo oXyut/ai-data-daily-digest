@@ -6,6 +6,19 @@
 
 ### October
 
+[2026-10-05号](digests/2026/10/2026-10-05.md) — 前日AIニュース3件、事業向けデータ分析2件、最近の話題のIT記事3件。ブログ枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [OpenAIのテキスト透かしtextGrain](digests/2026/10/2026-10-05.md#openai-textgrain) | 2026-10-05 |
+| [ChatGPT Adsの画像形式と効果測定](digests/2026/10/2026-10-05.md#chatgpt-ads-measurement) | 2026-10-05 |
+| [GitHub ReviewBench](digests/2026/10/2026-10-05.md#github-reviewbench) | 2026-10-05 |
+| [スマートウォッチレビューから製品改善点を抽出](digests/2026/10/2026-10-05.md#smartwatch-review-preferences) | 2026-10-05 |
+| [Workdayの人材・スキル需要分析](digests/2026/10/2026-10-05.md#workday-workforce-report) | 2026-10-05 |
+| [AIプログラミングの評価ループ](digests/2026/10/2026-10-05.md#mizchi-ai-coding-loop) | 2026-10-05 |
+| [DoomをSQLで実装](digests/2026/10/2026-10-05.md#sqldoom) | 2026-09-22 |
+| [GoのGC停止とswap](digests/2026/10/2026-10-05.md#go-gc-swap) | 2026-09-13 |
+
 [2026-10-04号](digests/2026/10/2026-10-04.md) — 6件。10/4付のマルチエージェント、時系列予測、連合学習、校正・材料・医用ML研究。確認範囲は本文参照。
 
 | トピック | 一次情報の公開日 |
