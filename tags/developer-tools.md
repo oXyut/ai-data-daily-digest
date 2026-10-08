@@ -18,3 +18,14 @@
 | 2026-10-07 | [GPT-6とIntelligent UIをChatGPTへ展開](../digests/2026/10/2026-10-07.md#gpt6-intelligent-ui) | 2026-10-07 |
 | 2026-10-07 | [Claude Haiku 5.5と関連API価格更新](../digests/2026/10/2026-10-07.md#claude-haiku-55) | 2026-10-07 |
 | 2026-10-07 | [Armin Ronacher：Codemodeの実装とツール合成](../digests/2026/10/2026-10-07.md#codemode-explained) | 2026-10-06 |
+
+## 2026-10-08
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-08 | [Google Cloud：業務を横断するGemini agent](../digests/2026/10/2026-10-08.md#gemini-universal-agent) | 2026-10-08 |
+| 2026-10-08 | [Anthropic Cyber Mission：OSSスキャンと重要インフラ防御](../digests/2026/10/2026-10-08.md#anthropic-cyber-mission) | 2026-10-08 |
+| 2026-10-08 | [On：人手承認を残したエージェントによるクラウド移行](../digests/2026/10/2026-10-08.md#on-agent-cloud-migration) | 2026-10-08 |
+| 2026-10-08 | [Cactus：16.9MBの端末内音声認識Whistle](../digests/2026/10/2026-10-08.md#whistle-edge-speech) | 2026-10-02 |
+| 2026-10-08 | [Mitchell Hashimoto：プログラムの状態を伝えるOSC 7501](../digests/2026/10/2026-10-08.md#terminal-program-status) | 2026-10-06 |
+| 2026-10-08 | [Qiita：情報漏洩を入口と権限の手口で整理](../digests/2026/10/2026-10-08.md#qiita-leak-patterns) | 2026-10-06 |
