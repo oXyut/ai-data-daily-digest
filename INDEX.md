@@ -6,6 +6,19 @@
 
 ### October
 
+[2026-10-08号](digests/2026/10/2026-10-08.md) — AIニュース2件、事業向け3件、最近の話題のIT記事3件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Google Cloud：業務を横断するGemini agent](digests/2026/10/2026-10-08.md#gemini-universal-agent) | 2026-10-08 |
+| [Anthropic Cyber Mission：OSSスキャンと重要インフラ防御](digests/2026/10/2026-10-08.md#anthropic-cyber-mission) | 2026-10-08 |
+| [GoodData：ダッシュボード文脈と推論量設定を一般提供](digests/2026/10/2026-10-08.md#gooddata-dashboard-context) | 2026-10-08 |
+| [RealReal：一点物の在庫を自然言語で探すAsk TRR](digests/2026/10/2026-10-08.md#realreal-shopping-discovery) | 2026-10-08 |
+| [On：人手承認を残したエージェントによるクラウド移行](digests/2026/10/2026-10-08.md#on-agent-cloud-migration) | 2026-10-08 |
+| [Cactus：16.9MBの端末内音声認識Whistle](digests/2026/10/2026-10-08.md#whistle-edge-speech) | 2026-10-02 |
+| [Mitchell Hashimoto：プログラムの状態を伝えるOSC 7501](digests/2026/10/2026-10-08.md#terminal-program-status) | 2026-10-06 |
+| [Qiita：情報漏洩を入口と権限の手口で整理](digests/2026/10/2026-10-08.md#qiita-leak-patterns) | 2026-10-06 |
+
 [2026-10-07号](digests/2026/10/2026-10-07.md) — AIニュース3件、事業向けデータ分析2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
