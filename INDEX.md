@@ -6,6 +6,29 @@
 
 ### October
 
+[2026-10-07号](digests/2026/10/2026-10-07.md) — AIニュース3件、事業向けデータ分析2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [GPT-6とIntelligent UIをChatGPTへ展開](digests/2026/10/2026-10-07.md#gpt6-intelligent-ui) | 2026-10-07 |
+| [Claude Haiku 5.5と関連API価格更新](digests/2026/10/2026-10-07.md#claude-haiku-55) | 2026-10-07 |
+| [SynthID Detectorを一般公開](digests/2026/10/2026-10-07.md#synthid-detector) | 2026-10-07 |
+| [MSCI SignalLab：投資シグナルの検証と統合を支援](digests/2026/10/2026-10-07.md#msci-signallab) | 2026-10-07 |
+| [実験・SHAP・予測区間で高性能コンクリートの配合を評価](digests/2026/10/2026-10-07.md#uhpc-shap-design) | 2026-10-07 |
+| [Armin Ronacher：Codemodeの実装とツール合成](digests/2026/10/2026-10-07.md#codemode-explained) | 2026-10-06 |
+| [Zenn：GraphRAGをナレッジグラフから解説](digests/2026/10/2026-10-07.md#graphrag-practical-intro) | 2026-10-05 |
+
+[2026-10-06号](digests/2026/10/2026-10-06.md) — AIニュース3件、事業向けデータ分析2件、最近の話題のIT記事1件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Mistral Large 4のAPI公開プレビュー](digests/2026/10/2026-10-06.md#mistral-large-4) | 2026-10-06 |
+| [EmbeddingGemma 2：端末上のマルチモーダル検索](digests/2026/10/2026-10-06.md#embeddinggemma-2) | 2026-10-06 |
+| [OpenAI Decisions APIのpublic beta](digests/2026/10/2026-10-06.md#openai-decisions-api) | 2026-10-06 |
+| [富士通：小売の分析から施策立案を支える4エージェント](digests/2026/10/2026-10-06.md#fujitsu-retail-agents) | 2026-10-06 |
+| [Polars 2.0：メモリ制約下の分析とSQLを強化](digests/2026/10/2026-10-06.md#polars-2) | 2026-10-06 |
+| [Gleam：Erlangソース生成からabstract formsへ](digests/2026/10/2026-10-06.md#gleam-abstract-forms) | 2026-10-05 |
+
 [2026-10-05号](digests/2026/10/2026-10-05.md) — 前日AIニュース3件、事業向けデータ分析2件、最近の話題のIT記事3件。ブログ枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |

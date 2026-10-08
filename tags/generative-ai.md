@@ -86,3 +86,23 @@
 | 2026-10-05 | [GitHub ReviewBench](../digests/2026/10/2026-10-05.md#github-reviewbench) | 2026-10-05 |
 | 2026-10-05 | [スマートウォッチレビューから製品改善点を抽出](../digests/2026/10/2026-10-05.md#smartwatch-review-preferences) | 2026-10-05 |
 | 2026-10-05 | [AIプログラミングの評価ループ](../digests/2026/10/2026-10-05.md#mizchi-ai-coding-loop) | 2026-10-05 |
+
+## 2026-10-06
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-06 | [Mistral Large 4のAPI公開プレビュー](../digests/2026/10/2026-10-06.md#mistral-large-4) | 2026-10-06 |
+| 2026-10-06 | [EmbeddingGemma 2：端末上のマルチモーダル検索](../digests/2026/10/2026-10-06.md#embeddinggemma-2) | 2026-10-06 |
+| 2026-10-06 | [OpenAI Decisions APIのpublic beta](../digests/2026/10/2026-10-06.md#openai-decisions-api) | 2026-10-06 |
+| 2026-10-06 | [富士通：小売の分析から施策立案を支える4エージェント](../digests/2026/10/2026-10-06.md#fujitsu-retail-agents) | 2026-10-06 |
+
+## 2026-10-07
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-07 | [GPT-6とIntelligent UIをChatGPTへ展開](../digests/2026/10/2026-10-07.md#gpt6-intelligent-ui) | 2026-10-07 |
+| 2026-10-07 | [Claude Haiku 5.5と関連API価格更新](../digests/2026/10/2026-10-07.md#claude-haiku-55) | 2026-10-07 |
+| 2026-10-07 | [SynthID Detectorを一般公開](../digests/2026/10/2026-10-07.md#synthid-detector) | 2026-10-07 |
+| 2026-10-07 | [MSCI SignalLab：投資シグナルの検証と統合を支援](../digests/2026/10/2026-10-07.md#msci-signallab) | 2026-10-07 |
+| 2026-10-07 | [Armin Ronacher：Codemodeの実装とツール合成](../digests/2026/10/2026-10-07.md#codemode-explained) | 2026-10-06 |
+| 2026-10-07 | [Zenn：GraphRAGをナレッジグラフから解説](../digests/2026/10/2026-10-07.md#graphrag-practical-intro) | 2026-10-05 |
