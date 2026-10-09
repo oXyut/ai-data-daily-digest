@@ -92,3 +92,11 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-10-08 | [Cactus：16.9MBの端末内音声認識Whistle](../digests/2026/10/2026-10-08.md#whistle-edge-speech) | 2026-10-02 |
+
+## 2026-10-09
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-09 | [Microsoft-Decision-1：固定選択肢を高速評価](../digests/2026/10/2026-10-09.md#microsoft-decision-1) | 2026-10-09 |
+| 2026-10-09 | [能動学習と幾何学的深層学習による創薬反応予測](../digests/2026/10/2026-10-09.md#active-geometric-drug-discovery) | 2026-10-09（先行版は2025-07-15） |
+| 2026-10-09 | [医療で読める数式モデルを作るsymbolic regression](../digests/2026/10/2026-10-09.md#symbolic-regression-healthcare) | 2026-10-09 |
