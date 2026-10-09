@@ -117,3 +117,10 @@
 | --- | --- | --- |
 | 2026-10-08 | [GoodData：ダッシュボード文脈と推論量設定を一般提供](../digests/2026/10/2026-10-08.md#gooddata-dashboard-context) | 2026-10-08 |
 | 2026-10-08 | [RealReal：一点物の在庫を自然言語で探すAsk TRR](../digests/2026/10/2026-10-08.md#realreal-shopping-discovery) | 2026-10-08 |
+
+## 2026-10-09
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-09 | [能動学習と幾何学的深層学習による創薬反応予測](../digests/2026/10/2026-10-09.md#active-geometric-drug-discovery) | 2026-10-09（先行版は2025-07-15） |
+| 2026-10-09 | [医療で読める数式モデルを作るsymbolic regression](../digests/2026/10/2026-10-09.md#symbolic-regression-healthcare) | 2026-10-09 |
