@@ -6,6 +6,19 @@
 
 ### October
 
+[2026-10-09号](digests/2026/10/2026-10-09.md) — AIニュース4件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Microsoft-Decision-1：固定選択肢を高速評価](digests/2026/10/2026-10-09.md#microsoft-decision-1) | 2026-10-09 |
+| [Microsoft：AX Practitioner Playbook](digests/2026/10/2026-10-09.md#ax-practitioner-playbook) | 2026-10-09 |
+| [Postman：4,000万人規模の製品へAgent Modeを組み込む設計](digests/2026/10/2026-10-09.md#postman-agent-mode) | 2026-10-09 |
+| [IndosatとF5：モデル利用を統制するIntelligence Suite](digests/2026/10/2026-10-09.md#indosat-intelligence-suite) | 2026-10-09 |
+| [能動学習と幾何学的深層学習による創薬反応予測](digests/2026/10/2026-10-09.md#active-geometric-drug-discovery) | 2026-10-09（先行版は2025-07-15） |
+| [医療で読める数式モデルを作るsymbolic regression](digests/2026/10/2026-10-09.md#symbolic-regression-healthcare) | 2026-10-09 |
+| [DeepSeek 4.1 Flashの費用対効果を問う利用者記事](digests/2026/10/2026-10-09.md#deepseek-41-flash-commentary) | 2026-10-07 |
+| [DenoがCloudflareへ合流](digests/2026/10/2026-10-09.md#deno-joins-cloudflare) | 2026-10-09 |
+
 [2026-10-08号](digests/2026/10/2026-10-08.md) — AIニュース2件、事業向け3件、最近の話題のIT記事3件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
