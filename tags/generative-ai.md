@@ -116,3 +116,12 @@
 | 2026-10-08 | [GoodData：ダッシュボード文脈と推論量設定を一般提供](../digests/2026/10/2026-10-08.md#gooddata-dashboard-context) | 2026-10-08 |
 | 2026-10-08 | [RealReal：一点物の在庫を自然言語で探すAsk TRR](../digests/2026/10/2026-10-08.md#realreal-shopping-discovery) | 2026-10-08 |
 | 2026-10-08 | [On：人手承認を残したエージェントによるクラウド移行](../digests/2026/10/2026-10-08.md#on-agent-cloud-migration) | 2026-10-08 |
+
+## 2026-10-09
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-09 | [Microsoft：AX Practitioner Playbook](../digests/2026/10/2026-10-09.md#ax-practitioner-playbook) | 2026-10-09 |
+| 2026-10-09 | [Postman：4,000万人規模の製品へAgent Modeを組み込む設計](../digests/2026/10/2026-10-09.md#postman-agent-mode) | 2026-10-09 |
+| 2026-10-09 | [IndosatとF5：モデル利用を統制するIntelligence Suite](../digests/2026/10/2026-10-09.md#indosat-intelligence-suite) | 2026-10-09 |
+| 2026-10-09 | [DeepSeek 4.1 Flashの費用対効果を問う利用者記事](../digests/2026/10/2026-10-09.md#deepseek-41-flash-commentary) | 2026-10-07 |
