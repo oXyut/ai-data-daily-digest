@@ -6,6 +6,7 @@
 - [Data Science](data-science.md)
 - [Machine Learning](machine-learning.md)
 - [Data Engineering](data-engineering.md)
+- [Developer Tools](developer-tools.md)（2026-10-06号以降）
 
 記事には必要に応じて `llm`, `agents`, `research`, `analytics`, `developer-tools` などの補助タグも付与します。
 

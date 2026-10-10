@@ -6,6 +6,32 @@
 
 ### October
 
+[2026-10-09号](digests/2026/10/2026-10-09.md) — AIニュース4件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Microsoft-Decision-1：固定選択肢を高速評価](digests/2026/10/2026-10-09.md#microsoft-decision-1) | 2026-10-09 |
+| [Microsoft：AX Practitioner Playbook](digests/2026/10/2026-10-09.md#ax-practitioner-playbook) | 2026-10-09 |
+| [Postman：4,000万人規模の製品へAgent Modeを組み込む設計](digests/2026/10/2026-10-09.md#postman-agent-mode) | 2026-10-09 |
+| [IndosatとF5：モデル利用を統制するIntelligence Suite](digests/2026/10/2026-10-09.md#indosat-intelligence-suite) | 2026-10-09 |
+| [能動学習と幾何学的深層学習による創薬反応予測](digests/2026/10/2026-10-09.md#active-geometric-drug-discovery) | 2026-10-09（先行版は2025-07-15） |
+| [医療で読める数式モデルを作るsymbolic regression](digests/2026/10/2026-10-09.md#symbolic-regression-healthcare) | 2026-10-09 |
+| [DeepSeek 4.1 Flashの費用対効果を問う利用者記事](digests/2026/10/2026-10-09.md#deepseek-41-flash-commentary) | 2026-10-07 |
+| [DenoがCloudflareへ合流](digests/2026/10/2026-10-09.md#deno-joins-cloudflare) | 2026-10-09 |
+
+[2026-10-08号](digests/2026/10/2026-10-08.md) — AIニュース2件、事業向け3件、最近の話題のIT記事3件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Google Cloud：業務を横断するGemini agent](digests/2026/10/2026-10-08.md#gemini-universal-agent) | 2026-10-08 |
+| [Anthropic Cyber Mission：OSSスキャンと重要インフラ防御](digests/2026/10/2026-10-08.md#anthropic-cyber-mission) | 2026-10-08 |
+| [GoodData：ダッシュボード文脈と推論量設定を一般提供](digests/2026/10/2026-10-08.md#gooddata-dashboard-context) | 2026-10-08 |
+| [RealReal：一点物の在庫を自然言語で探すAsk TRR](digests/2026/10/2026-10-08.md#realreal-shopping-discovery) | 2026-10-08 |
+| [On：人手承認を残したエージェントによるクラウド移行](digests/2026/10/2026-10-08.md#on-agent-cloud-migration) | 2026-10-08 |
+| [Cactus：16.9MBの端末内音声認識Whistle](digests/2026/10/2026-10-08.md#whistle-edge-speech) | 2026-10-02 |
+| [Mitchell Hashimoto：プログラムの状態を伝えるOSC 7501](digests/2026/10/2026-10-08.md#terminal-program-status) | 2026-10-06 |
+| [Qiita：情報漏洩を入口と権限の手口で整理](digests/2026/10/2026-10-08.md#qiita-leak-patterns) | 2026-10-06 |
+
 [2026-10-07号](digests/2026/10/2026-10-07.md) — AIニュース3件、事業向けデータ分析2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
