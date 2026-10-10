@@ -6,6 +6,16 @@
 
 ### October
 
+[2026-10-10号](digests/2026/10/2026-10-10.md) — AIニュース0件（適格項目なし）、事業向け2件、最近の話題のIT記事3件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [P2P融資のデフォルト予測](digests/2026/10/2026-10-10.md#credit-default-cnn) | 2026-10-10 |
+| [精密農業のハイブリッドML](digests/2026/10/2026-10-10.md#precision-agriculture-hybrid-ml) | 2026-10-10 |
+| [Jane Street：自己回帰拡散による市場データ生成](digests/2026/10/2026-10-10.md#market-data-autoregressive-diffusion) | 2026-09-30 |
+| [MotherDuck：DuckDB 2.0 alphaの高速化](digests/2026/10/2026-10-10.md#duckdb-2-performance) | 2026-09-10 |
+| [Telegram DesktopのIPC注入脆弱性](digests/2026/10/2026-10-10.md#telegram-ipc-injection) | 2026-10-03（10/7更新） |
+
 [2026-10-09号](digests/2026/10/2026-10-09.md) — AIニュース4件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |

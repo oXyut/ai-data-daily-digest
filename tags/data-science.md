@@ -124,3 +124,11 @@
 | --- | --- | --- |
 | 2026-10-09 | [能動学習と幾何学的深層学習による創薬反応予測](../digests/2026/10/2026-10-09.md#active-geometric-drug-discovery) | 2026-10-09（先行版は2025-07-15） |
 | 2026-10-09 | [医療で読める数式モデルを作るsymbolic regression](../digests/2026/10/2026-10-09.md#symbolic-regression-healthcare) | 2026-10-09 |
+
+## 2026-10-10
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-10 | [P2P融資のデフォルト予測](../digests/2026/10/2026-10-10.md#credit-default-cnn) | 2026-10-10 |
+| 2026-10-10 | [精密農業のハイブリッドML](../digests/2026/10/2026-10-10.md#precision-agriculture-hybrid-ml) | 2026-10-10 |
+| 2026-10-10 | [Jane Street：自己回帰拡散による市場データ生成](../digests/2026/10/2026-10-10.md#market-data-autoregressive-diffusion) | 2026-09-30 |

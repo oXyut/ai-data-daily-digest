@@ -68,3 +68,9 @@
 | --- | --- | --- |
 | 2026-10-09 | [Postman：4,000万人規模の製品へAgent Modeを組み込む設計](../digests/2026/10/2026-10-09.md#postman-agent-mode) | 2026-10-09 |
 | 2026-10-09 | [IndosatとF5：モデル利用を統制するIntelligence Suite](../digests/2026/10/2026-10-09.md#indosat-intelligence-suite) | 2026-10-09 |
+
+## 2026-10-10
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-10 | [MotherDuck：DuckDB 2.0 alphaの高速化](../digests/2026/10/2026-10-10.md#duckdb-2-performance) | 2026-09-10 |
