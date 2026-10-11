@@ -46,3 +46,11 @@
 | --- | --- | --- |
 | 2026-10-10 | [MotherDuck：DuckDB 2.0 alphaの高速化](../digests/2026/10/2026-10-10.md#duckdb-2-performance) | 2026-09-10 |
 | 2026-10-10 | [Telegram DesktopのIPC注入脆弱性](../digests/2026/10/2026-10-10.md#telegram-ipc-injection) | 2026-10-03（10/7更新） |
+
+## 2026-10-11
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-11 | [AI移植でも設計判断とレビューは必要](../digests/2026/10/2026-10-11.md#ai-rewrite-review) | 2026-10-11 |
+| 2026-10-11 | [引用符内のチルダとPATH注入](../digests/2026/10/2026-10-11.md#tilde-path) | 2026-10-02 |
+| 2026-10-11 | [Qiita：AIエージェントへのAPIキーの渡し方](../digests/2026/10/2026-10-11.md#qiita-agent-secrets) | 2026-10-05 |
