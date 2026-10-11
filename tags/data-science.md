@@ -132,3 +132,11 @@
 | 2026-10-10 | [P2P融資のデフォルト予測](../digests/2026/10/2026-10-10.md#credit-default-cnn) | 2026-10-10 |
 | 2026-10-10 | [精密農業のハイブリッドML](../digests/2026/10/2026-10-10.md#precision-agriculture-hybrid-ml) | 2026-10-10 |
 | 2026-10-10 | [Jane Street：自己回帰拡散による市場データ生成](../digests/2026/10/2026-10-10.md#market-data-autoregressive-diffusion) | 2026-09-30 |
+
+## 2026-10-11
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-11 | [手術前データによる周術期リスク予測](../digests/2026/10/2026-10-11.md#thymic-perioperative-risk) | 2026-10-11 |
+| 2026-10-11 | [HIV検査施策の予測・シミュレーション](../digests/2026/10/2026-10-11.md#hiv-testing-interventions) | 2026-10-11 |
+| 2026-10-11 | [測定誤差がML精度・特徴重要度へ与える影響](../digests/2026/10/2026-10-11.md#measurement-error-ml) | 2026-10-11 |
