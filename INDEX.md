@@ -6,6 +6,19 @@
 
 ### October
 
+[2026-10-12号](digests/2026/10/2026-10-12.md) — AIニュース3件、事業向け2件、最近の話題のIT記事3件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Meta Muse Wonder](digests/2026/10/2026-10-12.md#muse-wonder) | 2026-10-12 |
+| [Microsoft Azure Maia 300](digests/2026/10/2026-10-12.md#azure-maia-300) | 2026-10-12 |
+| [材料特性予測におけるLLMの幾何情報の限界](digests/2026/10/2026-10-12.md#llm-geometric-blindness) | 2026-10-12 |
+| [AMLの調査キュー優先順位付け](digests/2026/10/2026-10-12.md#aml-risk-ranking) | 2026-10-12 |
+| [LSTM・太陽光・蓄電池によるスマート灌漑](digests/2026/10/2026-10-12.md#solar-irrigation) | 2026-10-12 |
+| [Zigの型安全HTMLテンプレート](digests/2026/10/2026-10-12.md#zig-type-safe-templates) | 2026-10-11 |
+| [Google開発者サイト群のpickle RCE](digests/2026/10/2026-10-12.md#google-devsite-rce) | 2026-10-12 |
+| [AIコード生成とreview bottleneck](digests/2026/10/2026-10-12.md#ai-coding-review-bottleneck) | 2026-10-09 |
+
 [2026-10-11号](digests/2026/10/2026-10-11.md) — AIニュース0件（適格項目なし）、事業向け3件、最近の話題のIT記事3件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
