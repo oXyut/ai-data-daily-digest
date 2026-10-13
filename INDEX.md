@@ -6,6 +6,40 @@
 
 ### October
 
+[2026-10-12号](digests/2026/10/2026-10-12.md) — AIニュース3件、事業向け2件、最近の話題のIT記事3件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Meta Muse Wonder](digests/2026/10/2026-10-12.md#muse-wonder) | 2026-10-12 |
+| [Microsoft Azure Maia 300](digests/2026/10/2026-10-12.md#azure-maia-300) | 2026-10-12 |
+| [材料特性予測におけるLLMの幾何情報の限界](digests/2026/10/2026-10-12.md#llm-geometric-blindness) | 2026-10-12 |
+| [AMLの調査キュー優先順位付け](digests/2026/10/2026-10-12.md#aml-risk-ranking) | 2026-10-12 |
+| [LSTM・太陽光・蓄電池によるスマート灌漑](digests/2026/10/2026-10-12.md#solar-irrigation) | 2026-10-12 |
+| [Zigの型安全HTMLテンプレート](digests/2026/10/2026-10-12.md#zig-type-safe-templates) | 2026-10-11 |
+| [Google開発者サイト群のpickle RCE](digests/2026/10/2026-10-12.md#google-devsite-rce) | 2026-10-12 |
+| [AIコード生成とreview bottleneck](digests/2026/10/2026-10-12.md#ai-coding-review-bottleneck) | 2026-10-09 |
+
+[2026-10-11号](digests/2026/10/2026-10-11.md) — AIニュース0件（適格項目なし）、事業向け3件、最近の話題のIT記事3件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [手術前データによる周術期リスク予測](digests/2026/10/2026-10-11.md#thymic-perioperative-risk) | 2026-10-11 |
+| [HIV検査施策の予測・シミュレーション](digests/2026/10/2026-10-11.md#hiv-testing-interventions) | 2026-10-11 |
+| [測定誤差がML精度・特徴重要度へ与える影響](digests/2026/10/2026-10-11.md#measurement-error-ml) | 2026-10-11 |
+| [AI移植でも設計判断とレビューは必要](digests/2026/10/2026-10-11.md#ai-rewrite-review) | 2026-10-11 |
+| [引用符内のチルダとPATH注入](digests/2026/10/2026-10-11.md#tilde-path) | 2026-10-02 |
+| [Qiita：AIエージェントへのAPIキーの渡し方](digests/2026/10/2026-10-11.md#qiita-agent-secrets) | 2026-10-05 |
+
+[2026-10-10号](digests/2026/10/2026-10-10.md) — AIニュース0件（適格項目なし）、事業向け2件、最近の話題のIT記事3件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [P2P融資のデフォルト予測](digests/2026/10/2026-10-10.md#credit-default-cnn) | 2026-10-10 |
+| [精密農業のハイブリッドML](digests/2026/10/2026-10-10.md#precision-agriculture-hybrid-ml) | 2026-10-10 |
+| [Jane Street：自己回帰拡散による市場データ生成](digests/2026/10/2026-10-10.md#market-data-autoregressive-diffusion) | 2026-09-30 |
+| [MotherDuck：DuckDB 2.0 alphaの高速化](digests/2026/10/2026-10-10.md#duckdb-2-performance) | 2026-09-10 |
+| [Telegram DesktopのIPC注入脆弱性](digests/2026/10/2026-10-10.md#telegram-ipc-injection) | 2026-10-03（10/7更新） |
+
 [2026-10-09号](digests/2026/10/2026-10-09.md) — AIニュース4件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |

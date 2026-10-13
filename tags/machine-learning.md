@@ -100,3 +100,29 @@
 | 2026-10-09 | [Microsoft-Decision-1：固定選択肢を高速評価](../digests/2026/10/2026-10-09.md#microsoft-decision-1) | 2026-10-09 |
 | 2026-10-09 | [能動学習と幾何学的深層学習による創薬反応予測](../digests/2026/10/2026-10-09.md#active-geometric-drug-discovery) | 2026-10-09（先行版は2025-07-15） |
 | 2026-10-09 | [医療で読める数式モデルを作るsymbolic regression](../digests/2026/10/2026-10-09.md#symbolic-regression-healthcare) | 2026-10-09 |
+
+## 2026-10-10
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-10 | [P2P融資のデフォルト予測](../digests/2026/10/2026-10-10.md#credit-default-cnn) | 2026-10-10 |
+| 2026-10-10 | [精密農業のハイブリッドML](../digests/2026/10/2026-10-10.md#precision-agriculture-hybrid-ml) | 2026-10-10 |
+| 2026-10-10 | [Jane Street：自己回帰拡散による市場データ生成](../digests/2026/10/2026-10-10.md#market-data-autoregressive-diffusion) | 2026-09-30 |
+
+## 2026-10-11
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-11 | [手術前データによる周術期リスク予測](../digests/2026/10/2026-10-11.md#thymic-perioperative-risk) | 2026-10-11 |
+| 2026-10-11 | [HIV検査施策の予測・シミュレーション](../digests/2026/10/2026-10-11.md#hiv-testing-interventions) | 2026-10-11 |
+| 2026-10-11 | [測定誤差がML精度・特徴重要度へ与える影響](../digests/2026/10/2026-10-11.md#measurement-error-ml) | 2026-10-11 |
+
+## 2026-10-12
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-12 | [Meta Muse Wonder](../digests/2026/10/2026-10-12.md#muse-wonder) | 2026-10-12 |
+| 2026-10-12 | [Microsoft Azure Maia 300](../digests/2026/10/2026-10-12.md#azure-maia-300) | 2026-10-12 |
+| 2026-10-12 | [材料特性予測におけるLLMの幾何情報の限界](../digests/2026/10/2026-10-12.md#llm-geometric-blindness) | 2026-10-12 |
+| 2026-10-12 | [AMLの調査キュー優先順位付け](../digests/2026/10/2026-10-12.md#aml-risk-ranking) | 2026-10-12 |
+| 2026-10-12 | [LSTM・太陽光・蓄電池によるスマート灌漑](../digests/2026/10/2026-10-12.md#solar-irrigation) | 2026-10-12 |

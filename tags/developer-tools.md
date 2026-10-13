@@ -39,3 +39,28 @@
 | 2026-10-09 | [Postman：4,000万人規模の製品へAgent Modeを組み込む設計](../digests/2026/10/2026-10-09.md#postman-agent-mode) | 2026-10-09 |
 | 2026-10-09 | [DeepSeek 4.1 Flashの費用対効果を問う利用者記事](../digests/2026/10/2026-10-09.md#deepseek-41-flash-commentary) | 2026-10-07 |
 | 2026-10-09 | [DenoがCloudflareへ合流](../digests/2026/10/2026-10-09.md#deno-joins-cloudflare) | 2026-10-09 |
+
+## 2026-10-10
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-10 | [MotherDuck：DuckDB 2.0 alphaの高速化](../digests/2026/10/2026-10-10.md#duckdb-2-performance) | 2026-09-10 |
+| 2026-10-10 | [Telegram DesktopのIPC注入脆弱性](../digests/2026/10/2026-10-10.md#telegram-ipc-injection) | 2026-10-03（10/7更新） |
+
+## 2026-10-11
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-11 | [AI移植でも設計判断とレビューは必要](../digests/2026/10/2026-10-11.md#ai-rewrite-review) | 2026-10-11 |
+| 2026-10-11 | [引用符内のチルダとPATH注入](../digests/2026/10/2026-10-11.md#tilde-path) | 2026-10-02 |
+| 2026-10-11 | [Qiita：AIエージェントへのAPIキーの渡し方](../digests/2026/10/2026-10-11.md#qiita-agent-secrets) | 2026-10-05 |
+
+## 2026-10-12
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-12 | [Meta Muse Wonder](../digests/2026/10/2026-10-12.md#muse-wonder) | 2026-10-12 |
+| 2026-10-12 | [Microsoft Azure Maia 300](../digests/2026/10/2026-10-12.md#azure-maia-300) | 2026-10-12 |
+| 2026-10-12 | [Zigの型安全HTMLテンプレート](../digests/2026/10/2026-10-12.md#zig-type-safe-templates) | 2026-10-11 |
+| 2026-10-12 | [Google開発者サイト群のpickle RCE](../digests/2026/10/2026-10-12.md#google-devsite-rce) | 2026-10-12 |
+| 2026-10-12 | [AIコード生成とreview bottleneck](../digests/2026/10/2026-10-12.md#ai-coding-review-bottleneck) | 2026-10-09 |
