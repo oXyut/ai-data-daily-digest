@@ -6,6 +6,19 @@
 
 ### October
 
+[2026-10-13号](digests/2026/10/2026-10-13.md) — AIニュース3件、事業向け3件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [GitHub CopilotでGemini 4 Argonの提供開始](digests/2026/10/2026-10-13.md#copilot-argon) | 2026-10-13 |
+| [Copilotの企業ポリシーを起動時に再確認](digests/2026/10/2026-10-13.md#copilot-managed-settings) | 2026-10-13 |
+| [GitHub、AI Scanの検出・修正指標を追加](digests/2026/10/2026-10-13.md#github-ai-scan-metrics) | 2026-10-13 |
+| [Workday、タスクとスキルからAI導入・人材育成を計画](digests/2026/10/2026-10-13.md#workday-work-intelligence) | 2026-10-13 |
+| [企業の財務危機を関係グラフと時系列で早期警告](digests/2026/10/2026-10-13.md#financial-crisis-graph) | 2026-10-13 |
+| [建物の電力予測を現場記録と公開データで評価](digests/2026/10/2026-10-13.md#building-energy-forecast) | 2026-10-13 |
+| [Anthropic、エージェント規模のソース管理Scionを解説](digests/2026/10/2026-10-13.md#anthropic-scion) | 2026-10-13 |
+| [ゲームをAI agentが観測・再現できるharnessにする](digests/2026/10/2026-10-13.md#game-agent-harness) | 2026-10-10 |
+
 [2026-10-12号](digests/2026/10/2026-10-12.md) — AIニュース3件、事業向け2件、最近の話題のIT記事3件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |

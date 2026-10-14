@@ -64,3 +64,13 @@
 | 2026-10-12 | [Zigの型安全HTMLテンプレート](../digests/2026/10/2026-10-12.md#zig-type-safe-templates) | 2026-10-11 |
 | 2026-10-12 | [Google開発者サイト群のpickle RCE](../digests/2026/10/2026-10-12.md#google-devsite-rce) | 2026-10-12 |
 | 2026-10-12 | [AIコード生成とreview bottleneck](../digests/2026/10/2026-10-12.md#ai-coding-review-bottleneck) | 2026-10-09 |
+
+## 2026-10-13
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-13 | [GitHub CopilotでGemini 4 Argonの提供開始](../digests/2026/10/2026-10-13.md#copilot-argon) | 2026-10-13 |
+| 2026-10-13 | [Copilotの企業ポリシーを起動時に再確認](../digests/2026/10/2026-10-13.md#copilot-managed-settings) | 2026-10-13 |
+| 2026-10-13 | [GitHub、AI Scanの検出・修正指標を追加](../digests/2026/10/2026-10-13.md#github-ai-scan-metrics) | 2026-10-13 |
+| 2026-10-13 | [Anthropic、エージェント規模のソース管理Scionを解説](../digests/2026/10/2026-10-13.md#anthropic-scion) | 2026-10-13 |
+| 2026-10-13 | [ゲームをAI agentが観測・再現できるharnessにする](../digests/2026/10/2026-10-13.md#game-agent-harness) | 2026-10-10 |
