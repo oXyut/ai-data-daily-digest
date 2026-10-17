@@ -6,6 +6,43 @@
 
 ### October
 
+[2026-10-17号](digests/2026/10/2026-10-17.md) — AIニュース1件、事業向け1件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [DeepSeek-V4.1-Flash-1017：coding・agent性能を更新し検索APIも公開](digests/2026/10/2026-10-17.md#deepseek-v41-flash-1017) | 2026-10-17 |
+| [農業AIの精度から導入可能性までを横断評価](digests/2026/10/2026-10-17.md#agriculture-ai-deployment-review) | 2026-10-17 |
+| [ClaudeがNIST楕円曲線seedの生成過程を再現](digests/2026/10/2026-10-17.md#anthropic-ecdsa-seeds) | 2026-10-16 |
+| [llmspeed：購入前にlocal LLMの体感速度を比べる](digests/2026/10/2026-10-17.md#llmspeed-local-inference) | 2026-08-28（公開launchは2026-10-17） |
+
+[2026-10-16号](digests/2026/10/2026-10-16.md) — AIニュース1件、事業向け2件、話題のIT記事1件。補完号・話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Reflection Beam：予告から重み・開発基盤の公開へ](digests/2026/10/2026-10-16.md#beam-open-release) | 2026-10-16 |
+| [npmマルウェア選別：低価格LLMへ静的解析の専門知識を補う](digests/2026/10/2026-10-16.md#npm-malware-triage) | 2026-10-16 |
+| [再生骨材コンクリートの配合候補をMLで絞る](digests/2026/10/2026-10-16.md#recycled-concrete) | 2026-10-16 |
+| [JPEG XLとAVIFをWeb画像の用途別に比較](digests/2026/10/2026-10-16.md#jpeg-xl-avif) | 2026-10-15 |
+
+[2026-10-15号](digests/2026/10/2026-10-15.md) — AIニュース1件、事業向け2件、話題のIT記事1件。補完号・話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Muse Spark Open：816Bのopen-weightマルチモーダルモデル](digests/2026/10/2026-10-15.md#muse-spark-open) | 2026-10-15 |
+| [加盟店の将来GMVを予測し営業・支援先を優先順位付け](digests/2026/10/2026-10-15.md#merchant-growth) | 2026-10-15 |
+| [Lakebase Search：検索品質・cache・費用のトレードオフを実測](digests/2026/10/2026-10-15.md#lakebase-search-sizing) | 2026-10-15 |
+| [実機トレースをAIへ渡しLinuxドライバを改善](digests/2026/10/2026-10-15.md#ai-hardware-reverse) | 2026-10-15 |
+
+[2026-10-14号](digests/2026/10/2026-10-14.md) — AIニュース2件、事業向け2件、話題のIT記事1件。補完号・話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Grok Voice 3.0：音声対話モデルとlatest参照先を更新](digests/2026/10/2026-10-14.md#grok-voice-3) | 2026-10-14 |
+| [Jev 1.14：実験的な画像入力とbox出力を公開](digests/2026/10/2026-10-14.md#jev-114-images) | 2026-10-14 |
+| [LSEG：市場データ分析をGPUで高速化し意思決定へ近づける](digests/2026/10/2026-10-14.md#lseg-cudf) | 2026-10-14 |
+| [Meta：専門家主導の医療データ研究をAIで支援](digests/2026/10/2026-10-14.md#muse-health-research) | 2026-10-14 |
+| [Go 1.27のHTTP/1接続再利用：Body.Closeの落とし穴を解説](digests/2026/10/2026-10-14.md#go-http-reuse) | 2026-10-14 |
+
 [2026-10-13号](digests/2026/10/2026-10-13.md) — AIニュース3件、事業向け3件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
