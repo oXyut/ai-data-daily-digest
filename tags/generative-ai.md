@@ -181,3 +181,9 @@
 | 2026-10-17 | [DeepSeek-V4.1-Flash-1017：coding・agent性能を更新し検索APIも公開](../digests/2026/10/2026-10-17.md#deepseek-v41-flash-1017) | 2026-10-17 |
 | 2026-10-17 | [ClaudeがNIST楕円曲線seedの生成過程を再現](../digests/2026/10/2026-10-17.md#anthropic-ecdsa-seeds) | 2026-10-16 |
 | 2026-10-17 | [llmspeed：購入前にlocal LLMの体感速度を比べる](../digests/2026/10/2026-10-17.md#llmspeed-local-inference) | 2026-08-28（公開launchは2026-10-17） |
+
+## 2026-10-18
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-18 | [Transformerを連想記憶として理解する技術解説](../digests/2026/10/2026-10-18.md#transformers-associative-memory) | 2026-10-15 |
