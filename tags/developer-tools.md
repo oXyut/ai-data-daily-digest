@@ -106,3 +106,13 @@
 | 2026-10-17 | [DeepSeek-V4.1-Flash-1017：coding・agent性能を更新し検索APIも公開](../digests/2026/10/2026-10-17.md#deepseek-v41-flash-1017) | 2026-10-17 |
 | 2026-10-17 | [ClaudeがNIST楕円曲線seedの生成過程を再現](../digests/2026/10/2026-10-17.md#anthropic-ecdsa-seeds) | 2026-10-16 |
 | 2026-10-17 | [llmspeed：購入前にlocal LLMの体感速度を比べる](../digests/2026/10/2026-10-17.md#llmspeed-local-inference) | 2026-08-28（公開launchは2026-10-17） |
+
+## 2026-10-19
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-19 | [Mercury 3：diffusion LLMを高速agent向けに拡張](../digests/2026/10/2026-10-19.md#mercury-3) | 2026-10-19 |
+| 2026-10-19 | [MiniMax M3.1 Flash：agent・coding向け高速モデルを提供](../digests/2026/10/2026-10-19.md#minimax-m31-flash) | 2026-10-19 |
+| 2026-10-19 | [Gemini Notebook：スライド・動画の生成前に構成を確認](../digests/2026/10/2026-10-19.md#gemini-notebook-review) | 2026-10-19 |
+| 2026-10-19 | [Databricks：変更なしのjob保存を設定変更履歴から除外](../digests/2026/10/2026-10-19.md#lakeflow-unchanged-job-history) | 2026-10-19 |
+| 2026-10-19 | [Parser Combinators：小さなparserを組み合わせてログを構造化](../digests/2026/10/2026-10-19.md#parser-combinators) | 2026-10-17 |
