@@ -161,3 +161,11 @@
 | --- | --- | --- |
 | 2026-10-18 | [生鮮品サプライチェーンの回復力を地域パネルデータから評価](../digests/2026/10/2026-10-18.md#fresh-supply-chain-resilience) | 2026-10-18 |
 | 2026-10-18 | [Transformerを連想記憶として理解する技術解説](../digests/2026/10/2026-10-18.md#transformers-associative-memory) | 2026-10-15 |
+
+## 2026-10-19
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-19 | [Mercury 3：diffusion LLMを高速agent向けに拡張](../digests/2026/10/2026-10-19.md#mercury-3) | 2026-10-19 |
+| 2026-10-19 | [MiniMax M3.1 Flash：agent・coding向け高速モデルを提供](../digests/2026/10/2026-10-19.md#minimax-m31-flash) | 2026-10-19 |
+| 2026-10-19 | [時系列基盤モデルを精度・再学習頻度・電力で比較](../digests/2026/10/2026-10-19.md#cost-aware-forecasting) | 2026-10-19 |
