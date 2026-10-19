@@ -6,6 +6,17 @@
 
 ### October
 
+[2026-10-19号](digests/2026/10/2026-10-19.md) — AIニュース3件、事業向け2件、最近の話題のIT記事1件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Mercury 3：diffusion LLMを高速agent向けに拡張](digests/2026/10/2026-10-19.md#mercury-3) | 2026-10-19 |
+| [MiniMax M3.1 Flash：agent・coding向け高速モデルを提供](digests/2026/10/2026-10-19.md#minimax-m31-flash) | 2026-10-19 |
+| [Gemini Notebook：スライド・動画の生成前に構成を確認](digests/2026/10/2026-10-19.md#gemini-notebook-review) | 2026-10-19 |
+| [時系列基盤モデルを精度・再学習頻度・電力で比較](digests/2026/10/2026-10-19.md#cost-aware-forecasting) | 2026-10-19 |
+| [Databricks：変更なしのjob保存を設定変更履歴から除外](digests/2026/10/2026-10-19.md#lakeflow-unchanged-job-history) | 2026-10-19 |
+| [Parser Combinators：小さなparserを組み合わせてログを構造化](digests/2026/10/2026-10-19.md#parser-combinators) | 2026-10-17 |
+
 [2026-10-18号](digests/2026/10/2026-10-18.md) — AIニュース0件、事業向け1件、最近の話題のIT記事1件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
