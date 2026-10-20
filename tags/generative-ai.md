@@ -195,3 +195,11 @@
 | 2026-10-19 | [Mercury 3：diffusion LLMを高速agent向けに拡張](../digests/2026/10/2026-10-19.md#mercury-3) | 2026-10-19 |
 | 2026-10-19 | [MiniMax M3.1 Flash：agent・coding向け高速モデルを提供](../digests/2026/10/2026-10-19.md#minimax-m31-flash) | 2026-10-19 |
 | 2026-10-19 | [Gemini Notebook：スライド・動画の生成前に構成を確認](../digests/2026/10/2026-10-19.md#gemini-notebook-review) | 2026-10-19 |
+
+## 2026-10-20
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-20 | [Voxtral 3：音声認識・合成とvoice agent SDKを一体化](../digests/2026/10/2026-10-20.md#voxtral-3) | 2026-10-20 |
+| 2026-10-20 | [OpenAI：Orchestra BioをRosalindへ統合](../digests/2026/10/2026-10-20.md#openai-orchestra-bio) | 2026-10-20 |
+| 2026-10-20 | [Google AntigravityでClaude Opus 5.5／Sonnet 5.5を提供](../digests/2026/10/2026-10-20.md#antigravity-claude-55) | 2026-10-20 |
