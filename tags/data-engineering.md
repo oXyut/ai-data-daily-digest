@@ -92,3 +92,10 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-10-19 | [Databricks：変更なしのjob保存を設定変更履歴から除外](../digests/2026/10/2026-10-19.md#lakeflow-unchanged-job-history) | 2026-10-19 |
+
+## 2026-10-20
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-20 | [Boeing Dataliner：航空機データをfleet単位の保守判断へ統合](../digests/2026/10/2026-10-20.md#boeing-dataliner) | 2026-10-20 |
+| 2026-10-20 | [Databricks：調査・marketing・work管理のmanaged connectorをBeta提供](../digests/2026/10/2026-10-20.md#lakeflow-saas-connectors) | 2026-10-20 |
