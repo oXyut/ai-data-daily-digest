@@ -116,3 +116,13 @@
 | 2026-10-19 | [Gemini Notebook：スライド・動画の生成前に構成を確認](../digests/2026/10/2026-10-19.md#gemini-notebook-review) | 2026-10-19 |
 | 2026-10-19 | [Databricks：変更なしのjob保存を設定変更履歴から除外](../digests/2026/10/2026-10-19.md#lakeflow-unchanged-job-history) | 2026-10-19 |
 | 2026-10-19 | [Parser Combinators：小さなparserを組み合わせてログを構造化](../digests/2026/10/2026-10-19.md#parser-combinators) | 2026-10-17 |
+
+## 2026-10-20
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-20 | [Voxtral 3：音声認識・合成とvoice agent SDKを一体化](../digests/2026/10/2026-10-20.md#voxtral-3) | 2026-10-20 |
+| 2026-10-20 | [Google AntigravityでClaude Opus 5.5／Sonnet 5.5を提供](../digests/2026/10/2026-10-20.md#antigravity-claude-55) | 2026-10-20 |
+| 2026-10-20 | [Databricks：調査・marketing・work管理のmanaged connectorをBeta提供](../digests/2026/10/2026-10-20.md#lakeflow-saas-connectors) | 2026-10-20 |
+| 2026-10-20 | [tsrs：TypeScript compilerをRustへ移植しWasm実行を狙う](../digests/2026/10/2026-10-20.md#cloudflare-tsrs) | 2026-10-20 |
+| 2026-10-20 | [Qiita：PwnEscapeをLinux network stackの境界条件から整理](../digests/2026/10/2026-10-20.md#qiita-pwnescape) | 2026-10-16（10/20更新） |
