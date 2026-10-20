@@ -196,3 +196,11 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-10-19 | [時系列基盤モデルを精度・再学習頻度・電力で比較](../digests/2026/10/2026-10-19.md#cost-aware-forecasting) | 2026-10-19 |
+
+## 2026-10-20
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-20 | [OpenAI：Orchestra BioをRosalindへ統合](../digests/2026/10/2026-10-20.md#openai-orchestra-bio) | 2026-10-20 |
+| 2026-10-20 | [Boeing Dataliner：航空機データをfleet単位の保守判断へ統合](../digests/2026/10/2026-10-20.md#boeing-dataliner) | 2026-10-20 |
+| 2026-10-20 | [Databricks：調査・marketing・work管理のmanaged connectorをBeta提供](../digests/2026/10/2026-10-20.md#lakeflow-saas-connectors) | 2026-10-20 |
