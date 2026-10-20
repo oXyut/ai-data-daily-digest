@@ -6,6 +6,18 @@
 
 ### October
 
+[2026-10-20号](digests/2026/10/2026-10-20.md) — AIニュース3件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Voxtral 3：音声認識・合成とvoice agent SDKを一体化](digests/2026/10/2026-10-20.md#voxtral-3) | 2026-10-20 |
+| [OpenAI：Orchestra BioをRosalindへ統合](digests/2026/10/2026-10-20.md#openai-orchestra-bio) | 2026-10-20 |
+| [Google AntigravityでClaude Opus 5.5／Sonnet 5.5を提供](digests/2026/10/2026-10-20.md#antigravity-claude-55) | 2026-10-20 |
+| [Boeing Dataliner：航空機データをfleet単位の保守判断へ統合](digests/2026/10/2026-10-20.md#boeing-dataliner) | 2026-10-20 |
+| [Databricks：調査・marketing・work管理のmanaged connectorをBeta提供](digests/2026/10/2026-10-20.md#lakeflow-saas-connectors) | 2026-10-20 |
+| [tsrs：TypeScript compilerをRustへ移植しWasm実行を狙う](digests/2026/10/2026-10-20.md#cloudflare-tsrs) | 2026-10-20 |
+| [Qiita：PwnEscapeをLinux network stackの境界条件から整理](digests/2026/10/2026-10-20.md#qiita-pwnescape) | 2026-10-16（10/20更新） |
+
 [2026-10-19号](digests/2026/10/2026-10-19.md) — AIニュース3件、事業向け2件、最近の話題のIT記事1件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
