@@ -151,3 +151,55 @@
 | 2026-10-13 | [GitHub、AI Scanの検出・修正指標を追加](../digests/2026/10/2026-10-13.md#github-ai-scan-metrics) | 2026-10-13 |
 | 2026-10-13 | [Anthropic、エージェント規模のソース管理Scionを解説](../digests/2026/10/2026-10-13.md#anthropic-scion) | 2026-10-13 |
 | 2026-10-13 | [ゲームをAI agentが観測・再現できるharnessにする](../digests/2026/10/2026-10-13.md#game-agent-harness) | 2026-10-10 |
+
+## 2026-10-14
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-14 | [Grok Voice 3.0：音声対話モデルとlatest参照先を更新](../digests/2026/10/2026-10-14.md#grok-voice-3) | 2026-10-14 |
+| 2026-10-14 | [Jev 1.14：実験的な画像入力とbox出力を公開](../digests/2026/10/2026-10-14.md#jev-114-images) | 2026-10-14 |
+| 2026-10-14 | [Meta：専門家主導の医療データ研究をAIで支援](../digests/2026/10/2026-10-14.md#muse-health-research) | 2026-10-14 |
+
+## 2026-10-15
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-15 | [Muse Spark Open：816Bのopen-weightマルチモーダルモデル](../digests/2026/10/2026-10-15.md#muse-spark-open) | 2026-10-15 |
+| 2026-10-15 | [実機トレースをAIへ渡しLinuxドライバを改善](../digests/2026/10/2026-10-15.md#ai-hardware-reverse) | 2026-10-15 |
+
+## 2026-10-16
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-16 | [Reflection Beam：予告から重み・開発基盤の公開へ](../digests/2026/10/2026-10-16.md#beam-open-release) | 2026-10-16 |
+| 2026-10-16 | [npmマルウェア選別：低価格LLMへ静的解析の専門知識を補う](../digests/2026/10/2026-10-16.md#npm-malware-triage) | 2026-10-16 |
+
+## 2026-10-17
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-17 | [DeepSeek-V4.1-Flash-1017：coding・agent性能を更新し検索APIも公開](../digests/2026/10/2026-10-17.md#deepseek-v41-flash-1017) | 2026-10-17 |
+| 2026-10-17 | [ClaudeがNIST楕円曲線seedの生成過程を再現](../digests/2026/10/2026-10-17.md#anthropic-ecdsa-seeds) | 2026-10-16 |
+| 2026-10-17 | [llmspeed：購入前にlocal LLMの体感速度を比べる](../digests/2026/10/2026-10-17.md#llmspeed-local-inference) | 2026-08-28（公開launchは2026-10-17） |
+
+## 2026-10-18
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-18 | [Transformerを連想記憶として理解する技術解説](../digests/2026/10/2026-10-18.md#transformers-associative-memory) | 2026-10-15 |
+
+## 2026-10-19
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-19 | [Mercury 3：diffusion LLMを高速agent向けに拡張](../digests/2026/10/2026-10-19.md#mercury-3) | 2026-10-19 |
+| 2026-10-19 | [MiniMax M3.1 Flash：agent・coding向け高速モデルを提供](../digests/2026/10/2026-10-19.md#minimax-m31-flash) | 2026-10-19 |
+| 2026-10-19 | [Gemini Notebook：スライド・動画の生成前に構成を確認](../digests/2026/10/2026-10-19.md#gemini-notebook-review) | 2026-10-19 |
+
+## 2026-10-20
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-20 | [Voxtral 3：音声認識・合成とvoice agent SDKを一体化](../digests/2026/10/2026-10-20.md#voxtral-3) | 2026-10-20 |
+| 2026-10-20 | [OpenAI：Orchestra BioをRosalindへ統合](../digests/2026/10/2026-10-20.md#openai-orchestra-bio) | 2026-10-20 |
+| 2026-10-20 | [Google AntigravityでClaude Opus 5.5／Sonnet 5.5を提供](../digests/2026/10/2026-10-20.md#antigravity-claude-55) | 2026-10-20 |

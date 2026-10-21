@@ -74,3 +74,55 @@
 | 2026-10-13 | [GitHub、AI Scanの検出・修正指標を追加](../digests/2026/10/2026-10-13.md#github-ai-scan-metrics) | 2026-10-13 |
 | 2026-10-13 | [Anthropic、エージェント規模のソース管理Scionを解説](../digests/2026/10/2026-10-13.md#anthropic-scion) | 2026-10-13 |
 | 2026-10-13 | [ゲームをAI agentが観測・再現できるharnessにする](../digests/2026/10/2026-10-13.md#game-agent-harness) | 2026-10-10 |
+
+## 2026-10-14
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-14 | [Grok Voice 3.0：音声対話モデルとlatest参照先を更新](../digests/2026/10/2026-10-14.md#grok-voice-3) | 2026-10-14 |
+| 2026-10-14 | [Jev 1.14：実験的な画像入力とbox出力を公開](../digests/2026/10/2026-10-14.md#jev-114-images) | 2026-10-14 |
+| 2026-10-14 | [Go 1.27のHTTP/1接続再利用：Body.Closeの落とし穴を解説](../digests/2026/10/2026-10-14.md#go-http-reuse) | 2026-10-14 |
+
+## 2026-10-15
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-15 | [Muse Spark Open：816Bのopen-weightマルチモーダルモデル](../digests/2026/10/2026-10-15.md#muse-spark-open) | 2026-10-15 |
+| 2026-10-15 | [Lakebase Search：検索品質・cache・費用のトレードオフを実測](../digests/2026/10/2026-10-15.md#lakebase-search-sizing) | 2026-10-15 |
+| 2026-10-15 | [実機トレースをAIへ渡しLinuxドライバを改善](../digests/2026/10/2026-10-15.md#ai-hardware-reverse) | 2026-10-15 |
+
+## 2026-10-16
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-16 | [Reflection Beam：予告から重み・開発基盤の公開へ](../digests/2026/10/2026-10-16.md#beam-open-release) | 2026-10-16 |
+| 2026-10-16 | [npmマルウェア選別：低価格LLMへ静的解析の専門知識を補う](../digests/2026/10/2026-10-16.md#npm-malware-triage) | 2026-10-16 |
+| 2026-10-16 | [JPEG XLとAVIFをWeb画像の用途別に比較](../digests/2026/10/2026-10-16.md#jpeg-xl-avif) | 2026-10-15 |
+
+## 2026-10-17
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-17 | [DeepSeek-V4.1-Flash-1017：coding・agent性能を更新し検索APIも公開](../digests/2026/10/2026-10-17.md#deepseek-v41-flash-1017) | 2026-10-17 |
+| 2026-10-17 | [ClaudeがNIST楕円曲線seedの生成過程を再現](../digests/2026/10/2026-10-17.md#anthropic-ecdsa-seeds) | 2026-10-16 |
+| 2026-10-17 | [llmspeed：購入前にlocal LLMの体感速度を比べる](../digests/2026/10/2026-10-17.md#llmspeed-local-inference) | 2026-08-28（公開launchは2026-10-17） |
+
+## 2026-10-19
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-19 | [Mercury 3：diffusion LLMを高速agent向けに拡張](../digests/2026/10/2026-10-19.md#mercury-3) | 2026-10-19 |
+| 2026-10-19 | [MiniMax M3.1 Flash：agent・coding向け高速モデルを提供](../digests/2026/10/2026-10-19.md#minimax-m31-flash) | 2026-10-19 |
+| 2026-10-19 | [Gemini Notebook：スライド・動画の生成前に構成を確認](../digests/2026/10/2026-10-19.md#gemini-notebook-review) | 2026-10-19 |
+| 2026-10-19 | [Databricks：変更なしのjob保存を設定変更履歴から除外](../digests/2026/10/2026-10-19.md#lakeflow-unchanged-job-history) | 2026-10-19 |
+| 2026-10-19 | [Parser Combinators：小さなparserを組み合わせてログを構造化](../digests/2026/10/2026-10-19.md#parser-combinators) | 2026-10-17 |
+
+## 2026-10-20
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-20 | [Voxtral 3：音声認識・合成とvoice agent SDKを一体化](../digests/2026/10/2026-10-20.md#voxtral-3) | 2026-10-20 |
+| 2026-10-20 | [Google AntigravityでClaude Opus 5.5／Sonnet 5.5を提供](../digests/2026/10/2026-10-20.md#antigravity-claude-55) | 2026-10-20 |
+| 2026-10-20 | [Databricks：調査・marketing・work管理のmanaged connectorをBeta提供](../digests/2026/10/2026-10-20.md#lakeflow-saas-connectors) | 2026-10-20 |
+| 2026-10-20 | [tsrs：TypeScript compilerをRustへ移植しWasm実行を狙う](../digests/2026/10/2026-10-20.md#cloudflare-tsrs) | 2026-10-20 |
+| 2026-10-20 | [Qiita：PwnEscapeをLinux network stackの境界条件から整理](../digests/2026/10/2026-10-20.md#qiita-pwnescape) | 2026-10-16（10/20更新） |

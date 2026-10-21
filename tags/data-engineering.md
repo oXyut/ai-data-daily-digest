@@ -74,3 +74,28 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-10-10 | [MotherDuck：DuckDB 2.0 alphaの高速化](../digests/2026/10/2026-10-10.md#duckdb-2-performance) | 2026-09-10 |
+
+## 2026-10-14
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-14 | [LSEG：市場データ分析をGPUで高速化し意思決定へ近づける](../digests/2026/10/2026-10-14.md#lseg-cudf) | 2026-10-14 |
+
+## 2026-10-15
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-15 | [Lakebase Search：検索品質・cache・費用のトレードオフを実測](../digests/2026/10/2026-10-15.md#lakebase-search-sizing) | 2026-10-15 |
+
+## 2026-10-19
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-19 | [Databricks：変更なしのjob保存を設定変更履歴から除外](../digests/2026/10/2026-10-19.md#lakeflow-unchanged-job-history) | 2026-10-19 |
+
+## 2026-10-20
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-20 | [Boeing Dataliner：航空機データをfleet単位の保守判断へ統合](../digests/2026/10/2026-10-20.md#boeing-dataliner) | 2026-10-20 |
+| 2026-10-20 | [Databricks：調査・marketing・work管理のmanaged connectorをBeta提供](../digests/2026/10/2026-10-20.md#lakeflow-saas-connectors) | 2026-10-20 |
