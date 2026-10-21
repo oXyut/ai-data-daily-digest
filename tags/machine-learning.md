@@ -175,3 +175,11 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-10-20 | [Voxtral 3：音声認識・合成とvoice agent SDKを一体化](../digests/2026/10/2026-10-20.md#voxtral-3) | 2026-10-20 |
+
+## 2026-10-21
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-21 | [Databricks AI Runtime：managed GPU trainingを一般提供](../digests/2026/10/2026-10-21.md#databricks-ai-runtime-ga) | 2026-10-21 |
+| 2026-10-21 | [数千のAI agentで脳細胞データから実験仮説を抽出](../digests/2026/10/2026-10-21.md#distributed-biological-reasoning) | 2026-10-21 |
+| 2026-10-21 | [SMEの生産計画をdigital twinで比較し納期達成率を改善](../digests/2026/10/2026-10-21.md#sme-digital-twin-scheduling) | 2026-10-21 |
