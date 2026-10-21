@@ -204,3 +204,11 @@
 | 2026-10-20 | [OpenAI：Orchestra BioをRosalindへ統合](../digests/2026/10/2026-10-20.md#openai-orchestra-bio) | 2026-10-20 |
 | 2026-10-20 | [Boeing Dataliner：航空機データをfleet単位の保守判断へ統合](../digests/2026/10/2026-10-20.md#boeing-dataliner) | 2026-10-20 |
 | 2026-10-20 | [Databricks：調査・marketing・work管理のmanaged connectorをBeta提供](../digests/2026/10/2026-10-20.md#lakeflow-saas-connectors) | 2026-10-20 |
+
+## 2026-10-21
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-21 | [数千のAI agentで脳細胞データから実験仮説を抽出](../digests/2026/10/2026-10-21.md#distributed-biological-reasoning) | 2026-10-21 |
+| 2026-10-21 | [SMEの生産計画をdigital twinで比較し納期達成率を改善](../digests/2026/10/2026-10-21.md#sme-digital-twin-scheduling) | 2026-10-21 |
+| 2026-10-21 | [DuckDB 2.0.0 LTS：server接続・非同期I/O・VARIANTを正式化](../digests/2026/10/2026-10-21.md#duckdb-200-lts) | 2026-10-21 |
