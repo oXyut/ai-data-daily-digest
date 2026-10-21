@@ -126,3 +126,13 @@
 | 2026-10-20 | [Databricks：調査・marketing・work管理のmanaged connectorをBeta提供](../digests/2026/10/2026-10-20.md#lakeflow-saas-connectors) | 2026-10-20 |
 | 2026-10-20 | [tsrs：TypeScript compilerをRustへ移植しWasm実行を狙う](../digests/2026/10/2026-10-20.md#cloudflare-tsrs) | 2026-10-20 |
 | 2026-10-20 | [Qiita：PwnEscapeをLinux network stackの境界条件から整理](../digests/2026/10/2026-10-20.md#qiita-pwnescape) | 2026-10-16（10/20更新） |
+
+## 2026-10-21
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-21 | [OpenAIのfrontier modelとCodexをGoogle Cloudへ展開](../digests/2026/10/2026-10-21.md#openai-google-cloud) | 2026-10-21 |
+| 2026-10-21 | [Databricks AI Runtime：managed GPU trainingを一般提供](../digests/2026/10/2026-10-21.md#databricks-ai-runtime-ga) | 2026-10-21 |
+| 2026-10-21 | [AIで発見したPHP脆弱性を共同修正するPatch the Planetの対応](../digests/2026/10/2026-10-21.md#openai-patch-planet-php) | 2026-10-21 |
+| 2026-10-21 | [DuckDB 2.0.0 LTS：server接続・非同期I/O・VARIANTを正式化](../digests/2026/10/2026-10-21.md#duckdb-200-lts) | 2026-10-21 |
+| 2026-10-21 | [LiteLLM 1.107.0のPyPI wheel混入をpackage artifactから分析](../digests/2026/10/2026-10-21.md#litellm-pypi-compromise) | 2026-10-21 |
