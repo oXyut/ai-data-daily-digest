@@ -99,3 +99,11 @@
 | --- | --- | --- |
 | 2026-10-20 | [Boeing Dataliner：航空機データをfleet単位の保守判断へ統合](../digests/2026/10/2026-10-20.md#boeing-dataliner) | 2026-10-20 |
 | 2026-10-20 | [Databricks：調査・marketing・work管理のmanaged connectorをBeta提供](../digests/2026/10/2026-10-20.md#lakeflow-saas-connectors) | 2026-10-20 |
+
+## 2026-10-21
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-21 | [Databricks AI Runtime：managed GPU trainingを一般提供](../digests/2026/10/2026-10-21.md#databricks-ai-runtime-ga) | 2026-10-21 |
+| 2026-10-21 | [AT&T：法務requestの分類・優先順位付け・precedent検索を構想](../digests/2026/10/2026-10-21.md#att-legaledge) | 2026-10-21 |
+| 2026-10-21 | [DuckDB 2.0.0 LTS：server接続・非同期I/O・VARIANTを正式化](../digests/2026/10/2026-10-21.md#duckdb-200-lts) | 2026-10-21 |
