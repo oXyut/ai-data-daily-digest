@@ -6,6 +6,19 @@
 
 ### October
 
+[2026-10-21号](digests/2026/10/2026-10-21.md) — AIニュース4件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [OpenAIのfrontier modelとCodexをGoogle Cloudへ展開](digests/2026/10/2026-10-21.md#openai-google-cloud) | 2026-10-21 |
+| [Databricks AI Runtime：managed GPU trainingを一般提供](digests/2026/10/2026-10-21.md#databricks-ai-runtime-ga) | 2026-10-21 |
+| [AIで発見したPHP脆弱性を共同修正するPatch the Planetの対応](digests/2026/10/2026-10-21.md#openai-patch-planet-php) | 2026-10-21 |
+| [数千のAI agentで脳細胞データから実験仮説を抽出](digests/2026/10/2026-10-21.md#distributed-biological-reasoning) | 2026-10-21 |
+| [SMEの生産計画をdigital twinで比較し納期達成率を改善](digests/2026/10/2026-10-21.md#sme-digital-twin-scheduling) | 2026-10-21 |
+| [AT&T：法務requestの分類・優先順位付け・precedent検索を構想](digests/2026/10/2026-10-21.md#att-legaledge) | 2026-10-21 |
+| [DuckDB 2.0.0 LTS：server接続・非同期I/O・VARIANTを正式化](digests/2026/10/2026-10-21.md#duckdb-200-lts) | 2026-10-21 |
+| [LiteLLM 1.107.0のPyPI wheel混入をpackage artifactから分析](digests/2026/10/2026-10-21.md#litellm-pypi-compromise) | 2026-10-21 |
+
 [2026-10-20号](digests/2026/10/2026-10-20.md) — AIニュース3件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
