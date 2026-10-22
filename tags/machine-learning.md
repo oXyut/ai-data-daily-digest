@@ -183,3 +183,12 @@
 | 2026-10-21 | [Databricks AI Runtime：managed GPU trainingを一般提供](../digests/2026/10/2026-10-21.md#databricks-ai-runtime-ga) | 2026-10-21 |
 | 2026-10-21 | [数千のAI agentで脳細胞データから実験仮説を抽出](../digests/2026/10/2026-10-21.md#distributed-biological-reasoning) | 2026-10-21 |
 | 2026-10-21 | [SMEの生産計画をdigital twinで比較し納期達成率を改善](../digests/2026/10/2026-10-21.md#sme-digital-twin-scheduling) | 2026-10-21 |
+
+## 2026-10-22
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-22 | [NVIDIA Minerva：GPU・network・storage・jobを横断するAI factory向けAIOps](../digests/2026/10/2026-10-22.md#nvidia-minerva-aiops) | 2026-10-22 |
+| 2026-10-22 | [インド49地区の干ばつを1か月先予測し農業・水資源判断へ](../digests/2026/10/2026-10-22.md#india-drought-xai) | 2026-10-22 |
+| 2026-10-22 | [WorldTUI：terminal画面を予測する360M modelをself-correctionと行並列化で改善](../digests/2026/10/2026-10-22.md#worldtui-terminal-model) | 2026-10-21 |
+| 2026-10-22 | [LLMの自己申告confidenceを業務判定へ直結しない](../digests/2026/10/2026-10-22.md#llm-confidence-calibration) | 2026-10-20（10/22編集） |

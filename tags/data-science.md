@@ -212,3 +212,11 @@
 | 2026-10-21 | [数千のAI agentで脳細胞データから実験仮説を抽出](../digests/2026/10/2026-10-21.md#distributed-biological-reasoning) | 2026-10-21 |
 | 2026-10-21 | [SMEの生産計画をdigital twinで比較し納期達成率を改善](../digests/2026/10/2026-10-21.md#sme-digital-twin-scheduling) | 2026-10-21 |
 | 2026-10-21 | [DuckDB 2.0.0 LTS：server接続・非同期I/O・VARIANTを正式化](../digests/2026/10/2026-10-21.md#duckdb-200-lts) | 2026-10-21 |
+
+## 2026-10-22
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-22 | [Uber：1,000人pilotから3万人超へagentic knowledge workを全社展開](../digests/2026/10/2026-10-22.md#uber-chatgpt-work-rollout) | 2026-10-22 |
+| 2026-10-22 | [インド49地区の干ばつを1か月先予測し農業・水資源判断へ](../digests/2026/10/2026-10-22.md#india-drought-xai) | 2026-10-22 |
+| 2026-10-22 | [LLMの自己申告confidenceを業務判定へ直結しない](../digests/2026/10/2026-10-22.md#llm-confidence-calibration) | 2026-10-20（10/22編集） |

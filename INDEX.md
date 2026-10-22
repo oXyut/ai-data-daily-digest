@@ -6,6 +6,17 @@
 
 ### October
 
+[2026-10-22号](digests/2026/10/2026-10-22.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [OpenAI Decisions APIがGA、Live連携・cache・data residencyを追加](digests/2026/10/2026-10-22.md#decisions-api-ga) | 2026-10-22 |
+| [NVIDIA Minerva：GPU・network・storage・jobを横断するAI factory向けAIOps](digests/2026/10/2026-10-22.md#nvidia-minerva-aiops) | 2026-10-22 |
+| [Uber：1,000人pilotから3万人超へagentic knowledge workを全社展開](digests/2026/10/2026-10-22.md#uber-chatgpt-work-rollout) | 2026-10-22 |
+| [インド49地区の干ばつを1か月先予測し農業・水資源判断へ](digests/2026/10/2026-10-22.md#india-drought-xai) | 2026-10-22 |
+| [WorldTUI：terminal画面を予測する360M modelをself-correctionと行並列化で改善](digests/2026/10/2026-10-22.md#worldtui-terminal-model) | 2026-10-21 |
+| [LLMの自己申告confidenceを業務判定へ直結しない](digests/2026/10/2026-10-22.md#llm-confidence-calibration) | 2026-10-20（10/22編集） |
+
 [2026-10-21号](digests/2026/10/2026-10-21.md) — AIニュース4件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |

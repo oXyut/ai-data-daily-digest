@@ -136,3 +136,11 @@
 | 2026-10-21 | [AIで発見したPHP脆弱性を共同修正するPatch the Planetの対応](../digests/2026/10/2026-10-21.md#openai-patch-planet-php) | 2026-10-21 |
 | 2026-10-21 | [DuckDB 2.0.0 LTS：server接続・非同期I/O・VARIANTを正式化](../digests/2026/10/2026-10-21.md#duckdb-200-lts) | 2026-10-21 |
 | 2026-10-21 | [LiteLLM 1.107.0のPyPI wheel混入をpackage artifactから分析](../digests/2026/10/2026-10-21.md#litellm-pypi-compromise) | 2026-10-21 |
+
+## 2026-10-22
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-22 | [OpenAI Decisions APIがGA、Live連携・cache・data residencyを追加](../digests/2026/10/2026-10-22.md#decisions-api-ga) | 2026-10-22 |
+| 2026-10-22 | [NVIDIA Minerva：GPU・network・storage・jobを横断するAI factory向けAIOps](../digests/2026/10/2026-10-22.md#nvidia-minerva-aiops) | 2026-10-22 |
+| 2026-10-22 | [WorldTUI：terminal画面を予測する360M modelをself-correctionと行並列化で改善](../digests/2026/10/2026-10-22.md#worldtui-terminal-model) | 2026-10-21 |
