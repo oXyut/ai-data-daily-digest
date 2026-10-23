@@ -6,6 +6,30 @@
 
 ### October
 
+[2026-10-22号](digests/2026/10/2026-10-22.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [OpenAI Decisions APIがGA、Live連携・cache・data residencyを追加](digests/2026/10/2026-10-22.md#decisions-api-ga) | 2026-10-22 |
+| [NVIDIA Minerva：GPU・network・storage・jobを横断するAI factory向けAIOps](digests/2026/10/2026-10-22.md#nvidia-minerva-aiops) | 2026-10-22 |
+| [Uber：1,000人pilotから3万人超へagentic knowledge workを全社展開](digests/2026/10/2026-10-22.md#uber-chatgpt-work-rollout) | 2026-10-22 |
+| [インド49地区の干ばつを1か月先予測し農業・水資源判断へ](digests/2026/10/2026-10-22.md#india-drought-xai) | 2026-10-22 |
+| [WorldTUI：terminal画面を予測する360M modelをself-correctionと行並列化で改善](digests/2026/10/2026-10-22.md#worldtui-terminal-model) | 2026-10-21 |
+| [LLMの自己申告confidenceを業務判定へ直結しない](digests/2026/10/2026-10-22.md#llm-confidence-calibration) | 2026-10-20（10/22編集） |
+
+[2026-10-21号](digests/2026/10/2026-10-21.md) — AIニュース4件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [OpenAIのfrontier modelとCodexをGoogle Cloudへ展開](digests/2026/10/2026-10-21.md#openai-google-cloud) | 2026-10-21 |
+| [Databricks AI Runtime：managed GPU trainingを一般提供](digests/2026/10/2026-10-21.md#databricks-ai-runtime-ga) | 2026-10-21 |
+| [AIで発見したPHP脆弱性を共同修正するPatch the Planetの対応](digests/2026/10/2026-10-21.md#openai-patch-planet-php) | 2026-10-21 |
+| [数千のAI agentで脳細胞データから実験仮説を抽出](digests/2026/10/2026-10-21.md#distributed-biological-reasoning) | 2026-10-21 |
+| [SMEの生産計画をdigital twinで比較し納期達成率を改善](digests/2026/10/2026-10-21.md#sme-digital-twin-scheduling) | 2026-10-21 |
+| [AT&T：法務requestの分類・優先順位付け・precedent検索を構想](digests/2026/10/2026-10-21.md#att-legaledge) | 2026-10-21 |
+| [DuckDB 2.0.0 LTS：server接続・非同期I/O・VARIANTを正式化](digests/2026/10/2026-10-21.md#duckdb-200-lts) | 2026-10-21 |
+| [LiteLLM 1.107.0のPyPI wheel混入をpackage artifactから分析](digests/2026/10/2026-10-21.md#litellm-pypi-compromise) | 2026-10-21 |
+
 [2026-10-20号](digests/2026/10/2026-10-20.md) — AIニュース3件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |

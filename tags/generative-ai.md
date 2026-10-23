@@ -203,3 +203,23 @@
 | 2026-10-20 | [Voxtral 3：音声認識・合成とvoice agent SDKを一体化](../digests/2026/10/2026-10-20.md#voxtral-3) | 2026-10-20 |
 | 2026-10-20 | [OpenAI：Orchestra BioをRosalindへ統合](../digests/2026/10/2026-10-20.md#openai-orchestra-bio) | 2026-10-20 |
 | 2026-10-20 | [Google AntigravityでClaude Opus 5.5／Sonnet 5.5を提供](../digests/2026/10/2026-10-20.md#antigravity-claude-55) | 2026-10-20 |
+
+## 2026-10-21
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-21 | [OpenAIのfrontier modelとCodexをGoogle Cloudへ展開](../digests/2026/10/2026-10-21.md#openai-google-cloud) | 2026-10-21 |
+| 2026-10-21 | [Databricks AI Runtime：managed GPU trainingを一般提供](../digests/2026/10/2026-10-21.md#databricks-ai-runtime-ga) | 2026-10-21 |
+| 2026-10-21 | [AIで発見したPHP脆弱性を共同修正するPatch the Planetの対応](../digests/2026/10/2026-10-21.md#openai-patch-planet-php) | 2026-10-21 |
+| 2026-10-21 | [数千のAI agentで脳細胞データから実験仮説を抽出](../digests/2026/10/2026-10-21.md#distributed-biological-reasoning) | 2026-10-21 |
+| 2026-10-21 | [AT&T：法務requestの分類・優先順位付け・precedent検索を構想](../digests/2026/10/2026-10-21.md#att-legaledge) | 2026-10-21 |
+| 2026-10-21 | [LiteLLM 1.107.0のPyPI wheel混入をpackage artifactから分析](../digests/2026/10/2026-10-21.md#litellm-pypi-compromise) | 2026-10-21 |
+
+## 2026-10-22
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-22 | [OpenAI Decisions APIがGA、Live連携・cache・data residencyを追加](../digests/2026/10/2026-10-22.md#decisions-api-ga) | 2026-10-22 |
+| 2026-10-22 | [Uber：1,000人pilotから3万人超へagentic knowledge workを全社展開](../digests/2026/10/2026-10-22.md#uber-chatgpt-work-rollout) | 2026-10-22 |
+| 2026-10-22 | [WorldTUI：terminal画面を予測する360M modelをself-correctionと行並列化で改善](../digests/2026/10/2026-10-22.md#worldtui-terminal-model) | 2026-10-21 |
+| 2026-10-22 | [LLMの自己申告confidenceを業務判定へ直結しない](../digests/2026/10/2026-10-22.md#llm-confidence-calibration) | 2026-10-20（10/22編集） |
