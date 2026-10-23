@@ -144,3 +144,12 @@
 | 2026-10-22 | [OpenAI Decisions APIがGA、Live連携・cache・data residencyを追加](../digests/2026/10/2026-10-22.md#decisions-api-ga) | 2026-10-22 |
 | 2026-10-22 | [NVIDIA Minerva：GPU・network・storage・jobを横断するAI factory向けAIOps](../digests/2026/10/2026-10-22.md#nvidia-minerva-aiops) | 2026-10-22 |
 | 2026-10-22 | [WorldTUI：terminal画面を予測する360M modelをself-correctionと行並列化で改善](../digests/2026/10/2026-10-22.md#worldtui-terminal-model) | 2026-10-21 |
+
+## 2026-10-23
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-23 | [NVIDIA Nemotron 3.5 Bolt E4B：4GB級の端末内agent向け小型モデル](../digests/2026/10/2026-10-23.md#nemotron-35-bolt-e4b) | 2026-10-23 |
+| 2026-10-23 | [OpenAI：frontier modelのtrainingをoffline化しcontainmentを多層化](../digests/2026/10/2026-10-23.md#openai-frontier-containment) | 2026-10-23 |
+| 2026-10-23 | [LLMでfuzz testを機械検証可能なproofへ変換](../digests/2026/10/2026-10-23.md#anthropic-formal-verification) | 2026-10-22 |
+| 2026-10-23 | [Dockerをnamespace・cgroup・root filesystemの組合せから理解する](../digests/2026/10/2026-10-23.md#docker-is-weird) | 2026-10-22 |

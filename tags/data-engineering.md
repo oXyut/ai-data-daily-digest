@@ -113,3 +113,9 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-10-22 | [NVIDIA Minerva：GPU・network・storage・jobを横断するAI factory向けAIOps](../digests/2026/10/2026-10-22.md#nvidia-minerva-aiops) | 2026-10-22 |
+
+## 2026-10-23
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-23 | [Amazon EMR on EKS：data processing surchargeを30%引き下げ](../digests/2026/10/2026-10-23.md#emr-eks-price-cut) | 2026-10-23 |

@@ -220,3 +220,10 @@
 | 2026-10-22 | [Uber：1,000人pilotから3万人超へagentic knowledge workを全社展開](../digests/2026/10/2026-10-22.md#uber-chatgpt-work-rollout) | 2026-10-22 |
 | 2026-10-22 | [インド49地区の干ばつを1か月先予測し農業・水資源判断へ](../digests/2026/10/2026-10-22.md#india-drought-xai) | 2026-10-22 |
 | 2026-10-22 | [LLMの自己申告confidenceを業務判定へ直結しない](../digests/2026/10/2026-10-22.md#llm-confidence-calibration) | 2026-10-20（10/22編集） |
+
+## 2026-10-23
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-23 | [Amazon EMR on EKS：data processing surchargeを30%引き下げ](../digests/2026/10/2026-10-23.md#emr-eks-price-cut) | 2026-10-23 |
+| 2026-10-23 | [製造業250社：AI・digital化の環境成果は透明性と人材skillが条件](../digests/2026/10/2026-10-23.md#supply-chain-ai-transparency) | 2026-10-23 |

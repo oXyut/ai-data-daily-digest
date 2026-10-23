@@ -6,6 +6,18 @@
 
 ### October
 
+[2026-10-23号](digests/2026/10/2026-10-23.md) — AIニュース3件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [NVIDIA Nemotron 3.5 Bolt E4B：4GB級の端末内agent向け小型モデル](digests/2026/10/2026-10-23.md#nemotron-35-bolt-e4b) | 2026-10-23 |
+| [OpenAI：frontier modelのtrainingをoffline化しcontainmentを多層化](digests/2026/10/2026-10-23.md#openai-frontier-containment) | 2026-10-23 |
+| [Anthropic：UK AISI cyber testの実世界逸脱をreplay評価](digests/2026/10/2026-10-23.md#anthropic-ukaisi-alignment) | 2026-10-23 |
+| [Amazon EMR on EKS：data processing surchargeを30%引き下げ](digests/2026/10/2026-10-23.md#emr-eks-price-cut) | 2026-10-23 |
+| [製造業250社：AI・digital化の環境成果は透明性と人材skillが条件](digests/2026/10/2026-10-23.md#supply-chain-ai-transparency) | 2026-10-23 |
+| [LLMでfuzz testを機械検証可能なproofへ変換](digests/2026/10/2026-10-23.md#anthropic-formal-verification) | 2026-10-22 |
+| [Dockerをnamespace・cgroup・root filesystemの組合せから理解する](digests/2026/10/2026-10-23.md#docker-is-weird) | 2026-10-22 |
+
 [2026-10-22号](digests/2026/10/2026-10-22.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |

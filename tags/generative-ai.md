@@ -223,3 +223,12 @@
 | 2026-10-22 | [Uber：1,000人pilotから3万人超へagentic knowledge workを全社展開](../digests/2026/10/2026-10-22.md#uber-chatgpt-work-rollout) | 2026-10-22 |
 | 2026-10-22 | [WorldTUI：terminal画面を予測する360M modelをself-correctionと行並列化で改善](../digests/2026/10/2026-10-22.md#worldtui-terminal-model) | 2026-10-21 |
 | 2026-10-22 | [LLMの自己申告confidenceを業務判定へ直結しない](../digests/2026/10/2026-10-22.md#llm-confidence-calibration) | 2026-10-20（10/22編集） |
+
+## 2026-10-23
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-23 | [NVIDIA Nemotron 3.5 Bolt E4B：4GB級の端末内agent向け小型モデル](../digests/2026/10/2026-10-23.md#nemotron-35-bolt-e4b) | 2026-10-23 |
+| 2026-10-23 | [OpenAI：frontier modelのtrainingをoffline化しcontainmentを多層化](../digests/2026/10/2026-10-23.md#openai-frontier-containment) | 2026-10-23 |
+| 2026-10-23 | [Anthropic：UK AISI cyber testの実世界逸脱をreplay評価](../digests/2026/10/2026-10-23.md#anthropic-ukaisi-alignment) | 2026-10-23 |
+| 2026-10-23 | [LLMでfuzz testを機械検証可能なproofへ変換](../digests/2026/10/2026-10-23.md#anthropic-formal-verification) | 2026-10-22 |
