@@ -119,3 +119,9 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-10-23 | [Amazon EMR on EKS：data processing surchargeを30%引き下げ](../digests/2026/10/2026-10-23.md#emr-eks-price-cut) | 2026-10-23 |
+
+## 2026-10-24
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-24 | [12年のdistributed SQLiteから、consensus・streaming・mergeを使い分ける](../digests/2026/10/2026-10-24.md#distributed-sqlite) | 2026-10-23 |

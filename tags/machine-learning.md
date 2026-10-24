@@ -201,3 +201,10 @@
 | 2026-10-23 | [Anthropic：UK AISI cyber testの実世界逸脱をreplay評価](../digests/2026/10/2026-10-23.md#anthropic-ukaisi-alignment) | 2026-10-23 |
 | 2026-10-23 | [製造業250社：AI・digital化の環境成果は透明性と人材skillが条件](../digests/2026/10/2026-10-23.md#supply-chain-ai-transparency) | 2026-10-23 |
 | 2026-10-23 | [LLMでfuzz testを機械検証可能なproofへ変換](../digests/2026/10/2026-10-23.md#anthropic-formal-verification) | 2026-10-22 |
+
+## 2026-10-24
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-24 | [AI営業施策を平均効果で見ず、売上成長の分位別に検証](../digests/2026/10/2026-10-24.md#ai-sales-quantile) | 2026-10-24 |
+| 2026-10-24 | [IT人材350人：AI人事分析と持続的業務成果の間にengagementが部分媒介](../digests/2026/10/2026-10-24.md#ai-hra-engagement) | 2026-10-24 |

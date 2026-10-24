@@ -6,6 +6,15 @@
 
 ### October
 
+[2026-10-24号](digests/2026/10/2026-10-24.md) — AIニュース0件（適格項目なし）、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [AI営業施策を平均効果で見ず、売上成長の分位別に検証](digests/2026/10/2026-10-24.md#ai-sales-quantile) | 2026-10-24 |
+| [IT人材350人：AI人事分析と持続的業務成果の間にengagementが部分媒介](digests/2026/10/2026-10-24.md#ai-hra-engagement) | 2026-10-24 |
+| [12年のdistributed SQLiteから、consensus・streaming・mergeを使い分ける](digests/2026/10/2026-10-24.md#distributed-sqlite) | 2026-10-23 |
+| [uvとtyを統合し、環境構築と型checkを一つのproject理解へ寄せる](digests/2026/10/2026-10-24.md#uv-ty-integration) | 2026-10-13 |
+
 [2026-10-23号](digests/2026/10/2026-10-23.md) — AIニュース3件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
