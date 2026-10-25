@@ -6,6 +6,15 @@
 
 ### October
 
+[2026-10-25号](digests/2026/10/2026-10-25.md) — AIニュース0件（適格項目なし）、事業向け1件、最近の話題のIT記事3件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [観光需要予測：時系列leakageを防ぐと「最良ML」より単純baselineが強い](digests/2026/10/2026-10-25.md#tourism-demand-forecasting) | 2026-10-25 |
+| [Goose：heap・GC・lifetime注釈なしのmemory-safe systems language](digests/2026/10/2026-10-25.md#goose-language) | 2026-10-21 |
+| [creative jobs 20万人減を「AIだけの因果」とせず、業界別seriesで読む](digests/2026/10/2026-10-25.md#creative-jobs-ai) | 2026-09-27 |
+| [Cerebras：3T modelを59 waferへ分割する推論配置](digests/2026/10/2026-10-25.md#cerebras-trillion-models) | 2026-10-22 |
+
 [2026-10-24号](digests/2026/10/2026-10-24.md) — AIニュース0件（適格項目なし）、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |

@@ -160,3 +160,9 @@
 | --- | --- | --- |
 | 2026-10-24 | [12年のdistributed SQLiteから、consensus・streaming・mergeを使い分ける](../digests/2026/10/2026-10-24.md#distributed-sqlite) | 2026-10-23 |
 | 2026-10-24 | [uvとtyを統合し、環境構築と型checkを一つのproject理解へ寄せる](../digests/2026/10/2026-10-24.md#uv-ty-integration) | 2026-10-13 |
+
+## 2026-10-25
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-25 | [Goose：heap・GC・lifetime注釈なしのmemory-safe systems language](../digests/2026/10/2026-10-25.md#goose-language) | 2026-10-21 |

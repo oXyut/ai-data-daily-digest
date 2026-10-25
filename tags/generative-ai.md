@@ -232,3 +232,10 @@
 | 2026-10-23 | [OpenAI：frontier modelのtrainingをoffline化しcontainmentを多層化](../digests/2026/10/2026-10-23.md#openai-frontier-containment) | 2026-10-23 |
 | 2026-10-23 | [Anthropic：UK AISI cyber testの実世界逸脱をreplay評価](../digests/2026/10/2026-10-23.md#anthropic-ukaisi-alignment) | 2026-10-23 |
 | 2026-10-23 | [LLMでfuzz testを機械検証可能なproofへ変換](../digests/2026/10/2026-10-23.md#anthropic-formal-verification) | 2026-10-22 |
+
+## 2026-10-25
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-25 | [creative jobs 20万人減を「AIだけの因果」とせず、業界別seriesで読む](../digests/2026/10/2026-10-25.md#creative-jobs-ai) | 2026-09-27 |
+| 2026-10-25 | [Cerebras：3T modelを59 waferへ分割する推論配置](../digests/2026/10/2026-10-25.md#cerebras-trillion-models) | 2026-10-22 |
