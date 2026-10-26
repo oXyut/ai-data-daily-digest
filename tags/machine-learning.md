@@ -215,3 +215,10 @@
 | --- | --- | --- |
 | 2026-10-25 | [観光需要予測：時系列leakageを防ぐと「最良ML」より単純baselineが強い](../digests/2026/10/2026-10-25.md#tourism-demand-forecasting) | 2026-10-25 |
 | 2026-10-25 | [Cerebras：3T modelを59 waferへ分割する推論配置](../digests/2026/10/2026-10-25.md#cerebras-trillion-models) | 2026-10-22 |
+
+## 2026-10-26
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-26 | [software案件の満足度予測：低品質dataを捨てるより量を残す方が高精度](../digests/2026/10/2026-10-26.md#software-satisfaction-data-quality) | 2026-10-26 |
+| 2026-10-26 | [皮膚病変200件：汎用frontier LLMよりfine-tuned CNNが高い診断一致率](../digests/2026/10/2026-10-26.md#skin-cancer-cnn-vs-llm) | 2026-10-25 |

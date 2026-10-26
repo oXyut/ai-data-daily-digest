@@ -6,6 +6,17 @@
 
 ### October
 
+[2026-10-26号](digests/2026/10/2026-10-26.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [GPT-6.1 Terra：visual reasoning・computer useを低価格化](digests/2026/10/2026-10-26.md#gpt-61-terra) | 2026-10-26 |
+| [Google Cloud IAM Helper：Agent Skills＋read-only MCPで権限変更をHITL化](digests/2026/10/2026-10-26.md#google-iam-helper) | 2026-10-26 |
+| [LookML semanticsをKnowledge CatalogへGA、AIのKPI定義driftを抑制](digests/2026/10/2026-10-26.md#lookml-knowledge-catalog) | 2026-10-26 |
+| [software案件の満足度予測：低品質dataを捨てるより量を残す方が高精度](digests/2026/10/2026-10-26.md#software-satisfaction-data-quality) | 2026-10-26 |
+| [AI codingで「以前なら大きすぎた」softwareへ挑む。ただし検証costは残る](digests/2026/10/2026-10-26.md#ambitious-software) | 2026-10-26 |
+| [皮膚病変200件：汎用frontier LLMよりfine-tuned CNNが高い診断一致率](digests/2026/10/2026-10-26.md#skin-cancer-cnn-vs-llm) | 2026-10-25 |
+
 [2026-10-25号](digests/2026/10/2026-10-25.md) — AIニュース0件（適格項目なし）、事業向け1件、最近の話題のIT記事3件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |

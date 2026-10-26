@@ -166,3 +166,11 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-10-25 | [Goose：heap・GC・lifetime注釈なしのmemory-safe systems language](../digests/2026/10/2026-10-25.md#goose-language) | 2026-10-21 |
+
+## 2026-10-26
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-26 | [GPT-6.1 Terra：visual reasoning・computer useを低価格化](../digests/2026/10/2026-10-26.md#gpt-61-terra) | 2026-10-26 |
+| 2026-10-26 | [Google Cloud IAM Helper：Agent Skills＋read-only MCPで権限変更をHITL化](../digests/2026/10/2026-10-26.md#google-iam-helper) | 2026-10-26 |
+| 2026-10-26 | [AI codingで「以前なら大きすぎた」softwareへ挑む。ただし検証costは残る](../digests/2026/10/2026-10-26.md#ambitious-software) | 2026-10-26 |

@@ -125,3 +125,9 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-10-24 | [12年のdistributed SQLiteから、consensus・streaming・mergeを使い分ける](../digests/2026/10/2026-10-24.md#distributed-sqlite) | 2026-10-23 |
+
+## 2026-10-26
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-26 | [LookML semanticsをKnowledge CatalogへGA、AIのKPI定義driftを抑制](../digests/2026/10/2026-10-26.md#lookml-knowledge-catalog) | 2026-10-26 |

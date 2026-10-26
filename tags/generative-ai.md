@@ -239,3 +239,13 @@
 | --- | --- | --- |
 | 2026-10-25 | [creative jobs 20万人減を「AIだけの因果」とせず、業界別seriesで読む](../digests/2026/10/2026-10-25.md#creative-jobs-ai) | 2026-09-27 |
 | 2026-10-25 | [Cerebras：3T modelを59 waferへ分割する推論配置](../digests/2026/10/2026-10-25.md#cerebras-trillion-models) | 2026-10-22 |
+
+## 2026-10-26
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-26 | [GPT-6.1 Terra：visual reasoning・computer useを低価格化](../digests/2026/10/2026-10-26.md#gpt-61-terra) | 2026-10-26 |
+| 2026-10-26 | [Google Cloud IAM Helper：Agent Skills＋read-only MCPで権限変更をHITL化](../digests/2026/10/2026-10-26.md#google-iam-helper) | 2026-10-26 |
+| 2026-10-26 | [LookML semanticsをKnowledge CatalogへGA、AIのKPI定義driftを抑制](../digests/2026/10/2026-10-26.md#lookml-knowledge-catalog) | 2026-10-26 |
+| 2026-10-26 | [AI codingで「以前なら大きすぎた」softwareへ挑む。ただし検証costは残る](../digests/2026/10/2026-10-26.md#ambitious-software) | 2026-10-26 |
+| 2026-10-26 | [皮膚病変200件：汎用frontier LLMよりfine-tuned CNNが高い診断一致率](../digests/2026/10/2026-10-26.md#skin-cancer-cnn-vs-llm) | 2026-10-25 |
