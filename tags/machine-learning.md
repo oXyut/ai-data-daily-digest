@@ -222,3 +222,12 @@
 | --- | --- | --- |
 | 2026-10-26 | [software案件の満足度予測：低品質dataを捨てるより量を残す方が高精度](../digests/2026/10/2026-10-26.md#software-satisfaction-data-quality) | 2026-10-26 |
 | 2026-10-26 | [皮膚病変200件：汎用frontier LLMよりfine-tuned CNNが高い診断一致率](../digests/2026/10/2026-10-26.md#skin-cancer-cnn-vs-llm) | 2026-10-25 |
+
+## 2026-10-27
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-27 | [Genie 4：音声付きreal-time world simulationを研究preview](../digests/2026/10/2026-10-27.md#genie-4) | 2026-10-27 |
+| 2026-10-27 | [LFM3：2B級のtext・vision・audio・decisionを共通backboneへ](../digests/2026/10/2026-10-27.md#lfm3) | 2026-10-27 |
+| 2026-10-27 | [航空路線需要予測：capacity・競合を加えWMAPEをnaive比16.72%改善](../digests/2026/10/2026-10-27.md#airline-route-forecasting) | 2026-10-27 |
+| 2026-10-27 | [reasoning modelを評価・inference scaling・RLVR・蒸留までfrom scratch実装](../digests/2026/10/2026-10-27.md#reasoning-model-course) | 2026-10-24 |

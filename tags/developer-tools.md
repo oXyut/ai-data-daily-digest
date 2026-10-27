@@ -174,3 +174,12 @@
 | 2026-10-26 | [GPT-6.1 Terra：visual reasoning・computer useを低価格化](../digests/2026/10/2026-10-26.md#gpt-61-terra) | 2026-10-26 |
 | 2026-10-26 | [Google Cloud IAM Helper：Agent Skills＋read-only MCPで権限変更をHITL化](../digests/2026/10/2026-10-26.md#google-iam-helper) | 2026-10-26 |
 | 2026-10-26 | [AI codingで「以前なら大きすぎた」softwareへ挑む。ただし検証costは残る](../digests/2026/10/2026-10-26.md#ambitious-software) | 2026-10-26 |
+
+## 2026-10-27
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-27 | [LFM3：2B級のtext・vision・audio・decisionを共通backboneへ](../digests/2026/10/2026-10-27.md#lfm3) | 2026-10-27 |
+| 2026-10-27 | [Gemini Enterprise–Snowflake：user権限のまま自然言語からgoverned SQL](../digests/2026/10/2026-10-27.md#gemini-snowflake-adk) | 2026-10-27 |
+| 2026-10-27 | [reasoning modelを評価・inference scaling・RLVR・蒸留までfrom scratch実装](../digests/2026/10/2026-10-27.md#reasoning-model-course) | 2026-10-24 |
+| 2026-10-27 | [Type Server Protocol：Pylanceからtype checkerを分離しPython解析を共通API化](../digests/2026/10/2026-10-27.md#type-server-protocol) | 2026-10-21 |
