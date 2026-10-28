@@ -183,3 +183,12 @@
 | 2026-10-27 | [Gemini Enterprise–Snowflake：user権限のまま自然言語からgoverned SQL](../digests/2026/10/2026-10-27.md#gemini-snowflake-adk) | 2026-10-27 |
 | 2026-10-27 | [reasoning modelを評価・inference scaling・RLVR・蒸留までfrom scratch実装](../digests/2026/10/2026-10-27.md#reasoning-model-course) | 2026-10-24 |
 | 2026-10-27 | [Type Server Protocol：Pylanceからtype checkerを分離しPython解析を共通API化](../digests/2026/10/2026-10-27.md#type-server-protocol) | 2026-10-21 |
+
+## 2026-10-28
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-28 | [Prism：発話前text checkpointを持つenterprise speech-to-speech model](../digests/2026/10/2026-10-28.md#rime-prism) | 2026-10-28 |
+| 2026-10-28 | [GitHub Copilot Fusion GA：複数modelを自動routing](../digests/2026/10/2026-10-28.md#copilot-fusion-ga) | 2026-10-28 |
+| 2026-10-28 | [Ghostty 1.4：scrollback memory 70〜90%削減](../digests/2026/10/2026-10-28.md#ghostty-1-4) | 2026-10-27 |
+| 2026-10-28 | [macOS付属git／curlのeMudhra証明書信頼問題](../digests/2026/10/2026-10-28.md#macos-emudhra-trust) | 2026-10-28 |

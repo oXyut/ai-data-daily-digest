@@ -231,3 +231,9 @@
 | 2026-10-27 | [LFM3：2B級のtext・vision・audio・decisionを共通backboneへ](../digests/2026/10/2026-10-27.md#lfm3) | 2026-10-27 |
 | 2026-10-27 | [航空路線需要予測：capacity・競合を加えWMAPEをnaive比16.72%改善](../digests/2026/10/2026-10-27.md#airline-route-forecasting) | 2026-10-27 |
 | 2026-10-27 | [reasoning modelを評価・inference scaling・RLVR・蒸留までfrom scratch実装](../digests/2026/10/2026-10-27.md#reasoning-model-course) | 2026-10-24 |
+
+## 2026-10-28
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-28 | [Prism：発話前text checkpointを持つenterprise speech-to-speech model](../digests/2026/10/2026-10-28.md#rime-prism) | 2026-10-28 |

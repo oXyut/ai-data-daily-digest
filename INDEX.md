@@ -6,6 +6,17 @@
 
 ### October
 
+[2026-10-28号](digests/2026/10/2026-10-28.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Prism：発話前text checkpointを持つenterprise speech-to-speech model](digests/2026/10/2026-10-28.md#rime-prism) | 2026-10-28 |
+| [GitHub Copilot Fusion GA：Single・Cascade・Critiqueで複数modelを自動routing](digests/2026/10/2026-10-28.md#copilot-fusion-ga) | 2026-10-28 |
+| [AlloyDB AI：embedding modelを停止なしでblue/green移行](digests/2026/10/2026-10-28.md#alloydb-embedding-upgrade) | 2026-10-28 |
+| [Legora：NDA review比率20%→1%未満、法務AIをplaybook＋人手確認で運用](digests/2026/10/2026-10-28.md#legora-legal-ai) | 2026-10-28 |
+| [Ghostty 1.4：scrollback memory 70〜90%削減、terminal coreを高速・移植可能に](digests/2026/10/2026-10-28.md#ghostty-1-4) | 2026-10-27 |
+| [macOS付属git／curl：compromised eMudhra証明書を信頼し続ける問題](digests/2026/10/2026-10-28.md#macos-emudhra-trust) | 2026-10-28 |
+
 [2026-10-27号](digests/2026/10/2026-10-27.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |

@@ -256,3 +256,10 @@
 | --- | --- | --- |
 | 2026-10-27 | [航空路線需要予測：capacity・競合を加えWMAPEをnaive比16.72%改善](../digests/2026/10/2026-10-27.md#airline-route-forecasting) | 2026-10-27 |
 | 2026-10-27 | [Gemini Enterprise–Snowflake：user権限のまま自然言語からgoverned SQL](../digests/2026/10/2026-10-27.md#gemini-snowflake-adk) | 2026-10-27 |
+
+## 2026-10-28
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-28 | [AlloyDB AI：embedding modelを停止なしでblue/green移行](../digests/2026/10/2026-10-28.md#alloydb-embedding-upgrade) | 2026-10-28 |
+| 2026-10-28 | [Legora：法務AIをplaybook＋人手確認で運用](../digests/2026/10/2026-10-28.md#legora-legal-ai) | 2026-10-28 |

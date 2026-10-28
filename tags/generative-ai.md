@@ -258,3 +258,12 @@
 | 2026-10-27 | [LFM3：2B級のtext・vision・audio・decisionを共通backboneへ](../digests/2026/10/2026-10-27.md#lfm3) | 2026-10-27 |
 | 2026-10-27 | [Gemini Enterprise–Snowflake：user権限のまま自然言語からgoverned SQL](../digests/2026/10/2026-10-27.md#gemini-snowflake-adk) | 2026-10-27 |
 | 2026-10-27 | [reasoning modelを評価・inference scaling・RLVR・蒸留までfrom scratch実装](../digests/2026/10/2026-10-27.md#reasoning-model-course) | 2026-10-24 |
+
+## 2026-10-28
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-28 | [Prism：発話前text checkpointを持つenterprise speech-to-speech model](../digests/2026/10/2026-10-28.md#rime-prism) | 2026-10-28 |
+| 2026-10-28 | [GitHub Copilot Fusion GA：複数modelを自動routing](../digests/2026/10/2026-10-28.md#copilot-fusion-ga) | 2026-10-28 |
+| 2026-10-28 | [AlloyDB AI：embedding modelを停止なしでblue/green移行](../digests/2026/10/2026-10-28.md#alloydb-embedding-upgrade) | 2026-10-28 |
+| 2026-10-28 | [Legora：法務AIをplaybook＋人手確認で運用](../digests/2026/10/2026-10-28.md#legora-legal-ai) | 2026-10-28 |
