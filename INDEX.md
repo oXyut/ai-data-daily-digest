@@ -6,6 +6,57 @@
 
 ### October
 
+[2026-10-28号](digests/2026/10/2026-10-28.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Prism：発話前text checkpointを持つenterprise speech-to-speech model](digests/2026/10/2026-10-28.md#rime-prism) | 2026-10-28 |
+| [GitHub Copilot Fusion GA：Single・Cascade・Critiqueで複数modelを自動routing](digests/2026/10/2026-10-28.md#copilot-fusion-ga) | 2026-10-28 |
+| [AlloyDB AI：embedding modelを停止なしでblue/green移行](digests/2026/10/2026-10-28.md#alloydb-embedding-upgrade) | 2026-10-28 |
+| [Legora：NDA review比率20%→1%未満、法務AIをplaybook＋人手確認で運用](digests/2026/10/2026-10-28.md#legora-legal-ai) | 2026-10-28 |
+| [Ghostty 1.4：scrollback memory 70〜90%削減、terminal coreを高速・移植可能に](digests/2026/10/2026-10-28.md#ghostty-1-4) | 2026-10-27 |
+| [macOS付属git／curl：compromised eMudhra証明書を信頼し続ける問題](digests/2026/10/2026-10-28.md#macos-emudhra-trust) | 2026-10-28 |
+
+[2026-10-27号](digests/2026/10/2026-10-27.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Genie 4：音声付きreal-time world simulationを研究preview](digests/2026/10/2026-10-27.md#genie-4) | 2026-10-27 |
+| [LFM3：2B級のtext・vision・audio・decisionを共通backboneへ](digests/2026/10/2026-10-27.md#lfm3) | 2026-10-27 |
+| [航空路線需要予測：capacity・競合を加えWMAPEをnaive比16.72%改善](digests/2026/10/2026-10-27.md#airline-route-forecasting) | 2026-10-27 |
+| [Gemini Enterprise–Snowflake：user権限のまま自然言語からgoverned SQL](digests/2026/10/2026-10-27.md#gemini-snowflake-adk) | 2026-10-27 |
+| [reasoning modelを評価・inference scaling・RLVR・蒸留までfrom scratch実装](digests/2026/10/2026-10-27.md#reasoning-model-course) | 2026-10-24 |
+| [Type Server Protocol：Pylanceからtype checkerを分離しPython解析を共通API化](digests/2026/10/2026-10-27.md#type-server-protocol) | 2026-10-21 |
+
+[2026-10-26号](digests/2026/10/2026-10-26.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [GPT-6.1 Terra：visual reasoning・computer useを低価格化](digests/2026/10/2026-10-26.md#gpt-61-terra) | 2026-10-26 |
+| [Google Cloud IAM Helper：Agent Skills＋read-only MCPで権限変更をHITL化](digests/2026/10/2026-10-26.md#google-iam-helper) | 2026-10-26 |
+| [LookML semanticsをKnowledge CatalogへGA、AIのKPI定義driftを抑制](digests/2026/10/2026-10-26.md#lookml-knowledge-catalog) | 2026-10-26 |
+| [software案件の満足度予測：低品質dataを捨てるより量を残す方が高精度](digests/2026/10/2026-10-26.md#software-satisfaction-data-quality) | 2026-10-26 |
+| [AI codingで「以前なら大きすぎた」softwareへ挑む。ただし検証costは残る](digests/2026/10/2026-10-26.md#ambitious-software) | 2026-10-26 |
+| [皮膚病変200件：汎用frontier LLMよりfine-tuned CNNが高い診断一致率](digests/2026/10/2026-10-26.md#skin-cancer-cnn-vs-llm) | 2026-10-25 |
+
+[2026-10-25号](digests/2026/10/2026-10-25.md) — AIニュース0件（適格項目なし）、事業向け1件、最近の話題のIT記事3件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [観光需要予測：時系列leakageを防ぐと「最良ML」より単純baselineが強い](digests/2026/10/2026-10-25.md#tourism-demand-forecasting) | 2026-10-25 |
+| [Goose：heap・GC・lifetime注釈なしのmemory-safe systems language](digests/2026/10/2026-10-25.md#goose-language) | 2026-10-21 |
+| [creative jobs 20万人減を「AIだけの因果」とせず、業界別seriesで読む](digests/2026/10/2026-10-25.md#creative-jobs-ai) | 2026-09-27 |
+| [Cerebras：3T modelを59 waferへ分割する推論配置](digests/2026/10/2026-10-25.md#cerebras-trillion-models) | 2026-10-22 |
+
+[2026-10-24号](digests/2026/10/2026-10-24.md) — AIニュース0件（適格項目なし）、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [AI営業施策を平均効果で見ず、売上成長の分位別に検証](digests/2026/10/2026-10-24.md#ai-sales-quantile) | 2026-10-24 |
+| [IT人材350人：AI人事分析と持続的業務成果の間にengagementが部分媒介](digests/2026/10/2026-10-24.md#ai-hra-engagement) | 2026-10-24 |
+| [12年のdistributed SQLiteから、consensus・streaming・mergeを使い分ける](digests/2026/10/2026-10-24.md#distributed-sqlite) | 2026-10-23 |
+| [uvとtyを統合し、環境構築と型checkを一つのproject理解へ寄せる](digests/2026/10/2026-10-24.md#uv-ty-integration) | 2026-10-13 |
+
 [2026-10-23号](digests/2026/10/2026-10-23.md) — AIニュース3件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |

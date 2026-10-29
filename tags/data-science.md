@@ -227,3 +227,39 @@
 | --- | --- | --- |
 | 2026-10-23 | [Amazon EMR on EKS：data processing surchargeを30%引き下げ](../digests/2026/10/2026-10-23.md#emr-eks-price-cut) | 2026-10-23 |
 | 2026-10-23 | [製造業250社：AI・digital化の環境成果は透明性と人材skillが条件](../digests/2026/10/2026-10-23.md#supply-chain-ai-transparency) | 2026-10-23 |
+
+## 2026-10-24
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-24 | [AI営業施策を平均効果で見ず、売上成長の分位別に検証](../digests/2026/10/2026-10-24.md#ai-sales-quantile) | 2026-10-24 |
+| 2026-10-24 | [IT人材350人：AI人事分析と持続的業務成果の間にengagementが部分媒介](../digests/2026/10/2026-10-24.md#ai-hra-engagement) | 2026-10-24 |
+
+## 2026-10-25
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-25 | [観光需要予測：時系列leakageを防ぐと「最良ML」より単純baselineが強い](../digests/2026/10/2026-10-25.md#tourism-demand-forecasting) | 2026-10-25 |
+| 2026-10-25 | [creative jobs 20万人減を「AIだけの因果」とせず、業界別seriesで読む](../digests/2026/10/2026-10-25.md#creative-jobs-ai) | 2026-09-27 |
+
+## 2026-10-26
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-26 | [LookML semanticsをKnowledge CatalogへGA、AIのKPI定義driftを抑制](../digests/2026/10/2026-10-26.md#lookml-knowledge-catalog) | 2026-10-26 |
+| 2026-10-26 | [software案件の満足度予測：低品質dataを捨てるより量を残す方が高精度](../digests/2026/10/2026-10-26.md#software-satisfaction-data-quality) | 2026-10-26 |
+| 2026-10-26 | [皮膚病変200件：汎用frontier LLMよりfine-tuned CNNが高い診断一致率](../digests/2026/10/2026-10-26.md#skin-cancer-cnn-vs-llm) | 2026-10-25 |
+
+## 2026-10-27
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-27 | [航空路線需要予測：capacity・競合を加えWMAPEをnaive比16.72%改善](../digests/2026/10/2026-10-27.md#airline-route-forecasting) | 2026-10-27 |
+| 2026-10-27 | [Gemini Enterprise–Snowflake：user権限のまま自然言語からgoverned SQL](../digests/2026/10/2026-10-27.md#gemini-snowflake-adk) | 2026-10-27 |
+
+## 2026-10-28
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-28 | [AlloyDB AI：embedding modelを停止なしでblue/green移行](../digests/2026/10/2026-10-28.md#alloydb-embedding-upgrade) | 2026-10-28 |
+| 2026-10-28 | [Legora：法務AIをplaybook＋人手確認で運用](../digests/2026/10/2026-10-28.md#legora-legal-ai) | 2026-10-28 |

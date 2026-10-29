@@ -153,3 +153,42 @@
 | 2026-10-23 | [OpenAI：frontier modelのtrainingをoffline化しcontainmentを多層化](../digests/2026/10/2026-10-23.md#openai-frontier-containment) | 2026-10-23 |
 | 2026-10-23 | [LLMでfuzz testを機械検証可能なproofへ変換](../digests/2026/10/2026-10-23.md#anthropic-formal-verification) | 2026-10-22 |
 | 2026-10-23 | [Dockerをnamespace・cgroup・root filesystemの組合せから理解する](../digests/2026/10/2026-10-23.md#docker-is-weird) | 2026-10-22 |
+
+## 2026-10-24
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-24 | [12年のdistributed SQLiteから、consensus・streaming・mergeを使い分ける](../digests/2026/10/2026-10-24.md#distributed-sqlite) | 2026-10-23 |
+| 2026-10-24 | [uvとtyを統合し、環境構築と型checkを一つのproject理解へ寄せる](../digests/2026/10/2026-10-24.md#uv-ty-integration) | 2026-10-13 |
+
+## 2026-10-25
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-25 | [Goose：heap・GC・lifetime注釈なしのmemory-safe systems language](../digests/2026/10/2026-10-25.md#goose-language) | 2026-10-21 |
+
+## 2026-10-26
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-26 | [GPT-6.1 Terra：visual reasoning・computer useを低価格化](../digests/2026/10/2026-10-26.md#gpt-61-terra) | 2026-10-26 |
+| 2026-10-26 | [Google Cloud IAM Helper：Agent Skills＋read-only MCPで権限変更をHITL化](../digests/2026/10/2026-10-26.md#google-iam-helper) | 2026-10-26 |
+| 2026-10-26 | [AI codingで「以前なら大きすぎた」softwareへ挑む。ただし検証costは残る](../digests/2026/10/2026-10-26.md#ambitious-software) | 2026-10-26 |
+
+## 2026-10-27
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-27 | [LFM3：2B級のtext・vision・audio・decisionを共通backboneへ](../digests/2026/10/2026-10-27.md#lfm3) | 2026-10-27 |
+| 2026-10-27 | [Gemini Enterprise–Snowflake：user権限のまま自然言語からgoverned SQL](../digests/2026/10/2026-10-27.md#gemini-snowflake-adk) | 2026-10-27 |
+| 2026-10-27 | [reasoning modelを評価・inference scaling・RLVR・蒸留までfrom scratch実装](../digests/2026/10/2026-10-27.md#reasoning-model-course) | 2026-10-24 |
+| 2026-10-27 | [Type Server Protocol：Pylanceからtype checkerを分離しPython解析を共通API化](../digests/2026/10/2026-10-27.md#type-server-protocol) | 2026-10-21 |
+
+## 2026-10-28
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-28 | [Prism：発話前text checkpointを持つenterprise speech-to-speech model](../digests/2026/10/2026-10-28.md#rime-prism) | 2026-10-28 |
+| 2026-10-28 | [GitHub Copilot Fusion GA：複数modelを自動routing](../digests/2026/10/2026-10-28.md#copilot-fusion-ga) | 2026-10-28 |
+| 2026-10-28 | [Ghostty 1.4：scrollback memory 70〜90%削減](../digests/2026/10/2026-10-28.md#ghostty-1-4) | 2026-10-27 |
+| 2026-10-28 | [macOS付属git／curlのeMudhra証明書信頼問題](../digests/2026/10/2026-10-28.md#macos-emudhra-trust) | 2026-10-28 |

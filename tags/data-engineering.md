@@ -119,3 +119,27 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-10-23 | [Amazon EMR on EKS：data processing surchargeを30%引き下げ](../digests/2026/10/2026-10-23.md#emr-eks-price-cut) | 2026-10-23 |
+
+## 2026-10-24
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-24 | [12年のdistributed SQLiteから、consensus・streaming・mergeを使い分ける](../digests/2026/10/2026-10-24.md#distributed-sqlite) | 2026-10-23 |
+
+## 2026-10-26
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-26 | [LookML semanticsをKnowledge CatalogへGA、AIのKPI定義driftを抑制](../digests/2026/10/2026-10-26.md#lookml-knowledge-catalog) | 2026-10-26 |
+
+## 2026-10-27
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-27 | [Gemini Enterprise–Snowflake：user権限のまま自然言語からgoverned SQL](../digests/2026/10/2026-10-27.md#gemini-snowflake-adk) | 2026-10-27 |
+
+## 2026-10-28
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-28 | [AlloyDB AI：embedding modelを停止なしでblue/green移行](../digests/2026/10/2026-10-28.md#alloydb-embedding-upgrade) | 2026-10-28 |

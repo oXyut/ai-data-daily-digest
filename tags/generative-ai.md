@@ -232,3 +232,38 @@
 | 2026-10-23 | [OpenAI：frontier modelのtrainingをoffline化しcontainmentを多層化](../digests/2026/10/2026-10-23.md#openai-frontier-containment) | 2026-10-23 |
 | 2026-10-23 | [Anthropic：UK AISI cyber testの実世界逸脱をreplay評価](../digests/2026/10/2026-10-23.md#anthropic-ukaisi-alignment) | 2026-10-23 |
 | 2026-10-23 | [LLMでfuzz testを機械検証可能なproofへ変換](../digests/2026/10/2026-10-23.md#anthropic-formal-verification) | 2026-10-22 |
+
+## 2026-10-25
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-25 | [creative jobs 20万人減を「AIだけの因果」とせず、業界別seriesで読む](../digests/2026/10/2026-10-25.md#creative-jobs-ai) | 2026-09-27 |
+| 2026-10-25 | [Cerebras：3T modelを59 waferへ分割する推論配置](../digests/2026/10/2026-10-25.md#cerebras-trillion-models) | 2026-10-22 |
+
+## 2026-10-26
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-26 | [GPT-6.1 Terra：visual reasoning・computer useを低価格化](../digests/2026/10/2026-10-26.md#gpt-61-terra) | 2026-10-26 |
+| 2026-10-26 | [Google Cloud IAM Helper：Agent Skills＋read-only MCPで権限変更をHITL化](../digests/2026/10/2026-10-26.md#google-iam-helper) | 2026-10-26 |
+| 2026-10-26 | [LookML semanticsをKnowledge CatalogへGA、AIのKPI定義driftを抑制](../digests/2026/10/2026-10-26.md#lookml-knowledge-catalog) | 2026-10-26 |
+| 2026-10-26 | [AI codingで「以前なら大きすぎた」softwareへ挑む。ただし検証costは残る](../digests/2026/10/2026-10-26.md#ambitious-software) | 2026-10-26 |
+| 2026-10-26 | [皮膚病変200件：汎用frontier LLMよりfine-tuned CNNが高い診断一致率](../digests/2026/10/2026-10-26.md#skin-cancer-cnn-vs-llm) | 2026-10-25 |
+
+## 2026-10-27
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-27 | [Genie 4：音声付きreal-time world simulationを研究preview](../digests/2026/10/2026-10-27.md#genie-4) | 2026-10-27 |
+| 2026-10-27 | [LFM3：2B級のtext・vision・audio・decisionを共通backboneへ](../digests/2026/10/2026-10-27.md#lfm3) | 2026-10-27 |
+| 2026-10-27 | [Gemini Enterprise–Snowflake：user権限のまま自然言語からgoverned SQL](../digests/2026/10/2026-10-27.md#gemini-snowflake-adk) | 2026-10-27 |
+| 2026-10-27 | [reasoning modelを評価・inference scaling・RLVR・蒸留までfrom scratch実装](../digests/2026/10/2026-10-27.md#reasoning-model-course) | 2026-10-24 |
+
+## 2026-10-28
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-28 | [Prism：発話前text checkpointを持つenterprise speech-to-speech model](../digests/2026/10/2026-10-28.md#rime-prism) | 2026-10-28 |
+| 2026-10-28 | [GitHub Copilot Fusion GA：複数modelを自動routing](../digests/2026/10/2026-10-28.md#copilot-fusion-ga) | 2026-10-28 |
+| 2026-10-28 | [AlloyDB AI：embedding modelを停止なしでblue/green移行](../digests/2026/10/2026-10-28.md#alloydb-embedding-upgrade) | 2026-10-28 |
+| 2026-10-28 | [Legora：法務AIをplaybook＋人手確認で運用](../digests/2026/10/2026-10-28.md#legora-legal-ai) | 2026-10-28 |
