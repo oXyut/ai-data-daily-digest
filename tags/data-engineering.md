@@ -143,3 +143,10 @@
 | 掲載号 | トピック | 一次情報の公開日 |
 | --- | --- | --- |
 | 2026-10-28 | [AlloyDB AI：embedding modelを停止なしでblue/green移行](../digests/2026/10/2026-10-28.md#alloydb-embedding-upgrade) | 2026-10-28 |
+
+## 2026-10-29
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-29 | [Knowledge Catalogの複数semantic model対応](../digests/2026/10/2026-10-29.md#knowledge-catalog-semantic-models) | 2026-10-29 |
+| 2026-10-29 | [BigQuery×Databricks Icebergのzero-copy分析](../digests/2026/10/2026-10-29.md#bigquery-databricks-iceberg) | 2026-10-29 |

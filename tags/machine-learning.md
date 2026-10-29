@@ -237,3 +237,10 @@
 | 掲載号 | トピック | 一次情報の公開日 |
 | --- | --- | --- |
 | 2026-10-28 | [Prism：発話前text checkpointを持つenterprise speech-to-speech model](../digests/2026/10/2026-10-28.md#rime-prism) | 2026-10-28 |
+
+## 2026-10-29
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-29 | [Mistral Large 4のopen weights](../digests/2026/10/2026-10-29.md#mistral-large-4-open-weights) | 2026-10-29 |
+| 2026-10-29 | [Qwenputer](../digests/2026/10/2026-10-29.md#qwenputer-riscv) | 2026-10-22 |
