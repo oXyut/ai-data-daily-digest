@@ -278,3 +278,13 @@
 | 2026-10-29 | [Microsoft Copilot for Finance](../digests/2026/10/2026-10-29.md#copilot-finance-skills) | 2026-10-29 |
 | 2026-10-29 | [Knowledge Catalogの複数semantic model対応](../digests/2026/10/2026-10-29.md#knowledge-catalog-semantic-models) | 2026-10-29 |
 | 2026-10-29 | [Qwenputer](../digests/2026/10/2026-10-29.md#qwenputer-riscv) | 2026-10-22 |
+
+## 2026-10-30
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-30 | [GPT‑6 Rosalind Research：承認制で生命科学向け推論を提供](../digests/2026/10/2026-10-30.md#gpt-6-rosalind) | 2026-10-30 |
+| 2026-10-30 | [OpenAI：共通のAI学習選好signalを支持](../digests/2026/10/2026-10-30.md#ai-training-preference-signal) | 2026-10-30 |
+| 2026-10-30 | [Claude Code拡張の供給網侵害](../digests/2026/10/2026-10-30.md#claude-code-extension-compromise) | 2026-10-30（公式noticeは10/29） |
+| 2026-10-30 | [Martin Fowler「LLM Voice」](../digests/2026/10/2026-10-30.md#llm-voice) | 2026-10-29 |
+

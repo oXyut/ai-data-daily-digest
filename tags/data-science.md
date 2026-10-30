@@ -271,3 +271,11 @@
 | 2026-10-29 | [Microsoft Copilot for Finance](../digests/2026/10/2026-10-29.md#copilot-finance-skills) | 2026-10-29 |
 | 2026-10-29 | [Knowledge Catalogの複数semantic model対応](../digests/2026/10/2026-10-29.md#knowledge-catalog-semantic-models) | 2026-10-29 |
 | 2026-10-29 | [BigQuery×Databricks Icebergのzero-copy分析](../digests/2026/10/2026-10-29.md#bigquery-databricks-iceberg) | 2026-10-29 |
+
+## 2026-10-30
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-30 | [SageMaker Unified Studioの役割別designations](../digests/2026/10/2026-10-30.md#sagemaker-designations) | 2026-10-30 |
+| 2026-10-30 | [P2P与信：CTGAN×LightGBMがF1 83.28%](../digests/2026/10/2026-10-30.md#p2p-credit-risk-resampling) | 2026-10-30 |
+
