@@ -6,6 +6,30 @@
 
 ### October
 
+[2026-10-30号](digests/2026/10/2026-10-30.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [GPT‑6 Rosalind Research：承認制で生命科学向け推論を提供](digests/2026/10/2026-10-30.md#gpt-6-rosalind) | 2026-10-30 |
+| [OpenAI：複数providerへ共通のAI学習選好を伝えるrobots.txt signalを支持](digests/2026/10/2026-10-30.md#ai-training-preference-signal) | 2026-10-30 |
+| [SageMaker Unified Studio：data／AI projectを役割別の最小権限で運用](digests/2026/10/2026-10-30.md#sagemaker-designations) | 2026-10-30 |
+| [P2P与信：CTGAN×LightGBMが不均衡testでF1 83.28%](digests/2026/10/2026-10-30.md#p2p-credit-risk-resampling) | 2026-10-30 |
+| [Claude Code拡張の供給網侵害：IDE権限でSSH backdoorと永続化を試行](digests/2026/10/2026-10-30.md#claude-code-extension-compromise) | 2026-10-30（公式noticeは10/29） |
+| [Martin Fowler「LLM Voice」：生成文らしさを読者体験として扱う](digests/2026/10/2026-10-30.md#llm-voice) | 2026-10-29 |
+
+[2026-10-29号](digests/2026/10/2026-10-29.md) — AIニュース3件、事業向け3件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Mistral Large 4：1T MoEのweightsをFP8／NVFP4で公開](digests/2026/10/2026-10-29.md#mistral-large-4-open-weights) | 2026-10-29 |
+| [OpenAI Model Spec改訂：human intent・agency・side effectを行動原則へ](digests/2026/10/2026-10-29.md#openai-model-spec-oct29) | 2026-10-29 |
+| [Gemini app：文書・PDF・slide・sheet・codeをchat内で直接編集](digests/2026/10/2026-10-29.md#gemini-direct-file-editing) | 2026-10-29 |
+| [Microsoft Copilot for Finance：25超のskillで決算・照合・投資分析を支援](digests/2026/10/2026-10-29.md#copilot-finance-skills) | 2026-10-29 |
+| [Knowledge Catalog：複数semantic modelを共通context graphへGA](digests/2026/10/2026-10-29.md#knowledge-catalog-semantic-models) | 2026-10-29 |
+| [BigQuery×Databricks Iceberg：複製なしで最大5分refresh](digests/2026/10/2026-10-29.md#bigquery-databricks-iceberg) | 2026-10-29 |
+| [Qwenputer：Qwen3.5のweights内へdeterministic RISC-V CPUをcompile](digests/2026/10/2026-10-29.md#qwenputer-riscv) | 2026-10-22 |
+| [Claude Code background agent要約：利用者測定16.4%と全体telemetry約2%の差](digests/2026/10/2026-10-29.md#claude-agent-summary-cost) | 2026-10-29 |
+
 [2026-10-28号](digests/2026/10/2026-10-28.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |

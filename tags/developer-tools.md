@@ -192,3 +192,21 @@
 | 2026-10-28 | [GitHub Copilot Fusion GA：複数modelを自動routing](../digests/2026/10/2026-10-28.md#copilot-fusion-ga) | 2026-10-28 |
 | 2026-10-28 | [Ghostty 1.4：scrollback memory 70〜90%削減](../digests/2026/10/2026-10-28.md#ghostty-1-4) | 2026-10-27 |
 | 2026-10-28 | [macOS付属git／curlのeMudhra証明書信頼問題](../digests/2026/10/2026-10-28.md#macos-emudhra-trust) | 2026-10-28 |
+
+## 2026-10-29
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-29 | [Mistral Large 4のopen weights](../digests/2026/10/2026-10-29.md#mistral-large-4-open-weights) | 2026-10-29 |
+| 2026-10-29 | [Gemini appのファイル直接編集](../digests/2026/10/2026-10-29.md#gemini-direct-file-editing) | 2026-10-29 |
+| 2026-10-29 | [Qwenputer](../digests/2026/10/2026-10-29.md#qwenputer-riscv) | 2026-10-22 |
+| 2026-10-29 | [Claude Code background agent要約のcost](../digests/2026/10/2026-10-29.md#claude-agent-summary-cost) | 2026-10-29 |
+
+## 2026-10-30
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-30 | [OpenAI：共通のAI学習選好signalを支持](../digests/2026/10/2026-10-30.md#ai-training-preference-signal) | 2026-10-30 |
+| 2026-10-30 | [Claude Code拡張の供給網侵害](../digests/2026/10/2026-10-30.md#claude-code-extension-compromise) | 2026-10-30（公式noticeは10/29） |
+| 2026-10-30 | [Martin Fowler「LLM Voice」](../digests/2026/10/2026-10-30.md#llm-voice) | 2026-10-29 |
+
