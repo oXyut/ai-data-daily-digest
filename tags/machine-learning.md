@@ -252,3 +252,8 @@
 | 2026-10-30 | [GPT‑6 Rosalind Research](../digests/2026/10/2026-10-30.md#gpt-6-rosalind) | 2026-10-30 |
 | 2026-10-30 | [P2P与信：CTGAN×LightGBMがF1 83.28%](../digests/2026/10/2026-10-30.md#p2p-credit-risk-resampling) | 2026-10-30 |
 
+## 2026-10-31
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-31 | [TinyWorldFormer](../digests/2026/10/2026-10-31.md#tinyworldformer-pico2) | 2026-10-22 |

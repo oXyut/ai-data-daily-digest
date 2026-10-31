@@ -210,3 +210,9 @@
 | 2026-10-30 | [Claude Code拡張の供給網侵害](../digests/2026/10/2026-10-30.md#claude-code-extension-compromise) | 2026-10-30（公式noticeは10/29） |
 | 2026-10-30 | [Martin Fowler「LLM Voice」](../digests/2026/10/2026-10-30.md#llm-voice) | 2026-10-29 |
 
+## 2026-10-31
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-31 | [TinyWorldFormer](../digests/2026/10/2026-10-31.md#tinyworldformer-pico2) | 2026-10-22 |
+| 2026-10-31 | [Pico CSS maintenance終了](../digests/2026/10/2026-10-31.md#pico-css-maintenance-end) | 2026-10-04 |

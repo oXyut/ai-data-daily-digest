@@ -6,6 +6,13 @@
 
 ### October
 
+[2026-10-31号](digests/2026/10/2026-10-31.md) — AIニュース0件（適格項目なし）、事業向け0件（適格項目なし）、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [TinyWorldFormer：Raspberry Pi Pico 2 W上でworld modelとagentを同時実行](digests/2026/10/2026-10-31.md#tinyworldformer-pico2) | 2026-10-22 |
+| [Pico CSS：v2.1.1を最終版としてmaintenance終了](digests/2026/10/2026-10-31.md#pico-css-maintenance-end) | 2026-10-04 |
+
 [2026-10-30号](digests/2026/10/2026-10-30.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
