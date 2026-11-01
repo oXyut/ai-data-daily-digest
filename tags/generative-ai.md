@@ -288,3 +288,10 @@
 | 2026-10-30 | [Claude Code拡張の供給網侵害](../digests/2026/10/2026-10-30.md#claude-code-extension-compromise) | 2026-10-30（公式noticeは10/29） |
 | 2026-10-30 | [Martin Fowler「LLM Voice」](../digests/2026/10/2026-10-30.md#llm-voice) | 2026-10-29 |
 
+## 2026-11-01
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-01 | [OpenAI：ChatGPTとCodexの利用枠を共通化](../digests/2026/11/2026-11-01.md#chatgpt-codex-shared-allowance) | 2026-11-01（absolute date表示なし） |
+| 2026-11-01 | [JavaScript frameworkのAI agent cost比較](../digests/2026/11/2026-11-01.md#ai-cost-javascript-frameworks) | 2026-10-28 |
+| 2026-11-01 | [HackerBooks](../digests/2026/11/2026-11-01.md#hackerbooks-hn-catalog) | 2026-11-01 |

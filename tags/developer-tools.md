@@ -216,3 +216,11 @@
 | --- | --- | --- |
 | 2026-10-31 | [TinyWorldFormer](../digests/2026/10/2026-10-31.md#tinyworldformer-pico2) | 2026-10-22 |
 | 2026-10-31 | [Pico CSS maintenance終了](../digests/2026/10/2026-10-31.md#pico-css-maintenance-end) | 2026-10-04 |
+
+## 2026-11-01
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-01 | [OpenAI：ChatGPTとCodexの利用枠を共通化](../digests/2026/11/2026-11-01.md#chatgpt-codex-shared-allowance) | 2026-11-01（absolute date表示なし） |
+| 2026-11-01 | [JavaScript frameworkのAI agent cost比較](../digests/2026/11/2026-11-01.md#ai-cost-javascript-frameworks) | 2026-10-28 |
+| 2026-11-01 | [HackerBooks](../digests/2026/11/2026-11-01.md#hackerbooks-hn-catalog) | 2026-11-01 |

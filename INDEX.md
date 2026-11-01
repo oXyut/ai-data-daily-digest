@@ -4,6 +4,16 @@
 
 ## 2026
 
+### November
+
+[2026-11-01号](digests/2026/11/2026-11-01.md) — AIニュース1件、事業向け0件（適格項目なし）、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [OpenAI：ChatGPTとCodexの利用枠を12月から共通化](digests/2026/11/2026-11-01.md#chatgpt-codex-shared-allowance) | 2026-11-01（absolute date表示なし。相対更新・archiveで確認） |
+| [JavaScript framework選択がAI coding agentのcostへ与える影響](digests/2026/11/2026-11-01.md#ai-cost-javascript-frameworks) | 2026-10-28 |
+| [HackerBooks：Hacker Newsの16,500冊を言及commentへ逆linkするcatalog](digests/2026/11/2026-11-01.md#hackerbooks-hn-catalog) | 2026-11-01 |
+
 ### October
 
 [2026-10-31号](digests/2026/10/2026-10-31.md) — AIニュース0件（適格項目なし）、事業向け0件（適格項目なし）、最近の話題のIT記事2件。話題記事のみ公開日例外。

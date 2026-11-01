@@ -157,3 +157,8 @@
 | --- | --- | --- |
 | 2026-10-30 | [SageMaker Unified Studioの役割別designations](../digests/2026/10/2026-10-30.md#sagemaker-designations) | 2026-10-30 |
 
+## 2026-11-01
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-01 | [HackerBooks](../digests/2026/11/2026-11-01.md#hackerbooks-hn-catalog) | 2026-11-01 |
