@@ -6,6 +6,18 @@
 
 ### November
 
+[2026-11-02号](digests/2026/11/2026-11-02.md) — AIニュース2件、事業向け2件、最近の話題のIT記事3件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [MIT CSAIL：LLMがneural networkのweightsを読み書き](digests/2026/11/2026-11-02.md#weight-space-programming) | 2026-11-02 |
+| [Google Threat Intelligence：LLMJackingの攻撃・転売経路を調査](digests/2026/11/2026-11-02.md#llmjacking-enterprise-cost) | 2026-11-02 |
+| [Rのnarrow toolで臨床安全性集計を検証可能にするagent](digests/2026/11/2026-11-02.md#ellmer-clinical-agent) | 2026-11-02 |
+| [PostHog：1兆行・2PBでDuckDB／DuckLakeから再設計](digests/2026/11/2026-11-02.md#posthog-off-duckdb) | 2026-11-02 |
+| [PostgreSQL 19のrelease遅延とAIによるbug発見量](digests/2026/11/2026-11-02.md#postgres19-ai-bugs) | 2026-10-30 |
+| [Cloudflare：DNS buildのmemory 85%減、median delay半減](digests/2026/11/2026-11-02.md#cloudflare-targeted-zone-builds) | 2026-11-02 |
+| [Zenn：AI時代のno look mergeと組織の責任設計](digests/2026/11/2026-11-02.md#zenn-no-look-merge) | 2026-10-27（10/28更新） |
+
 [2026-11-01号](digests/2026/11/2026-11-01.md) — AIニュース1件、事業向け0件（適格項目なし）、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |

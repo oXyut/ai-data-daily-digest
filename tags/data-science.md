@@ -279,3 +279,9 @@
 | 2026-10-30 | [SageMaker Unified Studioの役割別designations](../digests/2026/10/2026-10-30.md#sagemaker-designations) | 2026-10-30 |
 | 2026-10-30 | [P2P与信：CTGAN×LightGBMがF1 83.28%](../digests/2026/10/2026-10-30.md#p2p-credit-risk-resampling) | 2026-10-30 |
 
+## 2026-11-02
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-02 | [Rのnarrow toolで臨床安全性集計を検証可能にするagent](../digests/2026/11/2026-11-02.md#ellmer-clinical-agent) | 2026-11-02 |
+| 2026-11-02 | [PostHog：1兆行・2PBでDuckDB／DuckLakeから再設計](../digests/2026/11/2026-11-02.md#posthog-off-duckdb) | 2026-11-02 |

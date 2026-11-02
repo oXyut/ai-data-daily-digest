@@ -257,3 +257,9 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-10-31 | [TinyWorldFormer](../digests/2026/10/2026-10-31.md#tinyworldformer-pico2) | 2026-10-22 |
+
+## 2026-11-02
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-02 | [MIT CSAIL：LLMがneural networkのweightsを読み書き](../digests/2026/11/2026-11-02.md#weight-space-programming) | 2026-11-02 |
