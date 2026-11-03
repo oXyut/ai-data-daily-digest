@@ -234,3 +234,11 @@
 | 2026-11-02 | [PostgreSQL 19のrelease遅延とAIによるbug発見量](../digests/2026/11/2026-11-02.md#postgres19-ai-bugs) | 2026-10-30 |
 | 2026-11-02 | [Cloudflare：DNS buildのmemory 85%減、median delay半減](../digests/2026/11/2026-11-02.md#cloudflare-targeted-zone-builds) | 2026-11-02 |
 | 2026-11-02 | [Zenn：AI時代のno look mergeと組織の責任設計](../digests/2026/11/2026-11-02.md#zenn-no-look-merge) | 2026-10-27（10/28更新） |
+
+## 2026-11-03
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-03 | [GitHub CopilotがJetBrains Airで利用可能に](../digests/2026/11/2026-11-03.md#copilot-jetbrains-air) | 2026-11-03 |
+| 2026-11-03 | [Snowflake：self-healing pipelineとreal-time analytics](../digests/2026/11/2026-11-03.md#snowflake-autonomous-data-engineering) | 2026-11-03 |
+| 2026-11-03 | [OpenAI：agent-scale Git backend「Pando」](../digests/2026/11/2026-11-03.md#openai-scaling-git) | 2026-11-02 |
