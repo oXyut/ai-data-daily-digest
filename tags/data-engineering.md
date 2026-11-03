@@ -169,3 +169,10 @@
 | --- | --- | --- |
 | 2026-11-02 | [PostHog：1兆行・2PBでDuckDB／DuckLakeから再設計](../digests/2026/11/2026-11-02.md#posthog-off-duckdb) | 2026-11-02 |
 | 2026-11-02 | [Cloudflare：DNS buildのmemory 85%減、median delay半減](../digests/2026/11/2026-11-02.md#cloudflare-targeted-zone-builds) | 2026-11-02 |
+
+## 2026-11-03
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-03 | [Snowflake：self-healing pipelineとreal-time analytics](../digests/2026/11/2026-11-03.md#snowflake-autonomous-data-engineering) | 2026-11-03 |
+| 2026-11-03 | [OpenAI：agent-scale Git backend「Pando」](../digests/2026/11/2026-11-03.md#openai-scaling-git) | 2026-11-02 |
