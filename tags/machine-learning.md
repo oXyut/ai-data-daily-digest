@@ -263,3 +263,12 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-11-02 | [MIT CSAIL：LLMがneural networkのweightsを読み書き](../digests/2026/11/2026-11-02.md#weight-space-programming) | 2026-11-02 |
+
+## 2026-11-03
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-03 | [OpenAI：GPT-6 Astraで物理機器の設計から試作までを支援](../digests/2026/11/2026-11-03.md#openai-physical-engineering) | 2026-11-03 |
+| 2026-11-03 | [Google Cloud：Physical-Engineering’s Last Exam](../digests/2026/11/2026-11-03.md#physical-engineerings-last-exam) | 2026-11-03 |
+| 2026-11-03 | [USA Cycling：sensor・video・競技結果をLA28戦略へ活用](../digests/2026/11/2026-11-03.md#usa-cycling-data-strategy) | 2026-11-03 |
+| 2026-11-03 | [Weight-Space Programmingの実験条件を分解する批評](../digests/2026/11/2026-11-03.md#weight-space-critique) | 2026-11-03 |
