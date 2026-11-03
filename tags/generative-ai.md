@@ -305,3 +305,13 @@
 | 2026-11-02 | [Rのnarrow toolで臨床安全性集計を検証可能にするagent](../digests/2026/11/2026-11-02.md#ellmer-clinical-agent) | 2026-11-02 |
 | 2026-11-02 | [PostgreSQL 19のrelease遅延とAIによるbug発見量](../digests/2026/11/2026-11-02.md#postgres19-ai-bugs) | 2026-10-30 |
 | 2026-11-02 | [Zenn：AI時代のno look mergeと組織の責任設計](../digests/2026/11/2026-11-02.md#zenn-no-look-merge) | 2026-10-27（10/28更新） |
+
+## 2026-11-03
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-03 | [OpenAI：GPT-6 Astraで物理機器の設計から試作までを支援](../digests/2026/11/2026-11-03.md#openai-physical-engineering) | 2026-11-03 |
+| 2026-11-03 | [Google Cloud：Physical-Engineering’s Last Exam](../digests/2026/11/2026-11-03.md#physical-engineerings-last-exam) | 2026-11-03 |
+| 2026-11-03 | [GitHub CopilotがJetBrains Airで利用可能に](../digests/2026/11/2026-11-03.md#copilot-jetbrains-air) | 2026-11-03 |
+| 2026-11-03 | [Snowflake：self-healing pipelineとreal-time analytics](../digests/2026/11/2026-11-03.md#snowflake-autonomous-data-engineering) | 2026-11-03 |
+| 2026-11-03 | [Weight-Space Programmingの実験条件を分解する批評](../digests/2026/11/2026-11-03.md#weight-space-critique) | 2026-11-03 |
