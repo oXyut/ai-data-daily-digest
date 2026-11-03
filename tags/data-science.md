@@ -285,3 +285,9 @@
 | --- | --- | --- |
 | 2026-11-02 | [Rのnarrow toolで臨床安全性集計を検証可能にするagent](../digests/2026/11/2026-11-02.md#ellmer-clinical-agent) | 2026-11-02 |
 | 2026-11-02 | [PostHog：1兆行・2PBでDuckDB／DuckLakeから再設計](../digests/2026/11/2026-11-02.md#posthog-off-duckdb) | 2026-11-02 |
+
+## 2026-11-03
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-03 | [USA Cycling：sensor・video・競技結果をLA28戦略へ活用](../digests/2026/11/2026-11-03.md#usa-cycling-data-strategy) | 2026-11-03 |
