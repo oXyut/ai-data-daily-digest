@@ -6,6 +6,18 @@
 
 ### November
 
+[2026-11-03号](digests/2026/11/2026-11-03.md) — AIニュース3件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [OpenAI：GPT-6 Astraで物理機器の設計から試作までを支援](digests/2026/11/2026-11-03.md#openai-physical-engineering) | 2026-11-03 |
+| [Google Cloud：Physical-Engineering’s Last Exam](digests/2026/11/2026-11-03.md#physical-engineerings-last-exam) | 2026-11-03 |
+| [GitHub CopilotがJetBrains Airで利用可能に](digests/2026/11/2026-11-03.md#copilot-jetbrains-air) | 2026-11-03 |
+| [Snowflake：self-healing pipelineとreal-time analytics](digests/2026/11/2026-11-03.md#snowflake-autonomous-data-engineering) | 2026-11-03 |
+| [USA Cycling：sensor・video・競技結果をLA28戦略へ活用](digests/2026/11/2026-11-03.md#usa-cycling-data-strategy) | 2026-11-03 |
+| [Weight-Space Programmingのheadlineと実験条件を分解する批評](digests/2026/11/2026-11-03.md#weight-space-critique) | 2026-11-03 |
+| [OpenAI：agent-scale Git backend「Pando」](digests/2026/11/2026-11-03.md#openai-scaling-git) | 2026-11-02 |
+
 [2026-11-02号](digests/2026/11/2026-11-02.md) — AIニュース2件、事業向け2件、最近の話題のIT記事3件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
