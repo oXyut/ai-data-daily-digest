@@ -6,6 +6,18 @@
 
 ### November
 
+[2026-11-04号](digests/2026/11/2026-11-04.md) — AIニュース3件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [OpenAI：GPT-5.6 CyberをAWS GovCloud US-Eastへ提供](digests/2026/11/2026-11-04.md#daybreak-red-govcloud) | 2026-11-04 |
+| [Dharma Field Extractor：2B modelで文書を指定schemaのJSONへ変換](digests/2026/11/2026-11-04.md#dharma-field-extractor) | 2026-11-04 |
+| [Google Cloud：Agentic Data CloudでIceberg・Gemini・cross-cloud dataを統合](digests/2026/11/2026-11-04.md#google-agentic-data-cloud) | 2026-11-04 |
+| [U Mobile：8 agentで通信support ticketを主要category最大84.5%削減](digests/2026/11/2026-11-04.md#u-mobile-aidah) | 2026-11-04 |
+| [Indegene：life sciencesのdata quality rule作成を約30時間から4時間へ短縮](digests/2026/11/2026-11-04.md#indegene-data-quality-agent) | 2026-11-04 |
+| [IEEE Spectrum：PHP2Shellが示すAI時代のlegacy software debt](digests/2026/11/2026-11-04.md#php2shell-technical-debt) | 2026-11-04（page metadata） |
+| [kitty 0.50：docked windowとlogout後session restore](digests/2026/11/2026-11-04.md#kitty-050) | 2026-11-03 |
+
 [2026-11-03号](digests/2026/11/2026-11-03.md) — AIニュース3件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
