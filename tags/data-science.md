@@ -291,3 +291,12 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-11-03 | [USA Cycling：sensor・video・競技結果をLA28戦略へ活用](../digests/2026/11/2026-11-03.md#usa-cycling-data-strategy) | 2026-11-03 |
+
+## 2026-11-04
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-04 | [Dharma Field Extractor：2B modelで文書を指定schemaのJSONへ変換](../digests/2026/11/2026-11-04.md#dharma-field-extractor) | 2026-11-04 |
+| 2026-11-04 | [Google Cloud：Agentic Data CloudでIceberg・Gemini・cross-cloud dataを統合](../digests/2026/11/2026-11-04.md#google-agentic-data-cloud) | 2026-11-04 |
+| 2026-11-04 | [U Mobile：8 agentで通信support ticketを主要category最大84.5%削減](../digests/2026/11/2026-11-04.md#u-mobile-aidah) | 2026-11-04 |
+| 2026-11-04 | [Indegene：life sciencesのdata quality rule作成を約30時間から4時間へ短縮](../digests/2026/11/2026-11-04.md#indegene-data-quality-agent) | 2026-11-04 |
