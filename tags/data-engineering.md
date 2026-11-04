@@ -176,3 +176,10 @@
 | --- | --- | --- |
 | 2026-11-03 | [Snowflake：self-healing pipelineとreal-time analytics](../digests/2026/11/2026-11-03.md#snowflake-autonomous-data-engineering) | 2026-11-03 |
 | 2026-11-03 | [OpenAI：agent-scale Git backend「Pando」](../digests/2026/11/2026-11-03.md#openai-scaling-git) | 2026-11-02 |
+
+## 2026-11-04
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-04 | [Google Cloud：Agentic Data CloudでIceberg・Gemini・cross-cloud dataを統合](../digests/2026/11/2026-11-04.md#google-agentic-data-cloud) | 2026-11-04 |
+| 2026-11-04 | [Indegene：life sciencesのdata quality rule作成を約30時間から4時間へ短縮](../digests/2026/11/2026-11-04.md#indegene-data-quality-agent) | 2026-11-04 |
