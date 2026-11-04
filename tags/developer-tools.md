@@ -242,3 +242,11 @@
 | 2026-11-03 | [GitHub CopilotがJetBrains Airで利用可能に](../digests/2026/11/2026-11-03.md#copilot-jetbrains-air) | 2026-11-03 |
 | 2026-11-03 | [Snowflake：self-healing pipelineとreal-time analytics](../digests/2026/11/2026-11-03.md#snowflake-autonomous-data-engineering) | 2026-11-03 |
 | 2026-11-03 | [OpenAI：agent-scale Git backend「Pando」](../digests/2026/11/2026-11-03.md#openai-scaling-git) | 2026-11-02 |
+
+## 2026-11-04
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-04 | [OpenAI：GPT-5.6 CyberをAWS GovCloud US-Eastへ提供](../digests/2026/11/2026-11-04.md#daybreak-red-govcloud) | 2026-11-04 |
+| 2026-11-04 | [IEEE Spectrum：PHP2Shellが示すAI時代のlegacy software debt](../digests/2026/11/2026-11-04.md#php2shell-technical-debt) | 2026-11-04（page metadata） |
+| 2026-11-04 | [kitty 0.50：docked windowとlogout後session restore](../digests/2026/11/2026-11-04.md#kitty-050) | 2026-11-03 |
