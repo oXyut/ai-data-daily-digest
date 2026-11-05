@@ -300,3 +300,12 @@
 | 2026-11-04 | [Google Cloud：Agentic Data CloudでIceberg・Gemini・cross-cloud dataを統合](../digests/2026/11/2026-11-04.md#google-agentic-data-cloud) | 2026-11-04 |
 | 2026-11-04 | [U Mobile：8 agentで通信support ticketを主要category最大84.5%削減](../digests/2026/11/2026-11-04.md#u-mobile-aidah) | 2026-11-04 |
 | 2026-11-04 | [Indegene：life sciencesのdata quality rule作成を約30時間から4時間へ短縮](../digests/2026/11/2026-11-04.md#indegene-data-quality-agent) | 2026-11-04 |
+
+## 2026-11-05
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-05 | [Anthropic：20.7万研究sessionからAIの科学利用を分析](../digests/2026/11/2026-11-05.md#anthropic-scientific-use) | 2026-11-05 |
+| 2026-11-05 | [Amazon Marketplace：VLM・OCR・CatBoostで商品ページ品質を評価](../digests/2026/11/2026-11-05.md#amazon-marketplace-content-quality) | 2026-11-05 |
+| 2026-11-05 | [Google Research：smartwatch sensorで高血圧の兆候をpassive screening](../digests/2026/11/2026-11-05.md#wearable-hypertension-screening) | 2026-11-05 |
+| 2026-11-05 | [Qiita：Decision RAGをNaive RAGと実装比較](../digests/2026/11/2026-11-05.md#qiita-decision-rag) | 2026-11-01（11/2更新） |
