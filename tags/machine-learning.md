@@ -278,3 +278,10 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-11-04 | [Dharma Field Extractor：2B modelで文書を指定schemaのJSONへ変換](../digests/2026/11/2026-11-04.md#dharma-field-extractor) | 2026-11-04 |
+
+## 2026-11-05
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-05 | [Amazon Marketplace：VLM・OCR・CatBoostで商品ページ品質を評価](../digests/2026/11/2026-11-05.md#amazon-marketplace-content-quality) | 2026-11-05 |
+| 2026-11-05 | [Google Research：smartwatch sensorで高血圧の兆候をpassive screening](../digests/2026/11/2026-11-05.md#wearable-hypertension-screening) | 2026-11-05 |
