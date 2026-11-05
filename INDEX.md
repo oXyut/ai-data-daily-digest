@@ -6,6 +6,17 @@
 
 ### November
 
+[2026-11-05号](digests/2026/11/2026-11-05.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [GPT‑6 Cyber：脆弱性探索とscope遵守を同時に強化](digests/2026/11/2026-11-05.md#gpt-6-cyber) | 2026-11-05 |
+| [Anthropic：20.7万研究sessionからAIの科学利用を分析](digests/2026/11/2026-11-05.md#anthropic-scientific-use) | 2026-11-05 |
+| [Amazon Marketplace：VLM・OCR・CatBoostで商品ページ品質を評価](digests/2026/11/2026-11-05.md#amazon-marketplace-content-quality) | 2026-11-05 |
+| [Google Research：smartwatch sensorで高血圧の兆候をpassive screening](digests/2026/11/2026-11-05.md#wearable-hypertension-screening) | 2026-11-05 |
+| [Qiita：AI生成code commentの「読めば分かる」「用語不一致」など9パターン](digests/2026/11/2026-11-05.md#qiita-ai-code-comments) | 2026-10-31 |
+| [Qiita：Decision RAGをNaive RAGと実装比較](digests/2026/11/2026-11-05.md#qiita-decision-rag) | 2026-11-01（11/2更新） |
+
 [2026-11-04号](digests/2026/11/2026-11-04.md) — AIニュース3件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
