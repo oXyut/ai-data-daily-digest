@@ -250,3 +250,11 @@
 | 2026-11-04 | [OpenAI：GPT-5.6 CyberをAWS GovCloud US-Eastへ提供](../digests/2026/11/2026-11-04.md#daybreak-red-govcloud) | 2026-11-04 |
 | 2026-11-04 | [IEEE Spectrum：PHP2Shellが示すAI時代のlegacy software debt](../digests/2026/11/2026-11-04.md#php2shell-technical-debt) | 2026-11-04（page metadata） |
 | 2026-11-04 | [kitty 0.50：docked windowとlogout後session restore](../digests/2026/11/2026-11-04.md#kitty-050) | 2026-11-03 |
+
+## 2026-11-05
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-05 | [GPT‑6 Cyber：脆弱性探索とscope遵守を同時に強化](../digests/2026/11/2026-11-05.md#gpt-6-cyber) | 2026-11-05 |
+| 2026-11-05 | [Qiita：AI生成code commentの9パターン](../digests/2026/11/2026-11-05.md#qiita-ai-code-comments) | 2026-10-31 |
+| 2026-11-05 | [Qiita：Decision RAGをNaive RAGと実装比較](../digests/2026/11/2026-11-05.md#qiita-decision-rag) | 2026-11-01（11/2更新） |
