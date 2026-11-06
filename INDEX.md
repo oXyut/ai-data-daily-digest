@@ -6,6 +6,17 @@
 
 ### November
 
+[2026-11-06号](digests/2026/11/2026-11-06.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Anthropic Project EVE：市場取引と4 agent協働で長期行動を検証](digests/2026/11/2026-11-06.md#anthropic-project-eve) | 2026-11-06 |
+| [SageMaker Inference：MIGで1 GPUを最大7つの隔離partitionへ分割](digests/2026/11/2026-11-06.md#sagemaker-mig-inference) | 2026-11-06 |
+| [BigQuery DataFrames：pandasから予測・予測時系列・分類を直接実行](digests/2026/11/2026-11-06.md#bigquery-pandas-ai-accessor) | 2026-11-06 |
+| [Taxbit Assist：規制対象supportへ引用・権限・地域境界を組み込む](digests/2026/11/2026-11-06.md#taxbit-assist-agent) | 2026-11-06 |
+| [Qiita：チケットからPRまでを回す「ソフトウェアファクトリー」の構成とブレーキ](digests/2026/11/2026-11-06.md#qiita-software-factory) | 2026-11-04 |
+| [Kevin Boone：Linuxから始めるUEFI bare-metal programming入門](digests/2026/11/2026-11-06.md#uefi-bare-metal-series) | 2026-10-12 |
+
 [2026-11-05号](digests/2026/11/2026-11-05.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
