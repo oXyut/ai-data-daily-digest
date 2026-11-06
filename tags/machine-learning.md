@@ -285,3 +285,11 @@
 | --- | --- | --- |
 | 2026-11-05 | [Amazon Marketplace：VLM・OCR・CatBoostで商品ページ品質を評価](../digests/2026/11/2026-11-05.md#amazon-marketplace-content-quality) | 2026-11-05 |
 | 2026-11-05 | [Google Research：smartwatch sensorで高血圧の兆候をpassive screening](../digests/2026/11/2026-11-05.md#wearable-hypertension-screening) | 2026-11-05 |
+
+## 2026-11-06
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-06 | [Anthropic Project EVE：市場取引と4 agent協働で長期行動を検証](../digests/2026/11/2026-11-06.md#anthropic-project-eve) | 2026-11-06 |
+| 2026-11-06 | [SageMaker Inference：MIGで1 GPUを最大7つの隔離partitionへ分割](../digests/2026/11/2026-11-06.md#sagemaker-mig-inference) | 2026-11-06 |
+| 2026-11-06 | [BigQuery DataFrames：pandasから予測・予測時系列・分類を直接実行](../digests/2026/11/2026-11-06.md#bigquery-pandas-ai-accessor) | 2026-11-06 |
