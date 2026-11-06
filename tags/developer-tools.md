@@ -258,3 +258,11 @@
 | 2026-11-05 | [GPT‑6 Cyber：脆弱性探索とscope遵守を同時に強化](../digests/2026/11/2026-11-05.md#gpt-6-cyber) | 2026-11-05 |
 | 2026-11-05 | [Qiita：AI生成code commentの9パターン](../digests/2026/11/2026-11-05.md#qiita-ai-code-comments) | 2026-10-31 |
 | 2026-11-05 | [Qiita：Decision RAGをNaive RAGと実装比較](../digests/2026/11/2026-11-05.md#qiita-decision-rag) | 2026-11-01（11/2更新） |
+
+## 2026-11-06
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-06 | [SageMaker Inference：MIGで1 GPUを最大7つの隔離partitionへ分割](../digests/2026/11/2026-11-06.md#sagemaker-mig-inference) | 2026-11-06 |
+| 2026-11-06 | [Qiita：チケットからPRまでを回す「ソフトウェアファクトリー」の構成とブレーキ](../digests/2026/11/2026-11-06.md#qiita-software-factory) | 2026-11-04 |
+| 2026-11-06 | [Kevin Boone：Linuxから始めるUEFI bare-metal programming入門](../digests/2026/11/2026-11-06.md#uefi-bare-metal-series) | 2026-10-12 |
