@@ -309,3 +309,10 @@
 | 2026-11-05 | [Amazon Marketplace：VLM・OCR・CatBoostで商品ページ品質を評価](../digests/2026/11/2026-11-05.md#amazon-marketplace-content-quality) | 2026-11-05 |
 | 2026-11-05 | [Google Research：smartwatch sensorで高血圧の兆候をpassive screening](../digests/2026/11/2026-11-05.md#wearable-hypertension-screening) | 2026-11-05 |
 | 2026-11-05 | [Qiita：Decision RAGをNaive RAGと実装比較](../digests/2026/11/2026-11-05.md#qiita-decision-rag) | 2026-11-01（11/2更新） |
+
+## 2026-11-06
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-06 | [BigQuery DataFrames：pandasから予測・予測時系列・分類を直接実行](../digests/2026/11/2026-11-06.md#bigquery-pandas-ai-accessor) | 2026-11-06 |
+| 2026-11-06 | [Taxbit Assist：規制対象supportへ引用・権限・地域境界を組み込む](../digests/2026/11/2026-11-06.md#taxbit-assist-agent) | 2026-11-06 |
