@@ -143,3 +143,50 @@
 | 掲載号 | トピック | 一次情報の公開日 |
 | --- | --- | --- |
 | 2026-10-28 | [AlloyDB AI：embedding modelを停止なしでblue/green移行](../digests/2026/10/2026-10-28.md#alloydb-embedding-upgrade) | 2026-10-28 |
+
+## 2026-10-29
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-29 | [Knowledge Catalogの複数semantic model対応](../digests/2026/10/2026-10-29.md#knowledge-catalog-semantic-models) | 2026-10-29 |
+| 2026-10-29 | [BigQuery×Databricks Icebergのzero-copy分析](../digests/2026/10/2026-10-29.md#bigquery-databricks-iceberg) | 2026-10-29 |
+
+## 2026-10-30
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-30 | [SageMaker Unified Studioの役割別designations](../digests/2026/10/2026-10-30.md#sagemaker-designations) | 2026-10-30 |
+
+## 2026-11-01
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-01 | [HackerBooks](../digests/2026/11/2026-11-01.md#hackerbooks-hn-catalog) | 2026-11-01 |
+
+## 2026-11-02
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-02 | [PostHog：1兆行・2PBでDuckDB／DuckLakeから再設計](../digests/2026/11/2026-11-02.md#posthog-off-duckdb) | 2026-11-02 |
+| 2026-11-02 | [Cloudflare：DNS buildのmemory 85%減、median delay半減](../digests/2026/11/2026-11-02.md#cloudflare-targeted-zone-builds) | 2026-11-02 |
+
+## 2026-11-03
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-03 | [Snowflake：self-healing pipelineとreal-time analytics](../digests/2026/11/2026-11-03.md#snowflake-autonomous-data-engineering) | 2026-11-03 |
+| 2026-11-03 | [OpenAI：agent-scale Git backend「Pando」](../digests/2026/11/2026-11-03.md#openai-scaling-git) | 2026-11-02 |
+
+## 2026-11-04
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-04 | [Google Cloud：Agentic Data CloudでIceberg・Gemini・cross-cloud dataを統合](../digests/2026/11/2026-11-04.md#google-agentic-data-cloud) | 2026-11-04 |
+| 2026-11-04 | [Indegene：life sciencesのdata quality rule作成を約30時間から4時間へ短縮](../digests/2026/11/2026-11-04.md#indegene-data-quality-agent) | 2026-11-04 |
+
+## 2026-11-06
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-06 | [SageMaker Inference：MIGで1 GPUを最大7つの隔離partitionへ分割](../digests/2026/11/2026-11-06.md#sagemaker-mig-inference) | 2026-11-06 |
+| 2026-11-06 | [BigQuery DataFrames：pandasから予測・予測時系列・分類を直接実行](../digests/2026/11/2026-11-06.md#bigquery-pandas-ai-accessor) | 2026-11-06 |

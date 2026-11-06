@@ -267,3 +267,79 @@
 | 2026-10-28 | [GitHub Copilot Fusion GA：複数modelを自動routing](../digests/2026/10/2026-10-28.md#copilot-fusion-ga) | 2026-10-28 |
 | 2026-10-28 | [AlloyDB AI：embedding modelを停止なしでblue/green移行](../digests/2026/10/2026-10-28.md#alloydb-embedding-upgrade) | 2026-10-28 |
 | 2026-10-28 | [Legora：法務AIをplaybook＋人手確認で運用](../digests/2026/10/2026-10-28.md#legora-legal-ai) | 2026-10-28 |
+
+## 2026-10-29
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-29 | [Mistral Large 4のopen weights](../digests/2026/10/2026-10-29.md#mistral-large-4-open-weights) | 2026-10-29 |
+| 2026-10-29 | [OpenAI Model Spec改訂](../digests/2026/10/2026-10-29.md#openai-model-spec-oct29) | 2026-10-29 |
+| 2026-10-29 | [Gemini appのファイル直接編集](../digests/2026/10/2026-10-29.md#gemini-direct-file-editing) | 2026-10-29 |
+| 2026-10-29 | [Microsoft Copilot for Finance](../digests/2026/10/2026-10-29.md#copilot-finance-skills) | 2026-10-29 |
+| 2026-10-29 | [Knowledge Catalogの複数semantic model対応](../digests/2026/10/2026-10-29.md#knowledge-catalog-semantic-models) | 2026-10-29 |
+| 2026-10-29 | [Qwenputer](../digests/2026/10/2026-10-29.md#qwenputer-riscv) | 2026-10-22 |
+
+## 2026-10-30
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-30 | [GPT‑6 Rosalind Research：承認制で生命科学向け推論を提供](../digests/2026/10/2026-10-30.md#gpt-6-rosalind) | 2026-10-30 |
+| 2026-10-30 | [OpenAI：共通のAI学習選好signalを支持](../digests/2026/10/2026-10-30.md#ai-training-preference-signal) | 2026-10-30 |
+| 2026-10-30 | [Claude Code拡張の供給網侵害](../digests/2026/10/2026-10-30.md#claude-code-extension-compromise) | 2026-10-30（公式noticeは10/29） |
+| 2026-10-30 | [Martin Fowler「LLM Voice」](../digests/2026/10/2026-10-30.md#llm-voice) | 2026-10-29 |
+
+## 2026-11-01
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-01 | [OpenAI：ChatGPTとCodexの利用枠を共通化](../digests/2026/11/2026-11-01.md#chatgpt-codex-shared-allowance) | 2026-11-01（absolute date表示なし） |
+| 2026-11-01 | [JavaScript frameworkのAI agent cost比較](../digests/2026/11/2026-11-01.md#ai-cost-javascript-frameworks) | 2026-10-28 |
+| 2026-11-01 | [HackerBooks](../digests/2026/11/2026-11-01.md#hackerbooks-hn-catalog) | 2026-11-01 |
+
+## 2026-11-02
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-02 | [MIT CSAIL：LLMがneural networkのweightsを読み書き](../digests/2026/11/2026-11-02.md#weight-space-programming) | 2026-11-02 |
+| 2026-11-02 | [Google Threat Intelligence：LLMJackingの攻撃・転売経路を調査](../digests/2026/11/2026-11-02.md#llmjacking-enterprise-cost) | 2026-11-02 |
+| 2026-11-02 | [Rのnarrow toolで臨床安全性集計を検証可能にするagent](../digests/2026/11/2026-11-02.md#ellmer-clinical-agent) | 2026-11-02 |
+| 2026-11-02 | [PostgreSQL 19のrelease遅延とAIによるbug発見量](../digests/2026/11/2026-11-02.md#postgres19-ai-bugs) | 2026-10-30 |
+| 2026-11-02 | [Zenn：AI時代のno look mergeと組織の責任設計](../digests/2026/11/2026-11-02.md#zenn-no-look-merge) | 2026-10-27（10/28更新） |
+
+## 2026-11-03
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-03 | [OpenAI：GPT-6 Astraで物理機器の設計から試作までを支援](../digests/2026/11/2026-11-03.md#openai-physical-engineering) | 2026-11-03 |
+| 2026-11-03 | [Google Cloud：Physical-Engineering’s Last Exam](../digests/2026/11/2026-11-03.md#physical-engineerings-last-exam) | 2026-11-03 |
+| 2026-11-03 | [GitHub CopilotがJetBrains Airで利用可能に](../digests/2026/11/2026-11-03.md#copilot-jetbrains-air) | 2026-11-03 |
+| 2026-11-03 | [Snowflake：self-healing pipelineとreal-time analytics](../digests/2026/11/2026-11-03.md#snowflake-autonomous-data-engineering) | 2026-11-03 |
+| 2026-11-03 | [Weight-Space Programmingの実験条件を分解する批評](../digests/2026/11/2026-11-03.md#weight-space-critique) | 2026-11-03 |
+
+## 2026-11-04
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-04 | [OpenAI：GPT-5.6 CyberをAWS GovCloud US-Eastへ提供](../digests/2026/11/2026-11-04.md#daybreak-red-govcloud) | 2026-11-04 |
+| 2026-11-04 | [Dharma Field Extractor：2B modelで文書を指定schemaのJSONへ変換](../digests/2026/11/2026-11-04.md#dharma-field-extractor) | 2026-11-04 |
+| 2026-11-04 | [Google Cloud：Agentic Data CloudでIceberg・Gemini・cross-cloud dataを統合](../digests/2026/11/2026-11-04.md#google-agentic-data-cloud) | 2026-11-04 |
+| 2026-11-04 | [U Mobile：8 agentで通信support ticketを主要category最大84.5%削減](../digests/2026/11/2026-11-04.md#u-mobile-aidah) | 2026-11-04 |
+| 2026-11-04 | [Indegene：life sciencesのdata quality rule作成を約30時間から4時間へ短縮](../digests/2026/11/2026-11-04.md#indegene-data-quality-agent) | 2026-11-04 |
+| 2026-11-04 | [IEEE Spectrum：PHP2Shellが示すAI時代のlegacy software debt](../digests/2026/11/2026-11-04.md#php2shell-technical-debt) | 2026-11-04（page metadata） |
+
+## 2026-11-05
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-05 | [GPT‑6 Cyber：脆弱性探索とscope遵守を同時に強化](../digests/2026/11/2026-11-05.md#gpt-6-cyber) | 2026-11-05 |
+| 2026-11-05 | [Anthropic：20.7万研究sessionからAIの科学利用を分析](../digests/2026/11/2026-11-05.md#anthropic-scientific-use) | 2026-11-05 |
+| 2026-11-05 | [Qiita：AI生成code commentの9パターン](../digests/2026/11/2026-11-05.md#qiita-ai-code-comments) | 2026-10-31 |
+| 2026-11-05 | [Qiita：Decision RAGをNaive RAGと実装比較](../digests/2026/11/2026-11-05.md#qiita-decision-rag) | 2026-11-01（11/2更新） |
+
+## 2026-11-06
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-06 | [Anthropic Project EVE：市場取引と4 agent協働で長期行動を検証](../digests/2026/11/2026-11-06.md#anthropic-project-eve) | 2026-11-06 |
+| 2026-11-06 | [Taxbit Assist：規制対象supportへ引用・権限・地域境界を組み込む](../digests/2026/11/2026-11-06.md#taxbit-assist-agent) | 2026-11-06 |
+| 2026-11-06 | [Qiita：チケットからPRまでを回す「ソフトウェアファクトリー」の構成とブレーキ](../digests/2026/11/2026-11-06.md#qiita-software-factory) | 2026-11-04 |
