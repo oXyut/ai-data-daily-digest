@@ -335,3 +335,11 @@
 | 2026-11-05 | [Anthropic：20.7万研究sessionからAIの科学利用を分析](../digests/2026/11/2026-11-05.md#anthropic-scientific-use) | 2026-11-05 |
 | 2026-11-05 | [Qiita：AI生成code commentの9パターン](../digests/2026/11/2026-11-05.md#qiita-ai-code-comments) | 2026-10-31 |
 | 2026-11-05 | [Qiita：Decision RAGをNaive RAGと実装比較](../digests/2026/11/2026-11-05.md#qiita-decision-rag) | 2026-11-01（11/2更新） |
+
+## 2026-11-06
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-06 | [Anthropic Project EVE：市場取引と4 agent協働で長期行動を検証](../digests/2026/11/2026-11-06.md#anthropic-project-eve) | 2026-11-06 |
+| 2026-11-06 | [Taxbit Assist：規制対象supportへ引用・権限・地域境界を組み込む](../digests/2026/11/2026-11-06.md#taxbit-assist-agent) | 2026-11-06 |
+| 2026-11-06 | [Qiita：チケットからPRまでを回す「ソフトウェアファクトリー」の構成とブレーキ](../digests/2026/11/2026-11-06.md#qiita-software-factory) | 2026-11-04 |
