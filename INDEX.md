@@ -6,6 +6,13 @@
 
 ### November
 
+[2026-11-07号](digests/2026/11/2026-11-07.md) — AIニュース0件（適格項目なし）、事業向け0件（適格項目なし）、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Libghostty 1.0：terminal emulator coreのC ABIを安定化](digests/2026/11/2026-11-07.md#libghostty-1-0) | 2026-11-06 |
+| [macOSのPersonal Knowledge Graph：家族関係推定とlocal storeを解析](digests/2026/11/2026-11-07.md#apple-personal-knowledge-graph) | 2026-10-28 |
+
 [2026-11-06号](digests/2026/11/2026-11-06.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
