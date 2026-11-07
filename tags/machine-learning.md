@@ -293,3 +293,10 @@
 | 2026-11-06 | [Anthropic Project EVE：市場取引と4 agent協働で長期行動を検証](../digests/2026/11/2026-11-06.md#anthropic-project-eve) | 2026-11-06 |
 | 2026-11-06 | [SageMaker Inference：MIGで1 GPUを最大7つの隔離partitionへ分割](../digests/2026/11/2026-11-06.md#sagemaker-mig-inference) | 2026-11-06 |
 | 2026-11-06 | [BigQuery DataFrames：pandasから予測・予測時系列・分類を直接実行](../digests/2026/11/2026-11-06.md#bigquery-pandas-ai-accessor) | 2026-11-06 |
+
+
+## 2026-11-07
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-07 | [macOSのPersonal Knowledge Graph：家族関係推定とlocal storeを解析](../digests/2026/11/2026-11-07.md#apple-personal-knowledge-graph) | 2026-10-28 |
