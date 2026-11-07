@@ -266,3 +266,11 @@
 | 2026-11-06 | [SageMaker Inference：MIGで1 GPUを最大7つの隔離partitionへ分割](../digests/2026/11/2026-11-06.md#sagemaker-mig-inference) | 2026-11-06 |
 | 2026-11-06 | [Qiita：チケットからPRまでを回す「ソフトウェアファクトリー」の構成とブレーキ](../digests/2026/11/2026-11-06.md#qiita-software-factory) | 2026-11-04 |
 | 2026-11-06 | [Kevin Boone：Linuxから始めるUEFI bare-metal programming入門](../digests/2026/11/2026-11-06.md#uefi-bare-metal-series) | 2026-10-12 |
+
+
+## 2026-11-07
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-07 | [Libghostty 1.0：terminal emulator coreのC ABIを安定化](../digests/2026/11/2026-11-07.md#libghostty-1-0) | 2026-11-06 |
+| 2026-11-07 | [macOSのPersonal Knowledge Graph：家族関係推定とlocal storeを解析](../digests/2026/11/2026-11-07.md#apple-personal-knowledge-graph) | 2026-10-28 |
