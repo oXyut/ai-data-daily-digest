@@ -300,3 +300,9 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-11-07 | [macOSのPersonal Knowledge Graph：家族関係推定とlocal storeを解析](../digests/2026/11/2026-11-07.md#apple-personal-knowledge-graph) | 2026-10-28 |
+
+## 2026-11-08
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-08 | [MaxxBench：小さな仕様変更でcoding agent benchmarkの一般化を測る](../digests/2026/11/2026-11-08.md#maxxbench-generalization) | 2026-10-20 |
