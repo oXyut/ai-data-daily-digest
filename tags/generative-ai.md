@@ -343,3 +343,11 @@
 | 2026-11-06 | [Anthropic Project EVE：市場取引と4 agent協働で長期行動を検証](../digests/2026/11/2026-11-06.md#anthropic-project-eve) | 2026-11-06 |
 | 2026-11-06 | [Taxbit Assist：規制対象supportへ引用・権限・地域境界を組み込む](../digests/2026/11/2026-11-06.md#taxbit-assist-agent) | 2026-11-06 |
 | 2026-11-06 | [Qiita：チケットからPRまでを回す「ソフトウェアファクトリー」の構成とブレーキ](../digests/2026/11/2026-11-06.md#qiita-software-factory) | 2026-11-04 |
+
+## 2026-11-08
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-08 | [Activepieces 0.93.0：MCP OAuth2とAI agent向け業務connectorを拡充](../digests/2026/11/2026-11-08.md#activepieces-0930) | 2026-11-08 |
+| 2026-11-08 | [Coding agentの承認ruleにsecretが残る経路を10万件超の公開fileで調査](../digests/2026/11/2026-11-08.md#apiiro-claude-secrets) | 2026-11-05（11/8追記） |
+| 2026-11-08 | [MaxxBench：小さな仕様変更でcoding agent benchmarkの一般化を測る](../digests/2026/11/2026-11-08.md#maxxbench-generalization) | 2026-10-20 |
