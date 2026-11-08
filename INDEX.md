@@ -6,6 +6,14 @@
 
 ### November
 
+[2026-11-08号](digests/2026/11/2026-11-08.md) — AIニュース1件、事業向け0件（適格項目なし）、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Activepieces 0.93.0：MCP OAuth2とAI agent向け業務connectorを拡充](digests/2026/11/2026-11-08.md#activepieces-0930) | 2026-11-08 |
+| [Coding agentの承認ruleにsecretが残る経路を10万件超の公開fileで調査](digests/2026/11/2026-11-08.md#apiiro-claude-secrets) | 2026-11-05（11/8追記） |
+| [MaxxBench：小さな仕様変更でcoding agent benchmarkの一般化を測る](digests/2026/11/2026-11-08.md#maxxbench-generalization) | 2026-10-20 |
+
 [2026-11-07号](digests/2026/11/2026-11-07.md) — AIニュース0件（適格項目なし）、事業向け0件（適格項目なし）、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
