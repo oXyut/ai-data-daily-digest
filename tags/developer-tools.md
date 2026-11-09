@@ -282,3 +282,12 @@
 | 2026-11-08 | [Activepieces 0.93.0：MCP OAuth2とAI agent向け業務connectorを拡充](../digests/2026/11/2026-11-08.md#activepieces-0930) | 2026-11-08 |
 | 2026-11-08 | [Coding agentの承認ruleにsecretが残る経路を10万件超の公開fileで調査](../digests/2026/11/2026-11-08.md#apiiro-claude-secrets) | 2026-11-05（11/8追記） |
 | 2026-11-08 | [MaxxBench：小さな仕様変更でcoding agent benchmarkの一般化を測る](../digests/2026/11/2026-11-08.md#maxxbench-generalization) | 2026-10-20 |
+
+## 2026-11-09
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-09 | [Claude Fable 5.2／Mythos 5.2](../digests/2026/11/2026-11-09.md#claude-fable-mythos-52) | 2026-11-09 |
+| 2026-11-09 | [K-EXAONE 2.5 API](../digests/2026/11/2026-11-09.md#k-exaone-25-api) | 2026-11-09 |
+| 2026-11-09 | [「Goodbye Claude, Hello Pi」](../digests/2026/11/2026-11-09.md#goodbye-claude-hello-pi) | 2026-09-21（11/7更新） |
+| 2026-11-09 | [512MB RAMの$10 OpenStickでself-hosting stackを組む](../digests/2026/11/2026-11-09.md#openstick-homelab) | 2026-11-07 |
