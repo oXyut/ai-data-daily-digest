@@ -6,6 +6,16 @@
 
 ### November
 
+[2026-11-09号](digests/2026/11/2026-11-09.md) — AIニュース2件、事業向け1件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Claude Fable 5.2／Mythos 5.2：coding・automation・cyber・科学向け性能を更新](digests/2026/11/2026-11-09.md#claude-fable-mythos-52) | 2026-11-09 |
+| [K-EXAONE 2.5 API：31B activeの韓英modelをOpenAI互換APIで無償提供](digests/2026/11/2026-11-09.md#k-exaone-25-api) | 2026-11-09 |
+| [IBM Apptio：AI支出をunit economics・予算・business outcomeへ接続](digests/2026/11/2026-11-09.md#apptio-ai-unit-economics) | 2026-11-09 |
+| [「Goodbye Claude, Hello Pi」：coding harnessの肥大化とcustomizabilityを問い直す](digests/2026/11/2026-11-09.md#goodbye-claude-hello-pi) | 2026-09-21（11/7更新） |
+| [512MB RAMの$10 OpenStickでself-hosting stackを組む](digests/2026/11/2026-11-09.md#openstick-homelab) | 2026-11-07 |
+
 [2026-11-08号](digests/2026/11/2026-11-08.md) — AIニュース1件、事業向け0件（適格項目なし）、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
