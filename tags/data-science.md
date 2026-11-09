@@ -316,3 +316,9 @@
 | --- | --- | --- |
 | 2026-11-06 | [BigQuery DataFrames：pandasから予測・予測時系列・分類を直接実行](../digests/2026/11/2026-11-06.md#bigquery-pandas-ai-accessor) | 2026-11-06 |
 | 2026-11-06 | [Taxbit Assist：規制対象supportへ引用・権限・地域境界を組み込む](../digests/2026/11/2026-11-06.md#taxbit-assist-agent) | 2026-11-06 |
+
+## 2026-11-09
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-09 | [IBM Apptio：AI支出をunit economics・予算・business outcomeへ接続](../digests/2026/11/2026-11-09.md#apptio-ai-unit-economics) | 2026-11-09 |
