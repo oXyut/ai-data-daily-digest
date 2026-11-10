@@ -322,3 +322,9 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-11-09 | [IBM Apptio：AI支出をunit economics・予算・business outcomeへ接続](../digests/2026/11/2026-11-09.md#apptio-ai-unit-economics) | 2026-11-09 |
+
+## 2026-11-10
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-10 | [AI支援shoppingと購買意向を979回答で分析](../digests/2026/11/2026-11-10.md#genz-ai-shopping-trust) | 2026-11-10 |
