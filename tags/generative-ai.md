@@ -359,3 +359,13 @@
 | 2026-11-09 | [Claude Fable 5.2／Mythos 5.2](../digests/2026/11/2026-11-09.md#claude-fable-mythos-52) | 2026-11-09 |
 | 2026-11-09 | [K-EXAONE 2.5 API](../digests/2026/11/2026-11-09.md#k-exaone-25-api) | 2026-11-09 |
 | 2026-11-09 | [「Goodbye Claude, Hello Pi」](../digests/2026/11/2026-11-09.md#goodbye-claude-hello-pi) | 2026-09-21（11/7更新） |
+
+## 2026-11-10
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-10 | [Gemini 4 Carbon](../digests/2026/11/2026-11-10.md#gemini-4-carbon) | 2026-11-10 |
+| 2026-11-10 | [Google AI Edge Galleryの端末内ASR／TTS](../digests/2026/11/2026-11-10.md#google-edge-speech) | 2026-11-10 |
+| 2026-11-10 | [IBM／Microsoft Imagine Enterprise](../digests/2026/11/2026-11-10.md#ibm-imagine-enterprise) | 2026-11-10 |
+| 2026-11-10 | [Claude Codeへ「耳」を与える音源定位system](../digests/2026/11/2026-11-10.md#claude-beep-locator) | 2026-11-09 |
+| 2026-11-10 | [Fable 5.2で12 levelのgameを一晩生成](../digests/2026/11/2026-11-10.md#fable-dream-game) | 2026-11-10 |
