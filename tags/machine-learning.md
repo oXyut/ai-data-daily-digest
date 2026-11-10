@@ -313,3 +313,11 @@
 | --- | --- | --- |
 | 2026-11-09 | [Claude Fable 5.2／Mythos 5.2](../digests/2026/11/2026-11-09.md#claude-fable-mythos-52) | 2026-11-09 |
 | 2026-11-09 | [K-EXAONE 2.5 API](../digests/2026/11/2026-11-09.md#k-exaone-25-api) | 2026-11-09 |
+
+## 2026-11-10
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-10 | [Gemini 4 Carbon](../digests/2026/11/2026-11-10.md#gemini-4-carbon) | 2026-11-10 |
+| 2026-11-10 | [Google AI Edge Galleryの端末内ASR／TTS](../digests/2026/11/2026-11-10.md#google-edge-speech) | 2026-11-10 |
+| 2026-11-10 | [AI支援shoppingと購買意向を979回答で分析](../digests/2026/11/2026-11-10.md#genz-ai-shopping-trust) | 2026-11-10 |
