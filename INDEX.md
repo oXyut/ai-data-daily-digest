@@ -6,6 +6,17 @@
 
 ### November
 
+[2026-11-10号](digests/2026/11/2026-11-10.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Gemini 4 Carbon：長時間のagent・cyber・科学推論を高性能modelへ分離](digests/2026/11/2026-11-10.md#gemini-4-carbon) | 2026-11-10 |
+| [Google AI Edge Gallery：ASR／TTSを端末内・offlineで実行](digests/2026/11/2026-11-10.md#google-edge-speech) | 2026-11-10 |
+| [IBM／Microsoft Imagine Enterprise：規制業界向けAI agentを構築・統制](digests/2026/11/2026-11-10.md#ibm-imagine-enterprise) | 2026-11-10 |
+| [AI支援shoppingの透明性・使いやすさ・口コミと購買意向を979回答で分析](digests/2026/11/2026-11-10.md#genz-ai-shopping-trust) | 2026-11-10 |
+| [Claude Codeへ「耳」を与え、複数端末で断続音を約40cmまで絞り込む](digests/2026/11/2026-11-10.md#claude-beep-locator) | 2026-11-09 |
+| [Fable 5.2で12 levelのgameを一晩生成：成功例と検証costを読む](digests/2026/11/2026-11-10.md#fable-dream-game) | 2026-11-10 |
+
 [2026-11-09号](digests/2026/11/2026-11-09.md) — AIニュース2件、事業向け1件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
