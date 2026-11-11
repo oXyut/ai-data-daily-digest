@@ -6,6 +6,19 @@
 
 ### November
 
+[2026-11-11号](digests/2026/11/2026-11-11.md) — AIニュース3件、事業向け2件、最近の話題のIT記事3件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Gemini Decisions API：最大1,000問の閉じた判断を1回のmultimodal推論で処理](digests/2026/11/2026-11-11.md#gemini-decisions-api) | 2026-11-11 |
+| [Qwen4-Max Preview：1M contextのmultimodal flagshipを期間限定提供](digests/2026/11/2026-11-11.md#qwen4-max-preview) | 2026-11-11 |
+| [ERNIE 5.5 Flash Preview：14B active・1M contextでcodingから3D／業務文書まで実行](digests/2026/11/2026-11-11.md#ernie-55-flash-preview) | 2026-11-11 |
+| [企業SDG performanceを4,000 firm-yearで予測し、sector別のtrade-offを最適化](digests/2026/11/2026-11-11.md#corporate-sdg-forecasting) | 2026-11-11 |
+| [Cisplatin腎毒性を1,705患者のreal-world dataから予測](digests/2026/11/2026-11-11.md#cisplatin-nephrotoxicity-ml) | 2026-11-11 |
+| [AlphaProof Code：Signalのmachine codeへ6.5百万行のLean proofを生成](digests/2026/11/2026-11-11.md#alphaproof-code-signal) | 2026-11-10 |
+| [Amazon：閉じたticket分類をdecision modelへ移しcostを98%削減](digests/2026/11/2026-11-11.md#strands-decider-ticket-routing) | 2026-11-09 |
+| [AI生成codeの速さよりincident・理解度・review bottleneckを測るべきという経験論](digests/2026/11/2026-11-11.md#ai-fragile-codebase) | 2026-11-07 |
+
 [2026-11-10号](digests/2026/11/2026-11-10.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
