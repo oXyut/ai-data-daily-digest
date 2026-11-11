@@ -300,3 +300,14 @@
 | 2026-11-10 | [Google AI Edge Galleryの端末内ASR／TTS](../digests/2026/11/2026-11-10.md#google-edge-speech) | 2026-11-10 |
 | 2026-11-10 | [Claude Codeへ「耳」を与える音源定位system](../digests/2026/11/2026-11-10.md#claude-beep-locator) | 2026-11-09 |
 | 2026-11-10 | [Fable 5.2で12 levelのgameを一晩生成](../digests/2026/11/2026-11-10.md#fable-dream-game) | 2026-11-10 |
+
+## 2026-11-11
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-11 | [Gemini Decisions API](../digests/2026/11/2026-11-11.md#gemini-decisions-api) | 2026-11-11 |
+| 2026-11-11 | [Qwen4-Max Preview](../digests/2026/11/2026-11-11.md#qwen4-max-preview) | 2026-11-11 |
+| 2026-11-11 | [ERNIE 5.5 Flash Preview](../digests/2026/11/2026-11-11.md#ernie-55-flash-preview) | 2026-11-11 |
+| 2026-11-11 | [AlphaProof CodeでSignalをmachine-code levelまで検証](../digests/2026/11/2026-11-11.md#alphaproof-code-signal) | 2026-11-10 |
+| 2026-11-11 | [Amazonのticket分類をdecision modelへ移行](../digests/2026/11/2026-11-11.md#strands-decider-ticket-routing) | 2026-11-09 |
+| 2026-11-11 | [AI生成codeの長期的なfragilityを問う経験論](../digests/2026/11/2026-11-11.md#ai-fragile-codebase) | 2026-11-07 |
