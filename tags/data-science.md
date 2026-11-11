@@ -328,3 +328,10 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-11-10 | [AI支援shoppingと購買意向を979回答で分析](../digests/2026/11/2026-11-10.md#genz-ai-shopping-trust) | 2026-11-10 |
+
+## 2026-11-11
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-11 | [企業SDG performance予測と多目的最適化](../digests/2026/11/2026-11-11.md#corporate-sdg-forecasting) | 2026-11-11 |
+| 2026-11-11 | [Cisplatin腎毒性のreal-world data予測](../digests/2026/11/2026-11-11.md#cisplatin-nephrotoxicity-ml) | 2026-11-11 |
