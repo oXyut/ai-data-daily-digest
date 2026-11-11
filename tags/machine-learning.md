@@ -321,3 +321,14 @@
 | 2026-11-10 | [Gemini 4 Carbon](../digests/2026/11/2026-11-10.md#gemini-4-carbon) | 2026-11-10 |
 | 2026-11-10 | [Google AI Edge Galleryの端末内ASR／TTS](../digests/2026/11/2026-11-10.md#google-edge-speech) | 2026-11-10 |
 | 2026-11-10 | [AI支援shoppingと購買意向を979回答で分析](../digests/2026/11/2026-11-10.md#genz-ai-shopping-trust) | 2026-11-10 |
+
+## 2026-11-11
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-11 | [Gemini Decisions API](../digests/2026/11/2026-11-11.md#gemini-decisions-api) | 2026-11-11 |
+| 2026-11-11 | [Qwen4-Max Preview](../digests/2026/11/2026-11-11.md#qwen4-max-preview) | 2026-11-11 |
+| 2026-11-11 | [ERNIE 5.5 Flash Preview](../digests/2026/11/2026-11-11.md#ernie-55-flash-preview) | 2026-11-11 |
+| 2026-11-11 | [企業SDG performance予測と多目的最適化](../digests/2026/11/2026-11-11.md#corporate-sdg-forecasting) | 2026-11-11 |
+| 2026-11-11 | [Cisplatin腎毒性のreal-world data予測](../digests/2026/11/2026-11-11.md#cisplatin-nephrotoxicity-ml) | 2026-11-11 |
+| 2026-11-11 | [Amazonのticket分類をdecision modelへ移行](../digests/2026/11/2026-11-11.md#strands-decider-ticket-routing) | 2026-11-09 |
