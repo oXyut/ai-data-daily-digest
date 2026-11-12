@@ -335,3 +335,10 @@
 | --- | --- | --- |
 | 2026-11-11 | [企業SDG performance予測と多目的最適化](../digests/2026/11/2026-11-11.md#corporate-sdg-forecasting) | 2026-11-11 |
 | 2026-11-11 | [Cisplatin腎毒性のreal-world data予測](../digests/2026/11/2026-11-11.md#cisplatin-nephrotoxicity-ml) | 2026-11-11 |
+
+## 2026-11-12
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-12 | [Holiday ExtrasのCodex app再構築](../digests/2026/11/2026-11-12.md#holiday-extras-codex-conversion) | 2026-11-12 |
+| 2026-11-12 | [Microsoftのhybrid privacy-aware agent評価](../digests/2026/11/2026-11-12.md#microsoft-hybrid-private-agent) | 2026-11-12 |
