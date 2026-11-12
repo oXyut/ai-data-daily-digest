@@ -202,3 +202,9 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-11-10 | [IBM／Microsoft Imagine Enterprise](../digests/2026/11/2026-11-10.md#ibm-imagine-enterprise) | 2026-11-10 |
+
+## 2026-11-12
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-12 | [Jane Streetのdatacenter温度drift監視](../digests/2026/11/2026-11-12.md#jane-street-datacenter-temperature) | 2026-11-10 |
