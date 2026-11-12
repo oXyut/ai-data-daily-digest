@@ -6,6 +6,17 @@
 
 ### November
 
+[2026-11-12号](digests/2026/11/2026-11-12.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [AWS：A2Aで企業とSaaSのagentをframework非依存・双方向OAuth接続](digests/2026/11/2026-11-12.md#aws-a2a-cross-account) | 2026-11-12 |
+| [Chrome Enterprise：医療browser上のAI agentへDLP・可視化・extension統制を適用](digests/2026/11/2026-11-12.md#chrome-healthcare-agent-protection) | 2026-11-12 |
+| [Holiday Extras：Codexでapp再構築を6か月から2週間へ短縮しconversionを32.5%向上](digests/2026/11/2026-11-12.md#holiday-extras-codex-conversion) | 2026-11-12 |
+| [Microsoft Foundry Local：hybrid agentの品質・送信量・latencyを405実行で比較](digests/2026/11/2026-11-12.md#microsoft-hybrid-private-agent) | 2026-11-12 |
+| [AWS Emulator：cloud accountなしでAWS APIをlocal／CI検証](digests/2026/11/2026-11-12.md#aws-emulator-local-testing) | 2026-11-11 |
+| [Jane Street：fleet全体の温度driftで冷却障害を検知](digests/2026/11/2026-11-12.md#jane-street-datacenter-temperature) | 2026-11-10 |
+
 [2026-11-11号](digests/2026/11/2026-11-11.md) — AIニュース3件、事業向け2件、最近の話題のIT記事3件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
