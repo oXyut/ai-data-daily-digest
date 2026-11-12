@@ -311,3 +311,13 @@
 | 2026-11-11 | [AlphaProof CodeでSignalをmachine-code levelまで検証](../digests/2026/11/2026-11-11.md#alphaproof-code-signal) | 2026-11-10 |
 | 2026-11-11 | [Amazonのticket分類をdecision modelへ移行](../digests/2026/11/2026-11-11.md#strands-decider-ticket-routing) | 2026-11-09 |
 | 2026-11-11 | [AI生成codeの長期的なfragilityを問う経験論](../digests/2026/11/2026-11-11.md#ai-fragile-codebase) | 2026-11-07 |
+
+## 2026-11-12
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-12 | [AWS：A2Aで企業とSaaSのagentを接続](../digests/2026/11/2026-11-12.md#aws-a2a-cross-account) | 2026-11-12 |
+| 2026-11-12 | [Chrome Enterpriseの医療AI agent防御](../digests/2026/11/2026-11-12.md#chrome-healthcare-agent-protection) | 2026-11-12 |
+| 2026-11-12 | [Holiday ExtrasのCodex app再構築](../digests/2026/11/2026-11-12.md#holiday-extras-codex-conversion) | 2026-11-12 |
+| 2026-11-12 | [AWS Emulator](../digests/2026/11/2026-11-12.md#aws-emulator-local-testing) | 2026-11-11 |
+| 2026-11-12 | [Jane Streetのdatacenter温度drift監視](../digests/2026/11/2026-11-12.md#jane-street-datacenter-temperature) | 2026-11-10 |
