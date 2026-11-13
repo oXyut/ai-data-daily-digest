@@ -6,6 +6,17 @@
 
 ### November
 
+[2026-11-13号](digests/2026/11/2026-11-13.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Codex CLI 0.169.0：side chat・過去task検索・custom provider](digests/2026/11/2026-11-13.md#codex-cli-0169) | 2026-11-13 |
+| [膀胱がんLLM：入力言語をmodel別に検証](digests/2026/11/2026-11-13.md#bladder-llm-input-validation) | 2026-11-13 |
+| [EV充電需要：価格・系統運用向け予測](digests/2026/11/2026-11-13.md#ev-charging-demand-forecast) | 2026-11-13 |
+| [コンクリート強度：配合group分割で評価](digests/2026/11/2026-11-13.md#concrete-strength-grouped-validation) | 2026-11-13 |
+| [Atuin Threads：agent sessionを横断検索・再開](digests/2026/11/2026-11-13.md#atuin-threads-agent-history) | 2026-10-27 |
+| [GitHub Actions lockfile：tagと実行commit固定を両立](digests/2026/11/2026-11-13.md#github-actions-lockfiles) | 2026-11-11 |
+
 [2026-11-12号](digests/2026/11/2026-11-12.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事のみ公開日例外。
 
 | トピック | 発表元の公開日 |
