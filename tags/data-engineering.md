@@ -208,3 +208,9 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-11-12 | [Jane Streetのdatacenter温度drift監視](../digests/2026/11/2026-11-12.md#jane-street-datacenter-temperature) | 2026-11-10 |
+
+## 2026-11-13
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-13 | [EV充電需要：multi-modal時系列panel](../digests/2026/11/2026-11-13.md#ev-charging-demand-forecast) | 2026-11-13 |
