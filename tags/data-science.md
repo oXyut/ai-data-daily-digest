@@ -342,3 +342,11 @@
 | --- | --- | --- |
 | 2026-11-12 | [Holiday ExtrasのCodex app再構築](../digests/2026/11/2026-11-12.md#holiday-extras-codex-conversion) | 2026-11-12 |
 | 2026-11-12 | [Microsoftのhybrid privacy-aware agent評価](../digests/2026/11/2026-11-12.md#microsoft-hybrid-private-agent) | 2026-11-12 |
+
+## 2026-11-13
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-13 | [膀胱がんLLM：入力言語をmodel別に検証](../digests/2026/11/2026-11-13.md#bladder-llm-input-validation) | 2026-11-13 |
+| 2026-11-13 | [EV充電需要予測](../digests/2026/11/2026-11-13.md#ev-charging-demand-forecast) | 2026-11-13 |
+| 2026-11-13 | [コンクリート強度予測](../digests/2026/11/2026-11-13.md#concrete-strength-grouped-validation) | 2026-11-13 |
