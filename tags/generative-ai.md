@@ -390,3 +390,11 @@
 | 2026-11-12 | [Holiday ExtrasのCodex app再構築](../digests/2026/11/2026-11-12.md#holiday-extras-codex-conversion) | 2026-11-12 |
 | 2026-11-12 | [Microsoftのhybrid privacy-aware agent評価](../digests/2026/11/2026-11-12.md#microsoft-hybrid-private-agent) | 2026-11-12 |
 | 2026-11-12 | [AWS Emulator](../digests/2026/11/2026-11-12.md#aws-emulator-local-testing) | 2026-11-11 |
+
+## 2026-11-13
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-13 | [Codex CLI 0.169.0](../digests/2026/11/2026-11-13.md#codex-cli-0169) | 2026-11-13 |
+| 2026-11-13 | [膀胱がんLLM：入力言語をmodel別に検証](../digests/2026/11/2026-11-13.md#bladder-llm-input-validation) | 2026-11-13 |
+| 2026-11-13 | [Atuin Threads](../digests/2026/11/2026-11-13.md#atuin-threads-agent-history) | 2026-10-27 |
