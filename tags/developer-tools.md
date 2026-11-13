@@ -321,3 +321,11 @@
 | 2026-11-12 | [Holiday ExtrasのCodex app再構築](../digests/2026/11/2026-11-12.md#holiday-extras-codex-conversion) | 2026-11-12 |
 | 2026-11-12 | [AWS Emulator](../digests/2026/11/2026-11-12.md#aws-emulator-local-testing) | 2026-11-11 |
 | 2026-11-12 | [Jane Streetのdatacenter温度drift監視](../digests/2026/11/2026-11-12.md#jane-street-datacenter-temperature) | 2026-11-10 |
+
+## 2026-11-13
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-13 | [Codex CLI 0.169.0](../digests/2026/11/2026-11-13.md#codex-cli-0169) | 2026-11-13 |
+| 2026-11-13 | [Atuin Threads](../digests/2026/11/2026-11-13.md#atuin-threads-agent-history) | 2026-10-27 |
+| 2026-11-13 | [GitHub Actions lockfile](../digests/2026/11/2026-11-13.md#github-actions-lockfiles) | 2026-11-11 |
