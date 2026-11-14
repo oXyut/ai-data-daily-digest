@@ -6,6 +6,17 @@
 
 ### November
 
+[2026-11-14号](digests/2026/11/2026-11-14.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [生成AI回答の出典＋警告：誤答受容45%→21%](digests/2026/11/2026-11-14.md#ai-source-warning-experiment) | 2026-11-14 |
+| [CerS-Path：1.9億patchで学習した子宮頸部病理AI](digests/2026/11/2026-11-14.md#cers-path-cervical-ai) | 2026-11-14 |
+| [E-commerce予測の時間順評価・再学習・校正](digests/2026/11/2026-11-14.md#ecommerce-temporal-reliability) | 2026-11-14 |
+| [風力SCADA予測：15モデルでpersistenceが最良](digests/2026/11/2026-11-14.md#wind-scada-forecasting) | 2026-11-14 |
+| [Rust 1.100：never type・allocator・依存cooldown](digests/2026/11/2026-11-14.md#rust-1100) | 2026-11-12 |
+| [Coway空気清浄機をcloudなしでHome Assistantへ接続](digests/2026/11/2026-11-14.md#coway-local-iot) | 2026-11-11 |
+
 [2026-11-13号](digests/2026/11/2026-11-13.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
