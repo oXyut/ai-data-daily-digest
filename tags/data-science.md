@@ -350,3 +350,12 @@
 | 2026-11-13 | [膀胱がんLLM：入力言語をmodel別に検証](../digests/2026/11/2026-11-13.md#bladder-llm-input-validation) | 2026-11-13 |
 | 2026-11-13 | [EV充電需要予測](../digests/2026/11/2026-11-13.md#ev-charging-demand-forecast) | 2026-11-13 |
 | 2026-11-13 | [コンクリート強度予測](../digests/2026/11/2026-11-13.md#concrete-strength-grouped-validation) | 2026-11-13 |
+
+## 2026-11-14
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-14 | [生成AI回答の出典＋警告](../digests/2026/11/2026-11-14.md#ai-source-warning-experiment) | 2026-11-14 |
+| 2026-11-14 | [CerS-Path：子宮頸部病理AI](../digests/2026/11/2026-11-14.md#cers-path-cervical-ai) | 2026-11-14 |
+| 2026-11-14 | [E-commerce予測の時間順評価](../digests/2026/11/2026-11-14.md#ecommerce-temporal-reliability) | 2026-11-14 |
+| 2026-11-14 | [風力SCADA予測の15モデル比較](../digests/2026/11/2026-11-14.md#wind-scada-forecasting) | 2026-11-14 |
