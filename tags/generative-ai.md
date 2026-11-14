@@ -398,3 +398,10 @@
 | 2026-11-13 | [Codex CLI 0.169.0](../digests/2026/11/2026-11-13.md#codex-cli-0169) | 2026-11-13 |
 | 2026-11-13 | [膀胱がんLLM：入力言語をmodel別に検証](../digests/2026/11/2026-11-13.md#bladder-llm-input-validation) | 2026-11-13 |
 | 2026-11-13 | [Atuin Threads](../digests/2026/11/2026-11-13.md#atuin-threads-agent-history) | 2026-10-27 |
+
+## 2026-11-14
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-14 | [生成AI回答の出典＋警告](../digests/2026/11/2026-11-14.md#ai-source-warning-experiment) | 2026-11-14 |
+| 2026-11-14 | [Coway空気清浄機をcloudなしでHome Assistantへ接続](../digests/2026/11/2026-11-14.md#coway-local-iot) | 2026-11-11 |
