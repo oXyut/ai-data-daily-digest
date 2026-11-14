@@ -329,3 +329,10 @@
 | 2026-11-13 | [Codex CLI 0.169.0](../digests/2026/11/2026-11-13.md#codex-cli-0169) | 2026-11-13 |
 | 2026-11-13 | [Atuin Threads](../digests/2026/11/2026-11-13.md#atuin-threads-agent-history) | 2026-10-27 |
 | 2026-11-13 | [GitHub Actions lockfile](../digests/2026/11/2026-11-13.md#github-actions-lockfiles) | 2026-11-11 |
+
+## 2026-11-14
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-14 | [Rust 1.100](../digests/2026/11/2026-11-14.md#rust-1100) | 2026-11-12 |
+| 2026-11-14 | [Coway空気清浄機をcloudなしでHome Assistantへ接続](../digests/2026/11/2026-11-14.md#coway-local-iot) | 2026-11-11 |
