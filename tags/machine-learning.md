@@ -237,3 +237,120 @@
 | 掲載号 | トピック | 一次情報の公開日 |
 | --- | --- | --- |
 | 2026-10-28 | [Prism：発話前text checkpointを持つenterprise speech-to-speech model](../digests/2026/10/2026-10-28.md#rime-prism) | 2026-10-28 |
+
+## 2026-10-29
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-29 | [Mistral Large 4のopen weights](../digests/2026/10/2026-10-29.md#mistral-large-4-open-weights) | 2026-10-29 |
+| 2026-10-29 | [Qwenputer](../digests/2026/10/2026-10-29.md#qwenputer-riscv) | 2026-10-22 |
+
+## 2026-10-30
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-30 | [GPT‑6 Rosalind Research](../digests/2026/10/2026-10-30.md#gpt-6-rosalind) | 2026-10-30 |
+| 2026-10-30 | [P2P与信：CTGAN×LightGBMがF1 83.28%](../digests/2026/10/2026-10-30.md#p2p-credit-risk-resampling) | 2026-10-30 |
+
+## 2026-10-31
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-31 | [TinyWorldFormer](../digests/2026/10/2026-10-31.md#tinyworldformer-pico2) | 2026-10-22 |
+
+## 2026-11-02
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-02 | [MIT CSAIL：LLMがneural networkのweightsを読み書き](../digests/2026/11/2026-11-02.md#weight-space-programming) | 2026-11-02 |
+
+## 2026-11-03
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-03 | [OpenAI：GPT-6 Astraで物理機器の設計から試作までを支援](../digests/2026/11/2026-11-03.md#openai-physical-engineering) | 2026-11-03 |
+| 2026-11-03 | [Google Cloud：Physical-Engineering’s Last Exam](../digests/2026/11/2026-11-03.md#physical-engineerings-last-exam) | 2026-11-03 |
+| 2026-11-03 | [USA Cycling：sensor・video・競技結果をLA28戦略へ活用](../digests/2026/11/2026-11-03.md#usa-cycling-data-strategy) | 2026-11-03 |
+| 2026-11-03 | [Weight-Space Programmingの実験条件を分解する批評](../digests/2026/11/2026-11-03.md#weight-space-critique) | 2026-11-03 |
+
+## 2026-11-04
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-04 | [Dharma Field Extractor：2B modelで文書を指定schemaのJSONへ変換](../digests/2026/11/2026-11-04.md#dharma-field-extractor) | 2026-11-04 |
+
+## 2026-11-05
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-05 | [Amazon Marketplace：VLM・OCR・CatBoostで商品ページ品質を評価](../digests/2026/11/2026-11-05.md#amazon-marketplace-content-quality) | 2026-11-05 |
+| 2026-11-05 | [Google Research：smartwatch sensorで高血圧の兆候をpassive screening](../digests/2026/11/2026-11-05.md#wearable-hypertension-screening) | 2026-11-05 |
+
+## 2026-11-06
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-06 | [Anthropic Project EVE：市場取引と4 agent協働で長期行動を検証](../digests/2026/11/2026-11-06.md#anthropic-project-eve) | 2026-11-06 |
+| 2026-11-06 | [SageMaker Inference：MIGで1 GPUを最大7つの隔離partitionへ分割](../digests/2026/11/2026-11-06.md#sagemaker-mig-inference) | 2026-11-06 |
+| 2026-11-06 | [BigQuery DataFrames：pandasから予測・予測時系列・分類を直接実行](../digests/2026/11/2026-11-06.md#bigquery-pandas-ai-accessor) | 2026-11-06 |
+
+
+## 2026-11-07
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-07 | [macOSのPersonal Knowledge Graph：家族関係推定とlocal storeを解析](../digests/2026/11/2026-11-07.md#apple-personal-knowledge-graph) | 2026-10-28 |
+
+## 2026-11-08
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-08 | [MaxxBench：小さな仕様変更でcoding agent benchmarkの一般化を測る](../digests/2026/11/2026-11-08.md#maxxbench-generalization) | 2026-10-20 |
+
+## 2026-11-09
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-09 | [Claude Fable 5.2／Mythos 5.2](../digests/2026/11/2026-11-09.md#claude-fable-mythos-52) | 2026-11-09 |
+| 2026-11-09 | [K-EXAONE 2.5 API](../digests/2026/11/2026-11-09.md#k-exaone-25-api) | 2026-11-09 |
+
+## 2026-11-10
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-10 | [Gemini 4 Carbon](../digests/2026/11/2026-11-10.md#gemini-4-carbon) | 2026-11-10 |
+| 2026-11-10 | [Google AI Edge Galleryの端末内ASR／TTS](../digests/2026/11/2026-11-10.md#google-edge-speech) | 2026-11-10 |
+| 2026-11-10 | [AI支援shoppingと購買意向を979回答で分析](../digests/2026/11/2026-11-10.md#genz-ai-shopping-trust) | 2026-11-10 |
+
+## 2026-11-11
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-11 | [Gemini Decisions API](../digests/2026/11/2026-11-11.md#gemini-decisions-api) | 2026-11-11 |
+| 2026-11-11 | [Qwen4-Max Preview](../digests/2026/11/2026-11-11.md#qwen4-max-preview) | 2026-11-11 |
+| 2026-11-11 | [ERNIE 5.5 Flash Preview](../digests/2026/11/2026-11-11.md#ernie-55-flash-preview) | 2026-11-11 |
+| 2026-11-11 | [企業SDG performance予測と多目的最適化](../digests/2026/11/2026-11-11.md#corporate-sdg-forecasting) | 2026-11-11 |
+| 2026-11-11 | [Cisplatin腎毒性のreal-world data予測](../digests/2026/11/2026-11-11.md#cisplatin-nephrotoxicity-ml) | 2026-11-11 |
+| 2026-11-11 | [Amazonのticket分類をdecision modelへ移行](../digests/2026/11/2026-11-11.md#strands-decider-ticket-routing) | 2026-11-09 |
+
+## 2026-11-12
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-12 | [Microsoftのhybrid privacy-aware agent評価](../digests/2026/11/2026-11-12.md#microsoft-hybrid-private-agent) | 2026-11-12 |
+
+## 2026-11-13
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-13 | [膀胱がんLLM：入力言語をmodel別に検証](../digests/2026/11/2026-11-13.md#bladder-llm-input-validation) | 2026-11-13 |
+| 2026-11-13 | [EV充電需要予測](../digests/2026/11/2026-11-13.md#ev-charging-demand-forecast) | 2026-11-13 |
+| 2026-11-13 | [コンクリート強度予測](../digests/2026/11/2026-11-13.md#concrete-strength-grouped-validation) | 2026-11-13 |
+
+## 2026-11-14
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-14 | [CerS-Path：子宮頸部病理AI](../digests/2026/11/2026-11-14.md#cers-path-cervical-ai) | 2026-11-14 |
+| 2026-11-14 | [E-commerce予測の時間順評価](../digests/2026/11/2026-11-14.md#ecommerce-temporal-reliability) | 2026-11-14 |
+| 2026-11-14 | [風力SCADA予測の15モデル比較](../digests/2026/11/2026-11-14.md#wind-scada-forecasting) | 2026-11-14 |

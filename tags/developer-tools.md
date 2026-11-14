@@ -192,3 +192,147 @@
 | 2026-10-28 | [GitHub Copilot Fusion GA：複数modelを自動routing](../digests/2026/10/2026-10-28.md#copilot-fusion-ga) | 2026-10-28 |
 | 2026-10-28 | [Ghostty 1.4：scrollback memory 70〜90%削減](../digests/2026/10/2026-10-28.md#ghostty-1-4) | 2026-10-27 |
 | 2026-10-28 | [macOS付属git／curlのeMudhra証明書信頼問題](../digests/2026/10/2026-10-28.md#macos-emudhra-trust) | 2026-10-28 |
+
+## 2026-10-29
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-29 | [Mistral Large 4のopen weights](../digests/2026/10/2026-10-29.md#mistral-large-4-open-weights) | 2026-10-29 |
+| 2026-10-29 | [Gemini appのファイル直接編集](../digests/2026/10/2026-10-29.md#gemini-direct-file-editing) | 2026-10-29 |
+| 2026-10-29 | [Qwenputer](../digests/2026/10/2026-10-29.md#qwenputer-riscv) | 2026-10-22 |
+| 2026-10-29 | [Claude Code background agent要約のcost](../digests/2026/10/2026-10-29.md#claude-agent-summary-cost) | 2026-10-29 |
+
+## 2026-10-30
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-30 | [OpenAI：共通のAI学習選好signalを支持](../digests/2026/10/2026-10-30.md#ai-training-preference-signal) | 2026-10-30 |
+| 2026-10-30 | [Claude Code拡張の供給網侵害](../digests/2026/10/2026-10-30.md#claude-code-extension-compromise) | 2026-10-30（公式noticeは10/29） |
+| 2026-10-30 | [Martin Fowler「LLM Voice」](../digests/2026/10/2026-10-30.md#llm-voice) | 2026-10-29 |
+
+## 2026-10-31
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-31 | [TinyWorldFormer](../digests/2026/10/2026-10-31.md#tinyworldformer-pico2) | 2026-10-22 |
+| 2026-10-31 | [Pico CSS maintenance終了](../digests/2026/10/2026-10-31.md#pico-css-maintenance-end) | 2026-10-04 |
+
+## 2026-11-01
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-01 | [OpenAI：ChatGPTとCodexの利用枠を共通化](../digests/2026/11/2026-11-01.md#chatgpt-codex-shared-allowance) | 2026-11-01（absolute date表示なし） |
+| 2026-11-01 | [JavaScript frameworkのAI agent cost比較](../digests/2026/11/2026-11-01.md#ai-cost-javascript-frameworks) | 2026-10-28 |
+| 2026-11-01 | [HackerBooks](../digests/2026/11/2026-11-01.md#hackerbooks-hn-catalog) | 2026-11-01 |
+
+## 2026-11-02
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-02 | [Google Threat Intelligence：LLMJackingの攻撃・転売経路を調査](../digests/2026/11/2026-11-02.md#llmjacking-enterprise-cost) | 2026-11-02 |
+| 2026-11-02 | [Rのnarrow toolで臨床安全性集計を検証可能にするagent](../digests/2026/11/2026-11-02.md#ellmer-clinical-agent) | 2026-11-02 |
+| 2026-11-02 | [PostgreSQL 19のrelease遅延とAIによるbug発見量](../digests/2026/11/2026-11-02.md#postgres19-ai-bugs) | 2026-10-30 |
+| 2026-11-02 | [Cloudflare：DNS buildのmemory 85%減、median delay半減](../digests/2026/11/2026-11-02.md#cloudflare-targeted-zone-builds) | 2026-11-02 |
+| 2026-11-02 | [Zenn：AI時代のno look mergeと組織の責任設計](../digests/2026/11/2026-11-02.md#zenn-no-look-merge) | 2026-10-27（10/28更新） |
+
+## 2026-11-03
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-03 | [GitHub CopilotがJetBrains Airで利用可能に](../digests/2026/11/2026-11-03.md#copilot-jetbrains-air) | 2026-11-03 |
+| 2026-11-03 | [Snowflake：self-healing pipelineとreal-time analytics](../digests/2026/11/2026-11-03.md#snowflake-autonomous-data-engineering) | 2026-11-03 |
+| 2026-11-03 | [OpenAI：agent-scale Git backend「Pando」](../digests/2026/11/2026-11-03.md#openai-scaling-git) | 2026-11-02 |
+
+## 2026-11-04
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-04 | [OpenAI：GPT-5.6 CyberをAWS GovCloud US-Eastへ提供](../digests/2026/11/2026-11-04.md#daybreak-red-govcloud) | 2026-11-04 |
+| 2026-11-04 | [IEEE Spectrum：PHP2Shellが示すAI時代のlegacy software debt](../digests/2026/11/2026-11-04.md#php2shell-technical-debt) | 2026-11-04（page metadata） |
+| 2026-11-04 | [kitty 0.50：docked windowとlogout後session restore](../digests/2026/11/2026-11-04.md#kitty-050) | 2026-11-03 |
+
+## 2026-11-05
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-05 | [GPT‑6 Cyber：脆弱性探索とscope遵守を同時に強化](../digests/2026/11/2026-11-05.md#gpt-6-cyber) | 2026-11-05 |
+| 2026-11-05 | [Qiita：AI生成code commentの9パターン](../digests/2026/11/2026-11-05.md#qiita-ai-code-comments) | 2026-10-31 |
+| 2026-11-05 | [Qiita：Decision RAGをNaive RAGと実装比較](../digests/2026/11/2026-11-05.md#qiita-decision-rag) | 2026-11-01（11/2更新） |
+
+## 2026-11-06
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-06 | [SageMaker Inference：MIGで1 GPUを最大7つの隔離partitionへ分割](../digests/2026/11/2026-11-06.md#sagemaker-mig-inference) | 2026-11-06 |
+| 2026-11-06 | [Qiita：チケットからPRまでを回す「ソフトウェアファクトリー」の構成とブレーキ](../digests/2026/11/2026-11-06.md#qiita-software-factory) | 2026-11-04 |
+| 2026-11-06 | [Kevin Boone：Linuxから始めるUEFI bare-metal programming入門](../digests/2026/11/2026-11-06.md#uefi-bare-metal-series) | 2026-10-12 |
+
+
+## 2026-11-07
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-07 | [Libghostty 1.0：terminal emulator coreのC ABIを安定化](../digests/2026/11/2026-11-07.md#libghostty-1-0) | 2026-11-06 |
+| 2026-11-07 | [macOSのPersonal Knowledge Graph：家族関係推定とlocal storeを解析](../digests/2026/11/2026-11-07.md#apple-personal-knowledge-graph) | 2026-10-28 |
+
+## 2026-11-08
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-08 | [Activepieces 0.93.0：MCP OAuth2とAI agent向け業務connectorを拡充](../digests/2026/11/2026-11-08.md#activepieces-0930) | 2026-11-08 |
+| 2026-11-08 | [Coding agentの承認ruleにsecretが残る経路を10万件超の公開fileで調査](../digests/2026/11/2026-11-08.md#apiiro-claude-secrets) | 2026-11-05（11/8追記） |
+| 2026-11-08 | [MaxxBench：小さな仕様変更でcoding agent benchmarkの一般化を測る](../digests/2026/11/2026-11-08.md#maxxbench-generalization) | 2026-10-20 |
+
+## 2026-11-09
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-09 | [Claude Fable 5.2／Mythos 5.2](../digests/2026/11/2026-11-09.md#claude-fable-mythos-52) | 2026-11-09 |
+| 2026-11-09 | [K-EXAONE 2.5 API](../digests/2026/11/2026-11-09.md#k-exaone-25-api) | 2026-11-09 |
+| 2026-11-09 | [「Goodbye Claude, Hello Pi」](../digests/2026/11/2026-11-09.md#goodbye-claude-hello-pi) | 2026-09-21（11/7更新） |
+| 2026-11-09 | [512MB RAMの$10 OpenStickでself-hosting stackを組む](../digests/2026/11/2026-11-09.md#openstick-homelab) | 2026-11-07 |
+
+## 2026-11-10
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-10 | [Gemini 4 Carbon](../digests/2026/11/2026-11-10.md#gemini-4-carbon) | 2026-11-10 |
+| 2026-11-10 | [Google AI Edge Galleryの端末内ASR／TTS](../digests/2026/11/2026-11-10.md#google-edge-speech) | 2026-11-10 |
+| 2026-11-10 | [Claude Codeへ「耳」を与える音源定位system](../digests/2026/11/2026-11-10.md#claude-beep-locator) | 2026-11-09 |
+| 2026-11-10 | [Fable 5.2で12 levelのgameを一晩生成](../digests/2026/11/2026-11-10.md#fable-dream-game) | 2026-11-10 |
+
+## 2026-11-11
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-11 | [Gemini Decisions API](../digests/2026/11/2026-11-11.md#gemini-decisions-api) | 2026-11-11 |
+| 2026-11-11 | [Qwen4-Max Preview](../digests/2026/11/2026-11-11.md#qwen4-max-preview) | 2026-11-11 |
+| 2026-11-11 | [ERNIE 5.5 Flash Preview](../digests/2026/11/2026-11-11.md#ernie-55-flash-preview) | 2026-11-11 |
+| 2026-11-11 | [AlphaProof CodeでSignalをmachine-code levelまで検証](../digests/2026/11/2026-11-11.md#alphaproof-code-signal) | 2026-11-10 |
+| 2026-11-11 | [Amazonのticket分類をdecision modelへ移行](../digests/2026/11/2026-11-11.md#strands-decider-ticket-routing) | 2026-11-09 |
+| 2026-11-11 | [AI生成codeの長期的なfragilityを問う経験論](../digests/2026/11/2026-11-11.md#ai-fragile-codebase) | 2026-11-07 |
+
+## 2026-11-12
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-12 | [AWS：A2Aで企業とSaaSのagentを接続](../digests/2026/11/2026-11-12.md#aws-a2a-cross-account) | 2026-11-12 |
+| 2026-11-12 | [Chrome Enterpriseの医療AI agent防御](../digests/2026/11/2026-11-12.md#chrome-healthcare-agent-protection) | 2026-11-12 |
+| 2026-11-12 | [Holiday ExtrasのCodex app再構築](../digests/2026/11/2026-11-12.md#holiday-extras-codex-conversion) | 2026-11-12 |
+| 2026-11-12 | [AWS Emulator](../digests/2026/11/2026-11-12.md#aws-emulator-local-testing) | 2026-11-11 |
+| 2026-11-12 | [Jane Streetのdatacenter温度drift監視](../digests/2026/11/2026-11-12.md#jane-street-datacenter-temperature) | 2026-11-10 |
+
+## 2026-11-13
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-13 | [Codex CLI 0.169.0](../digests/2026/11/2026-11-13.md#codex-cli-0169) | 2026-11-13 |
+| 2026-11-13 | [Atuin Threads](../digests/2026/11/2026-11-13.md#atuin-threads-agent-history) | 2026-10-27 |
+| 2026-11-13 | [GitHub Actions lockfile](../digests/2026/11/2026-11-13.md#github-actions-lockfiles) | 2026-11-11 |
+
+## 2026-11-14
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-14 | [Rust 1.100](../digests/2026/11/2026-11-14.md#rust-1100) | 2026-11-12 |
+| 2026-11-14 | [Coway空気清浄機をcloudなしでHome Assistantへ接続](../digests/2026/11/2026-11-14.md#coway-local-iot) | 2026-11-11 |
