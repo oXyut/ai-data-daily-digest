@@ -6,6 +6,17 @@
 
 ### November
 
+[2026-11-15号](digests/2026/11/2026-11-15.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [企業間競争をgraph予測し複数LLM agentが検証](digests/2026/11/2026-11-15.md#competitive-graph-multiagent) | 2026-11-15 |
+| [GRACE-AI：risk tier・drift監視・説明を組み込むMLOps](digests/2026/11/2026-11-15.md#grace-ai-governed-mlops) | 2026-11-15 |
+| [HR離職予測：oversampling leakageとthreshold設計](digests/2026/11/2026-11-15.md#hr-job-change-leakage) | 2026-11-15 |
+| [Supply chain偽情報検知のlinear model比較](digests/2026/11/2026-11-15.md#supply-chain-disinformation) | 2026-11-15 |
+| [llama.cpp／ggml 1.0：公開C APIのsemantic versioning](digests/2026/11/2026-11-15.md#llama-ggml-v1) | 2026-11-13 |
+| [PyPI：package provenanceをSecurity tabへ](digests/2026/11/2026-11-15.md#pypi-provenance-ui) | 2026-11-06 |
+
 [2026-11-14号](digests/2026/11/2026-11-14.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
