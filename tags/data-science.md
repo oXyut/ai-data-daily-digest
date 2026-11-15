@@ -263,3 +263,99 @@
 | --- | --- | --- |
 | 2026-10-28 | [AlloyDB AI：embedding modelを停止なしでblue/green移行](../digests/2026/10/2026-10-28.md#alloydb-embedding-upgrade) | 2026-10-28 |
 | 2026-10-28 | [Legora：法務AIをplaybook＋人手確認で運用](../digests/2026/10/2026-10-28.md#legora-legal-ai) | 2026-10-28 |
+
+## 2026-10-29
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-10-29 | [Microsoft Copilot for Finance](../digests/2026/10/2026-10-29.md#copilot-finance-skills) | 2026-10-29 |
+| 2026-10-29 | [Knowledge Catalogの複数semantic model対応](../digests/2026/10/2026-10-29.md#knowledge-catalog-semantic-models) | 2026-10-29 |
+| 2026-10-29 | [BigQuery×Databricks Icebergのzero-copy分析](../digests/2026/10/2026-10-29.md#bigquery-databricks-iceberg) | 2026-10-29 |
+
+## 2026-10-30
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-10-30 | [SageMaker Unified Studioの役割別designations](../digests/2026/10/2026-10-30.md#sagemaker-designations) | 2026-10-30 |
+| 2026-10-30 | [P2P与信：CTGAN×LightGBMがF1 83.28%](../digests/2026/10/2026-10-30.md#p2p-credit-risk-resampling) | 2026-10-30 |
+
+## 2026-11-02
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-02 | [Rのnarrow toolで臨床安全性集計を検証可能にするagent](../digests/2026/11/2026-11-02.md#ellmer-clinical-agent) | 2026-11-02 |
+| 2026-11-02 | [PostHog：1兆行・2PBでDuckDB／DuckLakeから再設計](../digests/2026/11/2026-11-02.md#posthog-off-duckdb) | 2026-11-02 |
+
+## 2026-11-03
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-03 | [USA Cycling：sensor・video・競技結果をLA28戦略へ活用](../digests/2026/11/2026-11-03.md#usa-cycling-data-strategy) | 2026-11-03 |
+
+## 2026-11-04
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-04 | [Dharma Field Extractor：2B modelで文書を指定schemaのJSONへ変換](../digests/2026/11/2026-11-04.md#dharma-field-extractor) | 2026-11-04 |
+| 2026-11-04 | [Google Cloud：Agentic Data CloudでIceberg・Gemini・cross-cloud dataを統合](../digests/2026/11/2026-11-04.md#google-agentic-data-cloud) | 2026-11-04 |
+| 2026-11-04 | [U Mobile：8 agentで通信support ticketを主要category最大84.5%削減](../digests/2026/11/2026-11-04.md#u-mobile-aidah) | 2026-11-04 |
+| 2026-11-04 | [Indegene：life sciencesのdata quality rule作成を約30時間から4時間へ短縮](../digests/2026/11/2026-11-04.md#indegene-data-quality-agent) | 2026-11-04 |
+
+## 2026-11-05
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-05 | [Anthropic：20.7万研究sessionからAIの科学利用を分析](../digests/2026/11/2026-11-05.md#anthropic-scientific-use) | 2026-11-05 |
+| 2026-11-05 | [Amazon Marketplace：VLM・OCR・CatBoostで商品ページ品質を評価](../digests/2026/11/2026-11-05.md#amazon-marketplace-content-quality) | 2026-11-05 |
+| 2026-11-05 | [Google Research：smartwatch sensorで高血圧の兆候をpassive screening](../digests/2026/11/2026-11-05.md#wearable-hypertension-screening) | 2026-11-05 |
+| 2026-11-05 | [Qiita：Decision RAGをNaive RAGと実装比較](../digests/2026/11/2026-11-05.md#qiita-decision-rag) | 2026-11-01（11/2更新） |
+
+## 2026-11-06
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-06 | [BigQuery DataFrames：pandasから予測・予測時系列・分類を直接実行](../digests/2026/11/2026-11-06.md#bigquery-pandas-ai-accessor) | 2026-11-06 |
+| 2026-11-06 | [Taxbit Assist：規制対象supportへ引用・権限・地域境界を組み込む](../digests/2026/11/2026-11-06.md#taxbit-assist-agent) | 2026-11-06 |
+
+## 2026-11-09
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-09 | [IBM Apptio：AI支出をunit economics・予算・business outcomeへ接続](../digests/2026/11/2026-11-09.md#apptio-ai-unit-economics) | 2026-11-09 |
+
+## 2026-11-10
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-10 | [AI支援shoppingと購買意向を979回答で分析](../digests/2026/11/2026-11-10.md#genz-ai-shopping-trust) | 2026-11-10 |
+
+## 2026-11-11
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-11 | [企業SDG performance予測と多目的最適化](../digests/2026/11/2026-11-11.md#corporate-sdg-forecasting) | 2026-11-11 |
+| 2026-11-11 | [Cisplatin腎毒性のreal-world data予測](../digests/2026/11/2026-11-11.md#cisplatin-nephrotoxicity-ml) | 2026-11-11 |
+
+## 2026-11-12
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-12 | [Holiday ExtrasのCodex app再構築](../digests/2026/11/2026-11-12.md#holiday-extras-codex-conversion) | 2026-11-12 |
+| 2026-11-12 | [Microsoftのhybrid privacy-aware agent評価](../digests/2026/11/2026-11-12.md#microsoft-hybrid-private-agent) | 2026-11-12 |
+
+## 2026-11-13
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-13 | [膀胱がんLLM：入力言語をmodel別に検証](../digests/2026/11/2026-11-13.md#bladder-llm-input-validation) | 2026-11-13 |
+| 2026-11-13 | [EV充電需要予測](../digests/2026/11/2026-11-13.md#ev-charging-demand-forecast) | 2026-11-13 |
+| 2026-11-13 | [コンクリート強度予測](../digests/2026/11/2026-11-13.md#concrete-strength-grouped-validation) | 2026-11-13 |
+
+## 2026-11-14
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-14 | [生成AI回答の出典＋警告](../digests/2026/11/2026-11-14.md#ai-source-warning-experiment) | 2026-11-14 |
+| 2026-11-14 | [CerS-Path：子宮頸部病理AI](../digests/2026/11/2026-11-14.md#cers-path-cervical-ai) | 2026-11-14 |
+| 2026-11-14 | [E-commerce予測の時間順評価](../digests/2026/11/2026-11-14.md#ecommerce-temporal-reliability) | 2026-11-14 |
+| 2026-11-14 | [風力SCADA予測の15モデル比較](../digests/2026/11/2026-11-14.md#wind-scada-forecasting) | 2026-11-14 |
