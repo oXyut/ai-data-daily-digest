@@ -354,3 +354,12 @@
 | 2026-11-14 | [CerS-Path：子宮頸部病理AI](../digests/2026/11/2026-11-14.md#cers-path-cervical-ai) | 2026-11-14 |
 | 2026-11-14 | [E-commerce予測の時間順評価](../digests/2026/11/2026-11-14.md#ecommerce-temporal-reliability) | 2026-11-14 |
 | 2026-11-14 | [風力SCADA予測の15モデル比較](../digests/2026/11/2026-11-14.md#wind-scada-forecasting) | 2026-11-14 |
+
+## 2026-11-15
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-15 | [企業間競争のgraph予測](../digests/2026/11/2026-11-15.md#competitive-graph-multiagent) | 2026-11-15 |
+| 2026-11-15 | [GRACE-AI](../digests/2026/11/2026-11-15.md#grace-ai-governed-mlops) | 2026-11-15 |
+| 2026-11-15 | [HR離職予測のleakage検証](../digests/2026/11/2026-11-15.md#hr-job-change-leakage) | 2026-11-15 |
+| 2026-11-15 | [Supply chain偽情報検知](../digests/2026/11/2026-11-15.md#supply-chain-disinformation) | 2026-11-15 |
