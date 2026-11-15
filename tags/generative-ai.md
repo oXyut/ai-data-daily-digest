@@ -405,3 +405,10 @@
 | --- | --- | --- |
 | 2026-11-14 | [生成AI回答の出典＋警告](../digests/2026/11/2026-11-14.md#ai-source-warning-experiment) | 2026-11-14 |
 | 2026-11-14 | [Coway空気清浄機をcloudなしでHome Assistantへ接続](../digests/2026/11/2026-11-14.md#coway-local-iot) | 2026-11-11 |
+
+## 2026-11-15
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-15 | [企業間競争をgraph予測し複数LLM agentが検証](../digests/2026/11/2026-11-15.md#competitive-graph-multiagent) | 2026-11-15 |
+| 2026-11-15 | [llama.cpp／ggml 1.0](../digests/2026/11/2026-11-15.md#llama-ggml-v1) | 2026-11-13 |
