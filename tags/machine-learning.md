@@ -363,3 +363,12 @@
 | 2026-11-15 | [GRACE-AI](../digests/2026/11/2026-11-15.md#grace-ai-governed-mlops) | 2026-11-15 |
 | 2026-11-15 | [HR離職予測のleakage検証](../digests/2026/11/2026-11-15.md#hr-job-change-leakage) | 2026-11-15 |
 | 2026-11-15 | [Supply chain偽情報検知](../digests/2026/11/2026-11-15.md#supply-chain-disinformation) | 2026-11-15 |
+
+## 2026-11-16
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-16 | [Qwen4-Max](../digests/2026/11/2026-11-16.md#qwen4-max) | 2026-11-16 |
+| 2026-11-16 | [OpenScientist](../digests/2026/11/2026-11-16.md#openscientist-biomedical-agent) | 2026-11-16（掲載版。preprintは2026-03-15） |
+| 2026-11-16 | [反応器のphysics-informed ML](../digests/2026/11/2026-11-16.md#reactor-physics-informed-ml) | 2026-11-16 |
+| 2026-11-16 | [ロボット＋active learningによる材料探索](../digests/2026/11/2026-11-16.md#robotics-active-learning-materials) | 2026-11-16（Protocol。原著は2024-03-18） |
