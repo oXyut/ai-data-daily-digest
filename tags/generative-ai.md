@@ -412,3 +412,10 @@
 | --- | --- | --- |
 | 2026-11-15 | [企業間競争をgraph予測し複数LLM agentが検証](../digests/2026/11/2026-11-15.md#competitive-graph-multiagent) | 2026-11-15 |
 | 2026-11-15 | [llama.cpp／ggml 1.0](../digests/2026/11/2026-11-15.md#llama-ggml-v1) | 2026-11-13 |
+
+## 2026-11-16
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-16 | [Qwen4-Max](../digests/2026/11/2026-11-16.md#qwen4-max) | 2026-11-16 |
+| 2026-11-16 | [OpenScientist](../digests/2026/11/2026-11-16.md#openscientist-biomedical-agent) | 2026-11-16（掲載版。preprintは2026-03-15） |
