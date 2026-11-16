@@ -343,3 +343,11 @@
 | --- | --- | --- |
 | 2026-11-15 | [llama.cpp／ggml 1.0](../digests/2026/11/2026-11-15.md#llama-ggml-v1) | 2026-11-13 |
 | 2026-11-15 | [PyPI provenance UI](../digests/2026/11/2026-11-15.md#pypi-provenance-ui) | 2026-11-06 |
+
+## 2026-11-16
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-16 | [Qwen4-Max](../digests/2026/11/2026-11-16.md#qwen4-max) | 2026-11-16 |
+| 2026-11-16 | [uBlock Origin element pickerのUXSS](../digests/2026/11/2026-11-16.md#ublock-origin-uxss) | 2026-11-15 |
+| 2026-11-16 | [Jiff 1.0](../digests/2026/11/2026-11-16.md#jiff-1) | 2026-11-15 |
