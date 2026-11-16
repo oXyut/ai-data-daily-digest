@@ -6,6 +6,17 @@
 
 ### November
 
+[2026-11-16号](digests/2026/11/2026-11-16.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Qwen4-Max：2.4T MoE・native vision・1M context](digests/2026/11/2026-11-16.md#qwen4-max) | 2026-11-16 |
+| [OpenScientist：臨床dataと文献を横断するagentic co-scientist](digests/2026/11/2026-11-16.md#openscientist-biomedical-agent) | 2026-11-16（掲載版。preprintは2026-03-15） |
+| [反応器のphysics-informed ML：壁面温度誤差0.5%未満](digests/2026/11/2026-11-16.md#reactor-physics-informed-ml) | 2026-11-16 |
+| [ロボット＋active learningで天然plastic代替材を逆設計](digests/2026/11/2026-11-16.md#robotics-active-learning-materials) | 2026-11-16（Protocol。原著は2024-03-18） |
+| [uBlock Origin element pickerのUXSS](digests/2026/11/2026-11-16.md#ublock-origin-uxss) | 2026-11-15 |
+| [Jiff 1.0：DSTとtime zoneを中心に置くRust日時library](digests/2026/11/2026-11-16.md#jiff-1) | 2026-11-15 |
+
 [2026-11-15号](digests/2026/11/2026-11-15.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
