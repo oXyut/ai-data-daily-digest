@@ -6,6 +6,18 @@
 
 ### November
 
+
+[2026-11-17号](digests/2026/11/2026-11-17.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [GPT-6.2 Astra／Sol：専門業務・coding・computer useを更新](digests/2026/11/2026-11-17.md#gpt-62-astra-sol) | 2026-11-17 |
+| [MAI Code 2／Flash：企業coding向けcost-performance model](digests/2026/11/2026-11-17.md#mai-code-2) | 2026-11-17 |
+| [Agent 365 Business Analytics：AI支出をROIへ接続](digests/2026/11/2026-11-17.md#agent-365-business-analytics) | 2026-11-17 |
+| [PreVAP：VAPを24時間前に予測するCatBoost](digests/2026/11/2026-11-17.md#prevap-vap-prediction) | 2026-11-17 |
+| [remote agentへcredentialを渡さないlend](digests/2026/11/2026-11-17.md#lend-agent-credentials) | 2026-11-13（11/17更新） |
+| [coding agentの検証loop](digests/2026/11/2026-11-17.md#claude-code-verification) | 2026-11-16 |
+
 [2026-11-16号](digests/2026/11/2026-11-16.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
