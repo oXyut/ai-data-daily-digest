@@ -351,3 +351,12 @@
 | 2026-11-16 | [Qwen4-Max](../digests/2026/11/2026-11-16.md#qwen4-max) | 2026-11-16 |
 | 2026-11-16 | [uBlock Origin element pickerのUXSS](../digests/2026/11/2026-11-16.md#ublock-origin-uxss) | 2026-11-15 |
 | 2026-11-16 | [Jiff 1.0](../digests/2026/11/2026-11-16.md#jiff-1) | 2026-11-15 |
+
+## 2026-11-17
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-17 | [GPT-6.2 Astra／Sol](../digests/2026/11/2026-11-17.md#gpt-62-astra-sol) | 2026-11-17 |
+| 2026-11-17 | [MAI Code 2／Flash](../digests/2026/11/2026-11-17.md#mai-code-2) | 2026-11-17 |
+| 2026-11-17 | [remote agentへcredentialを渡さないlend](../digests/2026/11/2026-11-17.md#lend-agent-credentials) | 2026-11-13（11/17更新） |
+| 2026-11-17 | [coding agentの検証loop](../digests/2026/11/2026-11-17.md#claude-code-verification) | 2026-11-16 |
