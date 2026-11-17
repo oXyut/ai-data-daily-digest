@@ -376,3 +376,10 @@
 | 2026-11-16 | [OpenScientist](../digests/2026/11/2026-11-16.md#openscientist-biomedical-agent) | 2026-11-16（掲載版。preprintは2026-03-15） |
 | 2026-11-16 | [反応器のphysics-informed ML](../digests/2026/11/2026-11-16.md#reactor-physics-informed-ml) | 2026-11-16 |
 | 2026-11-16 | [ロボット＋active learningによる材料探索](../digests/2026/11/2026-11-16.md#robotics-active-learning-materials) | 2026-11-16（Protocol。原著は2024-03-18） |
+
+## 2026-11-17
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-17 | [Agent 365 Business Analytics](../digests/2026/11/2026-11-17.md#agent-365-business-analytics) | 2026-11-17 |
+| 2026-11-17 | [PreVAP：VAPを24時間前に予測](../digests/2026/11/2026-11-17.md#prevap-vap-prediction) | 2026-11-17 |
