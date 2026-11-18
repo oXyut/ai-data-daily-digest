@@ -6,6 +6,18 @@
 
 ### November
 
+[2026-11-18号](digests/2026/11/2026-11-18.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [OKF v0.3：agent用knowledge bundleの互換性・信頼・移管](digests/2026/11/2026-11-18.md#okf-v03) | 2026-11-18 |
+| [GitHub Copilot：team単位のAgent Plugins既定配布](digests/2026/11/2026-11-18.md#github-copilot-team-plugins) | 2026-11-18 |
+| [startup risk予測：事業計画・財務・networkの不一致を活用](digests/2026/11/2026-11-18.md#startup-risk-multimodal) | 2026-11-18 |
+| [病院需要予測：LSTMと線形modelがほぼ同精度](digests/2026/11/2026-11-18.md#hospital-demand-forecasting) | 2026-11-18（掲載版。preprintは2024-04-29） |
+| [AI生成testをmutationで評価](digests/2026/11/2026-11-18.md#mutation-test-quality) | 2026-11-17 |
+| [Cerebras disaggregated inference](digests/2026/11/2026-11-18.md#cerebras-disaggregated-inference) | 2026-11-17 |
+
+
 
 [2026-11-17号](digests/2026/11/2026-11-17.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
