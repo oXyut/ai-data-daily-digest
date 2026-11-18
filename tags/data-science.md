@@ -383,3 +383,10 @@
 | --- | --- | --- |
 | 2026-11-17 | [Agent 365 Business Analytics](../digests/2026/11/2026-11-17.md#agent-365-business-analytics) | 2026-11-17 |
 | 2026-11-17 | [PreVAP：VAPを24時間前に予測](../digests/2026/11/2026-11-17.md#prevap-vap-prediction) | 2026-11-17 |
+
+## 2026-11-18
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-18 | [startup risk予測：事業計画・財務・networkの不一致を活用](../digests/2026/11/2026-11-18.md#startup-risk-multimodal) | 2026-11-18 |
+| 2026-11-18 | [病院需要予測：LSTMと線形modelがほぼ同精度](../digests/2026/11/2026-11-18.md#hospital-demand-forecasting) | 2026-11-18 |
