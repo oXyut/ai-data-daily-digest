@@ -428,3 +428,11 @@
 | 2026-11-17 | [MAI Code 2／Flash](../digests/2026/11/2026-11-17.md#mai-code-2) | 2026-11-17 |
 | 2026-11-17 | [Agent 365 Business Analytics](../digests/2026/11/2026-11-17.md#agent-365-business-analytics) | 2026-11-17 |
 | 2026-11-17 | [coding agentの検証loop](../digests/2026/11/2026-11-17.md#claude-code-verification) | 2026-11-16 |
+
+## 2026-11-18
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-18 | [OKF v0.3：agent用knowledge bundleの互換性・信頼・移管](../digests/2026/11/2026-11-18.md#okf-v03) | 2026-11-18 |
+| 2026-11-18 | [GitHub Copilot：team単位のAgent Plugins既定配布](../digests/2026/11/2026-11-18.md#github-copilot-team-plugins) | 2026-11-18 |
+| 2026-11-18 | [Cerebras disaggregated inference](../digests/2026/11/2026-11-18.md#cerebras-disaggregated-inference) | 2026-11-17 |
