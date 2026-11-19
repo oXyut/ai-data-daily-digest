@@ -369,3 +369,12 @@
 | 2026-11-18 | [GitHub Copilot：team単位のAgent Plugins既定配布](../digests/2026/11/2026-11-18.md#github-copilot-team-plugins) | 2026-11-18 |
 | 2026-11-18 | [AI生成testをmutationで評価](../digests/2026/11/2026-11-18.md#mutation-test-quality) | 2026-11-17 |
 | 2026-11-18 | [Cerebras disaggregated inference](../digests/2026/11/2026-11-18.md#cerebras-disaggregated-inference) | 2026-11-17 |
+
+## 2026-11-19
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-19 | [AWS AppConfigのAI設定管理](../digests/2026/11/2026-11-19.md#aws-appconfig-ai-config) | 2026-11-19 |
+| 2026-11-19 | [Dialog-RSN-1をSageMakerへ](../digests/2026/11/2026-11-19.md#polyai-dialog-rsn1-sagemaker) | 2026-11-19 |
+| 2026-11-19 | [LLM逆解析の仮説・probe loop](../digests/2026/11/2026-11-19.md#llm-assisted-reverse-engineering) | 2026-11-18 |
+| 2026-11-19 | [E2E台帳による変更追随](../digests/2026/11/2026-11-19.md#e2e-ledger-strategy) | 2026-10-26 |
