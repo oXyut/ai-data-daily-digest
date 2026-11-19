@@ -6,6 +6,18 @@
 
 ### November
 
+[2026-11-19号](digests/2026/11/2026-11-19.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [AWS AppConfig：model設定とpromptの段階展開・自動rollback](digests/2026/11/2026-11-19.md#aws-appconfig-ai-config) | 2026-11-19 |
+| [Dialog-RSN-1：real-time音声対話modelをSageMakerへ](digests/2026/11/2026-11-19.md#polyai-dialog-rsn1-sagemaker) | 2026-11-19 |
+| [Cloud Storage object enrichments：非構造dataをin-placeでcontext化](digests/2026/11/2026-11-19.md#gcs-object-enrichments) | 2026-11-19 |
+| [CNC加工誤差予測：RMSE 3.84μm、推論3.62ms](digests/2026/11/2026-11-19.md#cnc-digital-twin-isslo-cnn) | 2026-11-19 |
+| [LLM逆解析：仮説・probe・記録のloop](digests/2026/11/2026-11-19.md#llm-assisted-reverse-engineering) | 2026-11-18 |
+| [E2E台帳：実装・scenario・test IDを照合](digests/2026/11/2026-11-19.md#e2e-ledger-strategy) | 2026-10-26 |
+
+
 [2026-11-18号](digests/2026/11/2026-11-18.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
