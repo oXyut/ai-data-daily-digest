@@ -394,3 +394,12 @@
 | --- | --- | --- |
 | 2026-11-19 | [Dialog-RSN-1をSageMakerへ](../digests/2026/11/2026-11-19.md#polyai-dialog-rsn1-sagemaker) | 2026-11-19 |
 | 2026-11-19 | [CNC加工誤差予測](../digests/2026/11/2026-11-19.md#cnc-digital-twin-isslo-cnn) | 2026-11-19 |
+
+## 2026-11-20
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-20 | [MedChemBench](../digests/2026/11/2026-11-20.md#openai-medchembench) | 2026-11-20 |
+| 2026-11-20 | [株価予測＋exact Shapleyの否定的結果](../digests/2026/11/2026-11-20.md#stock-forecast-shapley-negative-result) | 2026-11-20 |
+| 2026-11-20 | [UAV物流の二段階最適化](../digests/2026/11/2026-11-20.md#uav-logistics-ddqn-theta) | 2026-11-20 |
+| 2026-11-20 | [FrostbiteのAI CPU設計探索](../digests/2026/11/2026-11-20.md#frostbite-ai-cpu) | 2026-11-18 |
