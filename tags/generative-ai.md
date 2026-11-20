@@ -405,3 +405,52 @@
 | --- | --- | --- |
 | 2026-11-14 | [生成AI回答の出典＋警告](../digests/2026/11/2026-11-14.md#ai-source-warning-experiment) | 2026-11-14 |
 | 2026-11-14 | [Coway空気清浄機をcloudなしでHome Assistantへ接続](../digests/2026/11/2026-11-14.md#coway-local-iot) | 2026-11-11 |
+
+## 2026-11-15
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-15 | [企業間競争をgraph予測し複数LLM agentが検証](../digests/2026/11/2026-11-15.md#competitive-graph-multiagent) | 2026-11-15 |
+| 2026-11-15 | [llama.cpp／ggml 1.0](../digests/2026/11/2026-11-15.md#llama-ggml-v1) | 2026-11-13 |
+
+## 2026-11-16
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-16 | [Qwen4-Max](../digests/2026/11/2026-11-16.md#qwen4-max) | 2026-11-16 |
+| 2026-11-16 | [OpenScientist](../digests/2026/11/2026-11-16.md#openscientist-biomedical-agent) | 2026-11-16（掲載版。preprintは2026-03-15） |
+
+## 2026-11-17
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-17 | [GPT-6.2 Astra／Sol](../digests/2026/11/2026-11-17.md#gpt-62-astra-sol) | 2026-11-17 |
+| 2026-11-17 | [MAI Code 2／Flash](../digests/2026/11/2026-11-17.md#mai-code-2) | 2026-11-17 |
+| 2026-11-17 | [Agent 365 Business Analytics](../digests/2026/11/2026-11-17.md#agent-365-business-analytics) | 2026-11-17 |
+| 2026-11-17 | [coding agentの検証loop](../digests/2026/11/2026-11-17.md#claude-code-verification) | 2026-11-16 |
+
+## 2026-11-18
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-18 | [OKF v0.3：agent用knowledge bundleの互換性・信頼・移管](../digests/2026/11/2026-11-18.md#okf-v03) | 2026-11-18 |
+| 2026-11-18 | [GitHub Copilot：team単位のAgent Plugins既定配布](../digests/2026/11/2026-11-18.md#github-copilot-team-plugins) | 2026-11-18 |
+| 2026-11-18 | [Cerebras disaggregated inference](../digests/2026/11/2026-11-18.md#cerebras-disaggregated-inference) | 2026-11-17 |
+
+## 2026-11-19
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-19 | [AWS AppConfigのAI設定管理](../digests/2026/11/2026-11-19.md#aws-appconfig-ai-config) | 2026-11-19 |
+| 2026-11-19 | [Dialog-RSN-1をSageMakerへ](../digests/2026/11/2026-11-19.md#polyai-dialog-rsn1-sagemaker) | 2026-11-19 |
+| 2026-11-19 | [Cloud Storage object enrichments](../digests/2026/11/2026-11-19.md#gcs-object-enrichments) | 2026-11-19 |
+| 2026-11-19 | [LLM逆解析の仮説・probe loop](../digests/2026/11/2026-11-19.md#llm-assisted-reverse-engineering) | 2026-11-18 |
+| 2026-11-19 | [E2E台帳による変更追随](../digests/2026/11/2026-11-19.md#e2e-ledger-strategy) | 2026-10-26 |
+
+## 2026-11-20
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-20 | [MedChemBench](../digests/2026/11/2026-11-20.md#openai-medchembench) | 2026-11-20 |
+| 2026-11-20 | [AWS Transformの.NET 11対応](../digests/2026/11/2026-11-20.md#aws-transform-dotnet-11) | 2026-11-20 |
+| 2026-11-20 | [FrostbiteのAI CPU設計探索](../digests/2026/11/2026-11-20.md#frostbite-ai-cpu) | 2026-11-18 |

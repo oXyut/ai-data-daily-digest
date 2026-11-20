@@ -359,3 +359,48 @@
 | 2026-11-14 | [CerS-Path：子宮頸部病理AI](../digests/2026/11/2026-11-14.md#cers-path-cervical-ai) | 2026-11-14 |
 | 2026-11-14 | [E-commerce予測の時間順評価](../digests/2026/11/2026-11-14.md#ecommerce-temporal-reliability) | 2026-11-14 |
 | 2026-11-14 | [風力SCADA予測の15モデル比較](../digests/2026/11/2026-11-14.md#wind-scada-forecasting) | 2026-11-14 |
+
+## 2026-11-15
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-15 | [企業間競争のgraph予測](../digests/2026/11/2026-11-15.md#competitive-graph-multiagent) | 2026-11-15 |
+| 2026-11-15 | [GRACE-AI](../digests/2026/11/2026-11-15.md#grace-ai-governed-mlops) | 2026-11-15 |
+| 2026-11-15 | [HR離職予測のleakage検証](../digests/2026/11/2026-11-15.md#hr-job-change-leakage) | 2026-11-15 |
+| 2026-11-15 | [Supply chain偽情報検知](../digests/2026/11/2026-11-15.md#supply-chain-disinformation) | 2026-11-15 |
+
+## 2026-11-16
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-16 | [OpenScientist](../digests/2026/11/2026-11-16.md#openscientist-biomedical-agent) | 2026-11-16（掲載版。preprintは2026-03-15） |
+| 2026-11-16 | [反応器のphysics-informed ML](../digests/2026/11/2026-11-16.md#reactor-physics-informed-ml) | 2026-11-16 |
+| 2026-11-16 | [ロボット＋active learningによる材料探索](../digests/2026/11/2026-11-16.md#robotics-active-learning-materials) | 2026-11-16（Protocol。原著は2024-03-18） |
+
+## 2026-11-17
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-17 | [Agent 365 Business Analytics](../digests/2026/11/2026-11-17.md#agent-365-business-analytics) | 2026-11-17 |
+| 2026-11-17 | [PreVAP：VAPを24時間前に予測](../digests/2026/11/2026-11-17.md#prevap-vap-prediction) | 2026-11-17 |
+
+## 2026-11-18
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-18 | [startup risk予測：事業計画・財務・networkの不一致を活用](../digests/2026/11/2026-11-18.md#startup-risk-multimodal) | 2026-11-18 |
+| 2026-11-18 | [病院需要予測：LSTMと線形modelがほぼ同精度](../digests/2026/11/2026-11-18.md#hospital-demand-forecasting) | 2026-11-18 |
+
+## 2026-11-19
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-19 | [Cloud Storage object enrichments](../digests/2026/11/2026-11-19.md#gcs-object-enrichments) | 2026-11-19 |
+| 2026-11-19 | [CNC加工誤差予測](../digests/2026/11/2026-11-19.md#cnc-digital-twin-isslo-cnn) | 2026-11-19 |
+
+## 2026-11-20
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-20 | [株価予測＋exact Shapleyの否定的結果](../digests/2026/11/2026-11-20.md#stock-forecast-shapley-negative-result) | 2026-11-20 |
+| 2026-11-20 | [UAV物流の二段階最適化](../digests/2026/11/2026-11-20.md#uav-logistics-ddqn-theta) | 2026-11-20 |
