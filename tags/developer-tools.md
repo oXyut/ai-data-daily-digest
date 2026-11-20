@@ -378,3 +378,11 @@
 | 2026-11-19 | [Dialog-RSN-1をSageMakerへ](../digests/2026/11/2026-11-19.md#polyai-dialog-rsn1-sagemaker) | 2026-11-19 |
 | 2026-11-19 | [LLM逆解析の仮説・probe loop](../digests/2026/11/2026-11-19.md#llm-assisted-reverse-engineering) | 2026-11-18 |
 | 2026-11-19 | [E2E台帳による変更追随](../digests/2026/11/2026-11-19.md#e2e-ledger-strategy) | 2026-10-26 |
+
+## 2026-11-20
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-20 | [AWS Transformの.NET 11対応](../digests/2026/11/2026-11-20.md#aws-transform-dotnet-11) | 2026-11-20 |
+| 2026-11-20 | [FrostbiteのAI CPU設計探索](../digests/2026/11/2026-11-20.md#frostbite-ai-cpu) | 2026-11-18 |
+| 2026-11-20 | [Linux memory圧縮の実測](../digests/2026/11/2026-11-20.md#linux-memory-compression) | 2026-11-19（11/20追記） |
