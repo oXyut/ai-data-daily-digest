@@ -6,6 +6,18 @@
 
 ### November
 
+[2026-11-20号](digests/2026/11/2026-11-20.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [MedChemBench：創薬の構造読解・実験解釈・化合物選択](digests/2026/11/2026-11-20.md#openai-medchembench) | 2026-11-20 |
+| [AWS Transform：legacy .NETを.NET 11へagentic modernization](digests/2026/11/2026-11-20.md#aws-transform-dotnet-11) | 2026-11-20 |
+| [株価予測＋exact Shapley：no-skillを超えない否定的結果](digests/2026/11/2026-11-20.md#stock-forecast-shapley-negative-result) | 2026-11-20 |
+| [UAV物流：node配置とrisk-aware routeの二段階最適化](digests/2026/11/2026-11-20.md#uav-logistics-ddqn-theta) | 2026-11-20 |
+| [Frostbite：AI agent swarmによるCPU設計探索](digests/2026/11/2026-11-20.md#frostbite-ai-cpu) | 2026-11-18 |
+| [Linux memory圧縮：zram実測とzswapの使い分け](digests/2026/11/2026-11-20.md#linux-memory-compression) | 2026-11-19（11/20追記） |
+
+
 [2026-11-19号](digests/2026/11/2026-11-19.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
