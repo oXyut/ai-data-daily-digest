@@ -403,3 +403,11 @@
 | 2026-11-20 | [株価予測＋exact Shapleyの否定的結果](../digests/2026/11/2026-11-20.md#stock-forecast-shapley-negative-result) | 2026-11-20 |
 | 2026-11-20 | [UAV物流の二段階最適化](../digests/2026/11/2026-11-20.md#uav-logistics-ddqn-theta) | 2026-11-20 |
 | 2026-11-20 | [FrostbiteのAI CPU設計探索](../digests/2026/11/2026-11-20.md#frostbite-ai-cpu) | 2026-11-18 |
+
+## 2026-11-21
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-21 | [物流networkの予測・risk・最適化](../digests/2026/11/2026-11-21.md#logistics-prediction-optimization) | 2026-11-21 |
+| 2026-11-21 | [射出成形品質のmodel選択](../digests/2026/11/2026-11-21.md#injection-molding-model-choice) | 2026-11-21 |
+| 2026-11-21 | [Inkling 2 Miniを5.4GBへ量子化](../digests/2026/11/2026-11-21.md#inkling-lookatmyquant) | 2026-11-21 |
