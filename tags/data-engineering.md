@@ -238,3 +238,9 @@
 | 掲載号 | トピック | 一次情報の公開日 |
 | --- | --- | --- |
 | 2026-11-19 | [Cloud Storage object enrichments](../digests/2026/11/2026-11-19.md#gcs-object-enrichments) | 2026-11-19 |
+
+## 2026-11-21
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-21 | [Valkeyのsorted setをB+ treeへ](../digests/2026/11/2026-11-21.md#valkey-fbtree) | 2026-11-16 |
