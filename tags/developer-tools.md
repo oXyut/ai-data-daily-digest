@@ -386,3 +386,10 @@
 | 2026-11-20 | [AWS Transformの.NET 11対応](../digests/2026/11/2026-11-20.md#aws-transform-dotnet-11) | 2026-11-20 |
 | 2026-11-20 | [FrostbiteのAI CPU設計探索](../digests/2026/11/2026-11-20.md#frostbite-ai-cpu) | 2026-11-18 |
 | 2026-11-20 | [Linux memory圧縮の実測](../digests/2026/11/2026-11-20.md#linux-memory-compression) | 2026-11-19（11/20追記） |
+
+## 2026-11-21
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-21 | [Valkeyのsorted setをB+ treeへ](../digests/2026/11/2026-11-21.md#valkey-fbtree) | 2026-11-16 |
+| 2026-11-21 | [Inkling 2 Miniを5.4GBへ量子化](../digests/2026/11/2026-11-21.md#inkling-lookatmyquant) | 2026-11-21 |
