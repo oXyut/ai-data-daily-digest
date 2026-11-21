@@ -6,6 +6,15 @@
 
 ### November
 
+[2026-11-21号](digests/2026/11/2026-11-21.md) — AIニュース0件（適格項目なし）、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [物流network：需要予測・disruption risk・最適化を一体化](digests/2026/11/2026-11-21.md#logistics-prediction-optimization) | 2026-11-21 |
+| [射出成形品質：DOE・simulation・sensor MLを比較](digests/2026/11/2026-11-21.md#injection-molding-model-choice) | 2026-11-21 |
+| [Valkey：sorted setをskiplistからB+ treeへ](digests/2026/11/2026-11-21.md#valkey-fbtree) | 2026-11-16 |
+| [Inkling 2 Miniを5.4GBへ量子化](digests/2026/11/2026-11-21.md#inkling-lookatmyquant) | 2026-11-21 |
+
 [2026-11-20号](digests/2026/11/2026-11-20.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
