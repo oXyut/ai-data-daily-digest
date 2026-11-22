@@ -6,6 +6,17 @@
 
 ### November
 
+[2026-11-22号](digests/2026/11/2026-11-22.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [OpenAI：perplexityを共通進捗・安全指標へ](digests/2026/11/2026-11-22.md#openai-perplexity-intelligence) | 2026-11-22 |
+| [OpenRouter：推論provider incidentとZDR再審査](digests/2026/11/2026-11-22.md#openrouter-provider-incidents) | 2026-11-22 |
+| [人・robot協働assemblyのtask scheduling](digests/2026/11/2026-11-22.md#hrc-drl-task-scheduling) | 2026-11-22 |
+| [露天掘りblastのfragmentation予測](digests/2026/11/2026-11-22.md#mine-fragmentation-coa-gpr) | 2026-11-22 |
+| [fast-anything：hot functionだけをRustへ](digests/2026/11/2026-11-22.md#fast-anything-rust-hotspots) | 2026-11-21 |
+| [unkernel：実Linux kernelをWebAssemblyへ](digests/2026/11/2026-11-22.md#unkernel-linux-wasm) | 2026-11-21 |
+
 [2026-11-21号](digests/2026/11/2026-11-21.md) — AIニュース0件（適格項目なし）、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
