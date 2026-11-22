@@ -411,3 +411,11 @@
 | 2026-11-21 | [物流networkの予測・risk・最適化](../digests/2026/11/2026-11-21.md#logistics-prediction-optimization) | 2026-11-21 |
 | 2026-11-21 | [射出成形品質のmodel選択](../digests/2026/11/2026-11-21.md#injection-molding-model-choice) | 2026-11-21 |
 | 2026-11-21 | [Inkling 2 Miniを5.4GBへ量子化](../digests/2026/11/2026-11-21.md#inkling-lookatmyquant) | 2026-11-21 |
+
+## 2026-11-22
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-22 | [OpenAI：perplexityを共通進捗・安全指標へ](../digests/2026/11/2026-11-22.md#openai-perplexity-intelligence) | 2026-11-22 |
+| 2026-11-22 | [人・robot協働assemblyのtask scheduling](../digests/2026/11/2026-11-22.md#hrc-drl-task-scheduling) | 2026-11-22 |
+| 2026-11-22 | [露天掘りblastのfragmentation予測](../digests/2026/11/2026-11-22.md#mine-fragmentation-coa-gpr) | 2026-11-22 |
