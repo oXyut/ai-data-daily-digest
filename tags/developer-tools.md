@@ -393,3 +393,11 @@
 | --- | --- | --- |
 | 2026-11-21 | [Valkeyのsorted setをB+ treeへ](../digests/2026/11/2026-11-21.md#valkey-fbtree) | 2026-11-16 |
 | 2026-11-21 | [Inkling 2 Miniを5.4GBへ量子化](../digests/2026/11/2026-11-21.md#inkling-lookatmyquant) | 2026-11-21 |
+
+## 2026-11-22
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-22 | [OpenRouter：推論provider incidentとZDR再審査](../digests/2026/11/2026-11-22.md#openrouter-provider-incidents) | 2026-11-22 |
+| 2026-11-22 | [fast-anything：hot functionだけをRustへ](../digests/2026/11/2026-11-22.md#fast-anything-rust-hotspots) | 2026-11-21 |
+| 2026-11-22 | [unkernel：実Linux kernelをWebAssemblyへ](../digests/2026/11/2026-11-22.md#unkernel-linux-wasm) | 2026-11-21 |
