@@ -460,3 +460,11 @@
 | 掲載号 | トピック | 一次情報の公開日 |
 | --- | --- | --- |
 | 2026-11-21 | [Inkling 2 Miniを5.4GBへ量子化](../digests/2026/11/2026-11-21.md#inkling-lookatmyquant) | 2026-11-21 |
+
+## 2026-11-22
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-22 | [OpenAI：perplexityを共通進捗・安全指標へ](../digests/2026/11/2026-11-22.md#openai-perplexity-intelligence) | 2026-11-22 |
+| 2026-11-22 | [OpenRouter：推論provider incidentとZDR再審査](../digests/2026/11/2026-11-22.md#openrouter-provider-incidents) | 2026-11-22 |
+| 2026-11-22 | [fast-anything：hot functionだけをRustへ](../digests/2026/11/2026-11-22.md#fast-anything-rust-hotspots) | 2026-11-21 |
