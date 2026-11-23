@@ -401,3 +401,11 @@
 | 2026-11-22 | [OpenRouter：推論provider incidentとZDR再審査](../digests/2026/11/2026-11-22.md#openrouter-provider-incidents) | 2026-11-22 |
 | 2026-11-22 | [fast-anything：hot functionだけをRustへ](../digests/2026/11/2026-11-22.md#fast-anything-rust-hotspots) | 2026-11-21 |
 | 2026-11-22 | [unkernel：実Linux kernelをWebAssemblyへ](../digests/2026/11/2026-11-22.md#unkernel-linux-wasm) | 2026-11-21 |
+
+## 2026-11-23
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-23 | [GLM-5.4：初のflagship Loop Transformer](../digests/2026/11/2026-11-23.md#glm-54-loop-transformer) | 2026-11-23 |
+| 2026-11-23 | [Ladybird alpha：独自browser engine](../digests/2026/11/2026-11-23.md#ladybird-alpha) | 2026-11-23 |
+| 2026-11-23 | [xnulinux：XNUをLinux kernel moduleとして同居](../digests/2026/11/2026-11-23.md#xnulinux-xnu-linux-module) | 2026-11-20（11/23更新） |
