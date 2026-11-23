@@ -6,6 +6,16 @@
 
 ### November
 
+[2026-11-23号](digests/2026/11/2026-11-23.md) — AIニュース1件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [GLM-5.4：初のflagship Loop Transformer](digests/2026/11/2026-11-23.md#glm-54-loop-transformer) | 2026-11-23 |
+| [切削加工のvirtual metrology](digests/2026/11/2026-11-23.md#virtual-metrology-surface-roughness) | 2026-11-23 |
+| [HS-ChemEco：環境外部costを説明可能MLで推定](digests/2026/11/2026-11-23.md#hs-chemeco-environmental-price) | 2026-11-23 |
+| [Ladybird alpha：独自browser engine](digests/2026/11/2026-11-23.md#ladybird-alpha) | 2026-11-23 |
+| [xnulinux：XNUをLinux kernel moduleとして同居](digests/2026/11/2026-11-23.md#xnulinux-xnu-linux-module) | 2026-11-20（11/23更新） |
+
 [2026-11-22号](digests/2026/11/2026-11-22.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
