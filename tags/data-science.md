@@ -418,3 +418,10 @@
 | --- | --- | --- |
 | 2026-11-22 | [人・robot協働assemblyのtask scheduling](../digests/2026/11/2026-11-22.md#hrc-drl-task-scheduling) | 2026-11-22 |
 | 2026-11-22 | [露天掘りblastのfragmentation予測](../digests/2026/11/2026-11-22.md#mine-fragmentation-coa-gpr) | 2026-11-22 |
+
+## 2026-11-23
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-23 | [切削加工のvirtual metrology](../digests/2026/11/2026-11-23.md#virtual-metrology-surface-roughness) | 2026-11-23 |
+| 2026-11-23 | [HS-ChemEco：環境外部costを説明可能MLで推定](../digests/2026/11/2026-11-23.md#hs-chemeco-environmental-price) | 2026-11-23 |
