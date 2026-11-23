@@ -468,3 +468,9 @@
 | 2026-11-22 | [OpenAI：perplexityを共通進捗・安全指標へ](../digests/2026/11/2026-11-22.md#openai-perplexity-intelligence) | 2026-11-22 |
 | 2026-11-22 | [OpenRouter：推論provider incidentとZDR再審査](../digests/2026/11/2026-11-22.md#openrouter-provider-incidents) | 2026-11-22 |
 | 2026-11-22 | [fast-anything：hot functionだけをRustへ](../digests/2026/11/2026-11-22.md#fast-anything-rust-hotspots) | 2026-11-21 |
+
+## 2026-11-23
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-23 | [GLM-5.4：初のflagship Loop Transformer](../digests/2026/11/2026-11-23.md#glm-54-loop-transformer) | 2026-11-23 |
