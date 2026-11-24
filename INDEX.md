@@ -6,6 +6,17 @@
 
 ### November
 
+[2026-11-24号](digests/2026/11/2026-11-24.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [ERNIE 5.5 Flash Preview：Apache 2.0で重み公開](digests/2026/11/2026-11-24.md#ernie-55-flash-preview-weights) | 2026-11-24 |
+| [Hy-MT3：102言語の翻訳modelとTransRubric](digests/2026/11/2026-11-24.md#hy-mt3-multilingual-translation) | 2026-11-24 |
+| [EV補修部品の確率最適化](digests/2026/11/2026-11-24.md#ev-spare-parts-stochastic-optimization) | 2026-11-24 |
+| [病院電力需要の1年先月次予測](digests/2026/11/2026-11-24.md#hospital-mid-term-load-forecasting) | 2026-11-24 |
+| [Hosted LLM agentのpolicy owner](digests/2026/11/2026-11-24.md#llm-agents-parent-company-interests) | 2026-11-01 |
+| [Debianのiperf／iperf3更新とfireperf](digests/2026/11/2026-11-24.md#debian-iperf-fireperf) | 2026-11-22 |
+
 [2026-11-23号](digests/2026/11/2026-11-23.md) — AIニュース1件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
