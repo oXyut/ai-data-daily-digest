@@ -425,3 +425,10 @@
 | --- | --- | --- |
 | 2026-11-23 | [切削加工のvirtual metrology](../digests/2026/11/2026-11-23.md#virtual-metrology-surface-roughness) | 2026-11-23 |
 | 2026-11-23 | [HS-ChemEco：環境外部costを説明可能MLで推定](../digests/2026/11/2026-11-23.md#hs-chemeco-environmental-price) | 2026-11-23 |
+
+## 2026-11-24
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-24 | [EV補修部品の確率最適化](../digests/2026/11/2026-11-24.md#ev-spare-parts-stochastic-optimization) | 2026-11-24 |
+| 2026-11-24 | [病院電力需要の1年先月次予測](../digests/2026/11/2026-11-24.md#hospital-mid-term-load-forecasting) | 2026-11-24 |
