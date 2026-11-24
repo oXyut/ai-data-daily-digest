@@ -409,3 +409,10 @@
 | 2026-11-23 | [GLM-5.4：初のflagship Loop Transformer](../digests/2026/11/2026-11-23.md#glm-54-loop-transformer) | 2026-11-23 |
 | 2026-11-23 | [Ladybird alpha：独自browser engine](../digests/2026/11/2026-11-23.md#ladybird-alpha) | 2026-11-23 |
 | 2026-11-23 | [xnulinux：XNUをLinux kernel moduleとして同居](../digests/2026/11/2026-11-23.md#xnulinux-xnu-linux-module) | 2026-11-20（11/23更新） |
+
+## 2026-11-24
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-24 | [Hosted LLM agentのpolicy owner](../digests/2026/11/2026-11-24.md#llm-agents-parent-company-interests) | 2026-11-01 |
+| 2026-11-24 | [Debianのiperf／iperf3更新とfireperf](../digests/2026/11/2026-11-24.md#debian-iperf-fireperf) | 2026-11-22 |
