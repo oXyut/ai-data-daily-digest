@@ -6,6 +6,16 @@
 
 ### November
 
+[2026-11-25号](digests/2026/11/2026-11-25.md) — AIニュース1件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [WeMM-Ecom：e-commerce向けmultimodal model 5規模](digests/2026/11/2026-11-25.md#wemm-ecom-open-weights) | 2026-11-25（JST。技術報告は11/23） |
+| [HelloFresh zone pickingのDRL能力制御](digests/2026/11/2026-11-25.md#zone-picking-drl-capacity-control) | 2026-11-25 |
+| [FinTech MLのS.A.F.E.多面的評価](digests/2026/11/2026-11-25.md#fintech-safe-ml-benchmark) | 2026-11-25 |
+| [Check Point管理server侵害のautomation分析](digests/2026/11/2026-11-25.md#greynoise-check-point-intrusion) | 2026-11-23 |
+| [Rewindでcritical pathをdeterministic replay](digests/2026/11/2026-11-25.md#rewind-critical-path-profiling) | 2026-11-12 |
+
 [2026-11-24号](digests/2026/11/2026-11-24.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
