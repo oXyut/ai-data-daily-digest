@@ -432,3 +432,10 @@
 | --- | --- | --- |
 | 2026-11-24 | [EV補修部品の確率最適化](../digests/2026/11/2026-11-24.md#ev-spare-parts-stochastic-optimization) | 2026-11-24 |
 | 2026-11-24 | [病院電力需要の1年先月次予測](../digests/2026/11/2026-11-24.md#hospital-mid-term-load-forecasting) | 2026-11-24 |
+
+## 2026-11-25
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-25 | [HelloFresh zone pickingのDRL能力制御](../digests/2026/11/2026-11-25.md#zone-picking-drl-capacity-control) | 2026-11-25 |
+| 2026-11-25 | [FinTech MLのS.A.F.E.多面的評価](../digests/2026/11/2026-11-25.md#fintech-safe-ml-benchmark) | 2026-11-25 |
