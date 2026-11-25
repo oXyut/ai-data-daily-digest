@@ -482,3 +482,9 @@
 | 2026-11-24 | [ERNIE 5.5 Flash PreviewのApache 2.0重み](../digests/2026/11/2026-11-24.md#ernie-55-flash-preview-weights) | 2026-11-24 |
 | 2026-11-24 | [Hy-MT3：102言語の翻訳modelとTransRubric](../digests/2026/11/2026-11-24.md#hy-mt3-multilingual-translation) | 2026-11-24 |
 | 2026-11-24 | [Hosted LLM agentのpolicy owner](../digests/2026/11/2026-11-24.md#llm-agents-parent-company-interests) | 2026-11-01 |
+
+## 2026-11-25
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-25 | [WeMM-Ecom：e-commerce向けmultimodal model 5規模](../digests/2026/11/2026-11-25.md#wemm-ecom-open-weights) | 2026-11-25（JST。技術報告は11/23） |
