@@ -439,3 +439,10 @@
 | --- | --- | --- |
 | 2026-11-25 | [HelloFresh zone pickingのDRL能力制御](../digests/2026/11/2026-11-25.md#zone-picking-drl-capacity-control) | 2026-11-25 |
 | 2026-11-25 | [FinTech MLのS.A.F.E.多面的評価](../digests/2026/11/2026-11-25.md#fintech-safe-ml-benchmark) | 2026-11-25 |
+
+## 2026-11-26
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-26 | [農産物価格のphysics-informed graph予測](../digests/2026/11/2026-11-26.md#crop-price-pi-graph-cnn-lstm) | 2026-11-26 |
+| 2026-11-26 | [microgridのEV cluster scheduling](../digests/2026/11/2026-11-26.md#microgrid-ev-cluster-scheduling) | 2026-11-26 |
