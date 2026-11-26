@@ -6,6 +6,17 @@
 
 ### November
 
+[2026-11-26号](digests/2026/11/2026-11-26.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Qwen Code 0.28.7：managed sessionの復旧](digests/2026/11/2026-11-26.md#qwen-code-0287-managed-recovery) | 2026-11-26 |
+| [llama.cpp v1.1.0](digests/2026/11/2026-11-26.md#llama-cpp-v110) | 2026-11-26 |
+| [農産物価格のphysics-informed graph予測](digests/2026/11/2026-11-26.md#crop-price-pi-graph-cnn-lstm) | 2026-11-26 |
+| [microgridのEV cluster scheduling](digests/2026/11/2026-11-26.md#microgrid-ev-cluster-scheduling) | 2026-11-26 |
+| [推論serverを介するmodel間side channel](digests/2026/11/2026-11-26.md#inference-server-side-channels) | 2026-11-19 |
+| [AWS EIP再利用によるsubdomain takeover](digests/2026/11/2026-11-26.md#aws-eip-subdomain-takeover) | 2026-11-24（11/26更新） |
+
 [2026-11-25号](digests/2026/11/2026-11-25.md) — AIニュース1件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
