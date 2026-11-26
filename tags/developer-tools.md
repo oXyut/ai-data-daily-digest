@@ -424,3 +424,12 @@
 | 2026-11-25 | [WeMM-Ecom：e-commerce向けmultimodal model 5規模](../digests/2026/11/2026-11-25.md#wemm-ecom-open-weights) | 2026-11-25（JST。技術報告は11/23） |
 | 2026-11-25 | [Check Point管理server侵害のautomation分析](../digests/2026/11/2026-11-25.md#greynoise-check-point-intrusion) | 2026-11-23 |
 | 2026-11-25 | [Rewindでcritical pathをdeterministic replay](../digests/2026/11/2026-11-25.md#rewind-critical-path-profiling) | 2026-11-12 |
+
+## 2026-11-26
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-26 | [Qwen Code 0.28.7：managed sessionの復旧](../digests/2026/11/2026-11-26.md#qwen-code-0287-managed-recovery) | 2026-11-26 |
+| 2026-11-26 | [llama.cpp v1.1.0](../digests/2026/11/2026-11-26.md#llama-cpp-v110) | 2026-11-26 |
+| 2026-11-26 | [推論serverを介するmodel間side channel](../digests/2026/11/2026-11-26.md#inference-server-side-channels) | 2026-11-19 |
+| 2026-11-26 | [AWS EIP再利用によるsubdomain takeover](../digests/2026/11/2026-11-26.md#aws-eip-subdomain-takeover) | 2026-11-24（11/26更新） |
