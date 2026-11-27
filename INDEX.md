@@ -6,6 +6,16 @@
 
 ### November
 
+[2026-11-27号](digests/2026/11/2026-11-27.md) — AIニュース1件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [FoxBrain v2.1：台湾向け繁体字LLM](digests/2026/11/2026-11-27.md#foxbrain-v21-taiwan-llm) | 2026-11-27 |
+| [workload-aware lakehouse maintenanceの階層型強化学習](digests/2026/11/2026-11-27.md#lakehouse-maintenance-hierarchical-rl) | 2026-11-27 |
+| [LLMの費用効率と気候影響を分けるlevers](digests/2026/11/2026-11-27.md#llm-cost-climate-different-levers) | 2026-11-27 |
+| [AMD RDNA向けllama.cpp fork](digests/2026/11/2026-11-27.md#amd-llama-cpp-rdna-boosts) | 2026-11-26 |
+| [1PasswordのGitHub／CI/CD侵害](digests/2026/11/2026-11-27.md#onepassword-github-cicd-incident) | 2026-11-25 |
+
 [2026-11-26号](digests/2026/11/2026-11-26.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
