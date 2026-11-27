@@ -359,3 +359,97 @@
 | 2026-11-14 | [CerS-Path：子宮頸部病理AI](../digests/2026/11/2026-11-14.md#cers-path-cervical-ai) | 2026-11-14 |
 | 2026-11-14 | [E-commerce予測の時間順評価](../digests/2026/11/2026-11-14.md#ecommerce-temporal-reliability) | 2026-11-14 |
 | 2026-11-14 | [風力SCADA予測の15モデル比較](../digests/2026/11/2026-11-14.md#wind-scada-forecasting) | 2026-11-14 |
+
+## 2026-11-15
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-15 | [企業間競争のgraph予測](../digests/2026/11/2026-11-15.md#competitive-graph-multiagent) | 2026-11-15 |
+| 2026-11-15 | [GRACE-AI](../digests/2026/11/2026-11-15.md#grace-ai-governed-mlops) | 2026-11-15 |
+| 2026-11-15 | [HR離職予測のleakage検証](../digests/2026/11/2026-11-15.md#hr-job-change-leakage) | 2026-11-15 |
+| 2026-11-15 | [Supply chain偽情報検知](../digests/2026/11/2026-11-15.md#supply-chain-disinformation) | 2026-11-15 |
+
+## 2026-11-16
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-16 | [OpenScientist](../digests/2026/11/2026-11-16.md#openscientist-biomedical-agent) | 2026-11-16（掲載版。preprintは2026-03-15） |
+| 2026-11-16 | [反応器のphysics-informed ML](../digests/2026/11/2026-11-16.md#reactor-physics-informed-ml) | 2026-11-16 |
+| 2026-11-16 | [ロボット＋active learningによる材料探索](../digests/2026/11/2026-11-16.md#robotics-active-learning-materials) | 2026-11-16（Protocol。原著は2024-03-18） |
+
+## 2026-11-17
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-17 | [Agent 365 Business Analytics](../digests/2026/11/2026-11-17.md#agent-365-business-analytics) | 2026-11-17 |
+| 2026-11-17 | [PreVAP：VAPを24時間前に予測](../digests/2026/11/2026-11-17.md#prevap-vap-prediction) | 2026-11-17 |
+
+## 2026-11-18
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-18 | [startup risk予測：事業計画・財務・networkの不一致を活用](../digests/2026/11/2026-11-18.md#startup-risk-multimodal) | 2026-11-18 |
+| 2026-11-18 | [病院需要予測：LSTMと線形modelがほぼ同精度](../digests/2026/11/2026-11-18.md#hospital-demand-forecasting) | 2026-11-18 |
+
+## 2026-11-19
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-19 | [Cloud Storage object enrichments](../digests/2026/11/2026-11-19.md#gcs-object-enrichments) | 2026-11-19 |
+| 2026-11-19 | [CNC加工誤差予測](../digests/2026/11/2026-11-19.md#cnc-digital-twin-isslo-cnn) | 2026-11-19 |
+
+## 2026-11-20
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-20 | [株価予測＋exact Shapleyの否定的結果](../digests/2026/11/2026-11-20.md#stock-forecast-shapley-negative-result) | 2026-11-20 |
+| 2026-11-20 | [UAV物流の二段階最適化](../digests/2026/11/2026-11-20.md#uav-logistics-ddqn-theta) | 2026-11-20 |
+
+## 2026-11-21
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-21 | [物流networkの予測・risk・最適化](../digests/2026/11/2026-11-21.md#logistics-prediction-optimization) | 2026-11-21 |
+| 2026-11-21 | [射出成形品質のmodel選択](../digests/2026/11/2026-11-21.md#injection-molding-model-choice) | 2026-11-21 |
+
+## 2026-11-22
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-22 | [人・robot協働assemblyのtask scheduling](../digests/2026/11/2026-11-22.md#hrc-drl-task-scheduling) | 2026-11-22 |
+| 2026-11-22 | [露天掘りblastのfragmentation予測](../digests/2026/11/2026-11-22.md#mine-fragmentation-coa-gpr) | 2026-11-22 |
+
+## 2026-11-23
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-23 | [切削加工のvirtual metrology](../digests/2026/11/2026-11-23.md#virtual-metrology-surface-roughness) | 2026-11-23 |
+| 2026-11-23 | [HS-ChemEco：環境外部costを説明可能MLで推定](../digests/2026/11/2026-11-23.md#hs-chemeco-environmental-price) | 2026-11-23 |
+
+## 2026-11-24
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-24 | [EV補修部品の確率最適化](../digests/2026/11/2026-11-24.md#ev-spare-parts-stochastic-optimization) | 2026-11-24 |
+| 2026-11-24 | [病院電力需要の1年先月次予測](../digests/2026/11/2026-11-24.md#hospital-mid-term-load-forecasting) | 2026-11-24 |
+
+## 2026-11-25
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-25 | [HelloFresh zone pickingのDRL能力制御](../digests/2026/11/2026-11-25.md#zone-picking-drl-capacity-control) | 2026-11-25 |
+| 2026-11-25 | [FinTech MLのS.A.F.E.多面的評価](../digests/2026/11/2026-11-25.md#fintech-safe-ml-benchmark) | 2026-11-25 |
+
+## 2026-11-26
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-26 | [農産物価格のphysics-informed graph予測](../digests/2026/11/2026-11-26.md#crop-price-pi-graph-cnn-lstm) | 2026-11-26 |
+| 2026-11-26 | [microgridのEV cluster scheduling](../digests/2026/11/2026-11-26.md#microgrid-ev-cluster-scheduling) | 2026-11-26 |
+
+## 2026-11-27
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-27 | [workload-aware lakehouse maintenanceの階層型強化学習](../digests/2026/11/2026-11-27.md#lakehouse-maintenance-hierarchical-rl) | 2026-11-27 |
+| 2026-11-27 | [LLMの費用効率と気候影響を分けるlevers](../digests/2026/11/2026-11-27.md#llm-cost-climate-different-levers) | 2026-11-27 |

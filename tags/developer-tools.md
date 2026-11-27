@@ -336,3 +336,107 @@
 | --- | --- | --- |
 | 2026-11-14 | [Rust 1.100](../digests/2026/11/2026-11-14.md#rust-1100) | 2026-11-12 |
 | 2026-11-14 | [Coway空気清浄機をcloudなしでHome Assistantへ接続](../digests/2026/11/2026-11-14.md#coway-local-iot) | 2026-11-11 |
+
+## 2026-11-15
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-15 | [llama.cpp／ggml 1.0](../digests/2026/11/2026-11-15.md#llama-ggml-v1) | 2026-11-13 |
+| 2026-11-15 | [PyPI provenance UI](../digests/2026/11/2026-11-15.md#pypi-provenance-ui) | 2026-11-06 |
+
+## 2026-11-16
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-16 | [Qwen4-Max](../digests/2026/11/2026-11-16.md#qwen4-max) | 2026-11-16 |
+| 2026-11-16 | [uBlock Origin element pickerのUXSS](../digests/2026/11/2026-11-16.md#ublock-origin-uxss) | 2026-11-15 |
+| 2026-11-16 | [Jiff 1.0](../digests/2026/11/2026-11-16.md#jiff-1) | 2026-11-15 |
+
+## 2026-11-17
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-17 | [GPT-6.2 Astra／Sol](../digests/2026/11/2026-11-17.md#gpt-62-astra-sol) | 2026-11-17 |
+| 2026-11-17 | [MAI Code 2／Flash](../digests/2026/11/2026-11-17.md#mai-code-2) | 2026-11-17 |
+| 2026-11-17 | [remote agentへcredentialを渡さないlend](../digests/2026/11/2026-11-17.md#lend-agent-credentials) | 2026-11-13（11/17更新） |
+| 2026-11-17 | [coding agentの検証loop](../digests/2026/11/2026-11-17.md#claude-code-verification) | 2026-11-16 |
+
+## 2026-11-18
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-18 | [OKF v0.3：agent用knowledge bundleの互換性・信頼・移管](../digests/2026/11/2026-11-18.md#okf-v03) | 2026-11-18 |
+| 2026-11-18 | [GitHub Copilot：team単位のAgent Plugins既定配布](../digests/2026/11/2026-11-18.md#github-copilot-team-plugins) | 2026-11-18 |
+| 2026-11-18 | [AI生成testをmutationで評価](../digests/2026/11/2026-11-18.md#mutation-test-quality) | 2026-11-17 |
+| 2026-11-18 | [Cerebras disaggregated inference](../digests/2026/11/2026-11-18.md#cerebras-disaggregated-inference) | 2026-11-17 |
+
+## 2026-11-19
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-19 | [AWS AppConfigのAI設定管理](../digests/2026/11/2026-11-19.md#aws-appconfig-ai-config) | 2026-11-19 |
+| 2026-11-19 | [Dialog-RSN-1をSageMakerへ](../digests/2026/11/2026-11-19.md#polyai-dialog-rsn1-sagemaker) | 2026-11-19 |
+| 2026-11-19 | [LLM逆解析の仮説・probe loop](../digests/2026/11/2026-11-19.md#llm-assisted-reverse-engineering) | 2026-11-18 |
+| 2026-11-19 | [E2E台帳による変更追随](../digests/2026/11/2026-11-19.md#e2e-ledger-strategy) | 2026-10-26 |
+
+## 2026-11-20
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-20 | [AWS Transformの.NET 11対応](../digests/2026/11/2026-11-20.md#aws-transform-dotnet-11) | 2026-11-20 |
+| 2026-11-20 | [FrostbiteのAI CPU設計探索](../digests/2026/11/2026-11-20.md#frostbite-ai-cpu) | 2026-11-18 |
+| 2026-11-20 | [Linux memory圧縮の実測](../digests/2026/11/2026-11-20.md#linux-memory-compression) | 2026-11-19（11/20追記） |
+
+## 2026-11-21
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-21 | [Valkeyのsorted setをB+ treeへ](../digests/2026/11/2026-11-21.md#valkey-fbtree) | 2026-11-16 |
+| 2026-11-21 | [Inkling 2 Miniを5.4GBへ量子化](../digests/2026/11/2026-11-21.md#inkling-lookatmyquant) | 2026-11-21 |
+
+## 2026-11-22
+
+| 掲載号 | トピック | 一次情報の公開日 |
+| --- | --- | --- |
+| 2026-11-22 | [OpenRouter：推論provider incidentとZDR再審査](../digests/2026/11/2026-11-22.md#openrouter-provider-incidents) | 2026-11-22 |
+| 2026-11-22 | [fast-anything：hot functionだけをRustへ](../digests/2026/11/2026-11-22.md#fast-anything-rust-hotspots) | 2026-11-21 |
+| 2026-11-22 | [unkernel：実Linux kernelをWebAssemblyへ](../digests/2026/11/2026-11-22.md#unkernel-linux-wasm) | 2026-11-21 |
+
+## 2026-11-23
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-23 | [GLM-5.4：初のflagship Loop Transformer](../digests/2026/11/2026-11-23.md#glm-54-loop-transformer) | 2026-11-23 |
+| 2026-11-23 | [Ladybird alpha：独自browser engine](../digests/2026/11/2026-11-23.md#ladybird-alpha) | 2026-11-23 |
+| 2026-11-23 | [xnulinux：XNUをLinux kernel moduleとして同居](../digests/2026/11/2026-11-23.md#xnulinux-xnu-linux-module) | 2026-11-20（11/23更新） |
+
+## 2026-11-24
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-24 | [Hosted LLM agentのpolicy owner](../digests/2026/11/2026-11-24.md#llm-agents-parent-company-interests) | 2026-11-01 |
+| 2026-11-24 | [Debianのiperf／iperf3更新とfireperf](../digests/2026/11/2026-11-24.md#debian-iperf-fireperf) | 2026-11-22 |
+
+## 2026-11-25
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-25 | [WeMM-Ecom：e-commerce向けmultimodal model 5規模](../digests/2026/11/2026-11-25.md#wemm-ecom-open-weights) | 2026-11-25（JST。技術報告は11/23） |
+| 2026-11-25 | [Check Point管理server侵害のautomation分析](../digests/2026/11/2026-11-25.md#greynoise-check-point-intrusion) | 2026-11-23 |
+| 2026-11-25 | [Rewindでcritical pathをdeterministic replay](../digests/2026/11/2026-11-25.md#rewind-critical-path-profiling) | 2026-11-12 |
+
+## 2026-11-26
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-26 | [Qwen Code 0.28.7：managed sessionの復旧](../digests/2026/11/2026-11-26.md#qwen-code-0287-managed-recovery) | 2026-11-26 |
+| 2026-11-26 | [llama.cpp v1.1.0](../digests/2026/11/2026-11-26.md#llama-cpp-v110) | 2026-11-26 |
+| 2026-11-26 | [推論serverを介するmodel間side channel](../digests/2026/11/2026-11-26.md#inference-server-side-channels) | 2026-11-19 |
+| 2026-11-26 | [AWS EIP再利用によるsubdomain takeover](../digests/2026/11/2026-11-26.md#aws-eip-subdomain-takeover) | 2026-11-24（11/26更新） |
+
+## 2026-11-27
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-27 | [AMD RDNA向けllama.cpp fork](../digests/2026/11/2026-11-27.md#amd-llama-cpp-rdna-boosts) | 2026-11-26 |
+| 2026-11-27 | [1PasswordのGitHub／CI/CD侵害](../digests/2026/11/2026-11-27.md#onepassword-github-cicd-incident) | 2026-11-25 |

@@ -6,6 +6,148 @@
 
 ### November
 
+[2026-11-27号](digests/2026/11/2026-11-27.md) — AIニュース1件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [FoxBrain v2.1：台湾向け繁体字LLM](digests/2026/11/2026-11-27.md#foxbrain-v21-taiwan-llm) | 2026-11-27 |
+| [workload-aware lakehouse maintenanceの階層型強化学習](digests/2026/11/2026-11-27.md#lakehouse-maintenance-hierarchical-rl) | 2026-11-27 |
+| [LLMの費用効率と気候影響を分けるlevers](digests/2026/11/2026-11-27.md#llm-cost-climate-different-levers) | 2026-11-27 |
+| [AMD RDNA向けllama.cpp fork](digests/2026/11/2026-11-27.md#amd-llama-cpp-rdna-boosts) | 2026-11-26 |
+| [1PasswordのGitHub／CI/CD侵害](digests/2026/11/2026-11-27.md#onepassword-github-cicd-incident) | 2026-11-25 |
+
+[2026-11-26号](digests/2026/11/2026-11-26.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Qwen Code 0.28.7：managed sessionの復旧](digests/2026/11/2026-11-26.md#qwen-code-0287-managed-recovery) | 2026-11-26 |
+| [llama.cpp v1.1.0](digests/2026/11/2026-11-26.md#llama-cpp-v110) | 2026-11-26 |
+| [農産物価格のphysics-informed graph予測](digests/2026/11/2026-11-26.md#crop-price-pi-graph-cnn-lstm) | 2026-11-26 |
+| [microgridのEV cluster scheduling](digests/2026/11/2026-11-26.md#microgrid-ev-cluster-scheduling) | 2026-11-26 |
+| [推論serverを介するmodel間side channel](digests/2026/11/2026-11-26.md#inference-server-side-channels) | 2026-11-19 |
+| [AWS EIP再利用によるsubdomain takeover](digests/2026/11/2026-11-26.md#aws-eip-subdomain-takeover) | 2026-11-24（11/26更新） |
+
+[2026-11-25号](digests/2026/11/2026-11-25.md) — AIニュース1件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [WeMM-Ecom：e-commerce向けmultimodal model 5規模](digests/2026/11/2026-11-25.md#wemm-ecom-open-weights) | 2026-11-25（JST。技術報告は11/23） |
+| [HelloFresh zone pickingのDRL能力制御](digests/2026/11/2026-11-25.md#zone-picking-drl-capacity-control) | 2026-11-25 |
+| [FinTech MLのS.A.F.E.多面的評価](digests/2026/11/2026-11-25.md#fintech-safe-ml-benchmark) | 2026-11-25 |
+| [Check Point管理server侵害のautomation分析](digests/2026/11/2026-11-25.md#greynoise-check-point-intrusion) | 2026-11-23 |
+| [Rewindでcritical pathをdeterministic replay](digests/2026/11/2026-11-25.md#rewind-critical-path-profiling) | 2026-11-12 |
+
+[2026-11-24号](digests/2026/11/2026-11-24.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [ERNIE 5.5 Flash Preview：Apache 2.0で重み公開](digests/2026/11/2026-11-24.md#ernie-55-flash-preview-weights) | 2026-11-24 |
+| [Hy-MT3：102言語の翻訳modelとTransRubric](digests/2026/11/2026-11-24.md#hy-mt3-multilingual-translation) | 2026-11-24 |
+| [EV補修部品の確率最適化](digests/2026/11/2026-11-24.md#ev-spare-parts-stochastic-optimization) | 2026-11-24 |
+| [病院電力需要の1年先月次予測](digests/2026/11/2026-11-24.md#hospital-mid-term-load-forecasting) | 2026-11-24 |
+| [Hosted LLM agentのpolicy owner](digests/2026/11/2026-11-24.md#llm-agents-parent-company-interests) | 2026-11-01 |
+| [Debianのiperf／iperf3更新とfireperf](digests/2026/11/2026-11-24.md#debian-iperf-fireperf) | 2026-11-22 |
+
+[2026-11-23号](digests/2026/11/2026-11-23.md) — AIニュース1件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [GLM-5.4：初のflagship Loop Transformer](digests/2026/11/2026-11-23.md#glm-54-loop-transformer) | 2026-11-23 |
+| [切削加工のvirtual metrology](digests/2026/11/2026-11-23.md#virtual-metrology-surface-roughness) | 2026-11-23 |
+| [HS-ChemEco：環境外部costを説明可能MLで推定](digests/2026/11/2026-11-23.md#hs-chemeco-environmental-price) | 2026-11-23 |
+| [Ladybird alpha：独自browser engine](digests/2026/11/2026-11-23.md#ladybird-alpha) | 2026-11-23 |
+| [xnulinux：XNUをLinux kernel moduleとして同居](digests/2026/11/2026-11-23.md#xnulinux-xnu-linux-module) | 2026-11-20（11/23更新） |
+
+[2026-11-22号](digests/2026/11/2026-11-22.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [OpenAI：perplexityを共通進捗・安全指標へ](digests/2026/11/2026-11-22.md#openai-perplexity-intelligence) | 2026-11-22 |
+| [OpenRouter：推論provider incidentとZDR再審査](digests/2026/11/2026-11-22.md#openrouter-provider-incidents) | 2026-11-22 |
+| [人・robot協働assemblyのtask scheduling](digests/2026/11/2026-11-22.md#hrc-drl-task-scheduling) | 2026-11-22 |
+| [露天掘りblastのfragmentation予測](digests/2026/11/2026-11-22.md#mine-fragmentation-coa-gpr) | 2026-11-22 |
+| [fast-anything：hot functionだけをRustへ](digests/2026/11/2026-11-22.md#fast-anything-rust-hotspots) | 2026-11-21 |
+| [unkernel：実Linux kernelをWebAssemblyへ](digests/2026/11/2026-11-22.md#unkernel-linux-wasm) | 2026-11-21 |
+
+[2026-11-21号](digests/2026/11/2026-11-21.md) — AIニュース0件（適格項目なし）、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [物流network：需要予測・disruption risk・最適化を一体化](digests/2026/11/2026-11-21.md#logistics-prediction-optimization) | 2026-11-21 |
+| [射出成形品質：DOE・simulation・sensor MLを比較](digests/2026/11/2026-11-21.md#injection-molding-model-choice) | 2026-11-21 |
+| [Valkey：sorted setをskiplistからB+ treeへ](digests/2026/11/2026-11-21.md#valkey-fbtree) | 2026-11-16 |
+| [Inkling 2 Miniを5.4GBへ量子化](digests/2026/11/2026-11-21.md#inkling-lookatmyquant) | 2026-11-21 |
+
+[2026-11-20号](digests/2026/11/2026-11-20.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [MedChemBench：創薬の構造読解・実験解釈・化合物選択](digests/2026/11/2026-11-20.md#openai-medchembench) | 2026-11-20 |
+| [AWS Transform：legacy .NETを.NET 11へagentic modernization](digests/2026/11/2026-11-20.md#aws-transform-dotnet-11) | 2026-11-20 |
+| [株価予測＋exact Shapley：no-skillを超えない否定的結果](digests/2026/11/2026-11-20.md#stock-forecast-shapley-negative-result) | 2026-11-20 |
+| [UAV物流：node配置とrisk-aware routeの二段階最適化](digests/2026/11/2026-11-20.md#uav-logistics-ddqn-theta) | 2026-11-20 |
+| [Frostbite：AI agent swarmによるCPU設計探索](digests/2026/11/2026-11-20.md#frostbite-ai-cpu) | 2026-11-18 |
+| [Linux memory圧縮：zram実測とzswapの使い分け](digests/2026/11/2026-11-20.md#linux-memory-compression) | 2026-11-19（11/20追記） |
+
+
+[2026-11-19号](digests/2026/11/2026-11-19.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [AWS AppConfig：model設定とpromptの段階展開・自動rollback](digests/2026/11/2026-11-19.md#aws-appconfig-ai-config) | 2026-11-19 |
+| [Dialog-RSN-1：real-time音声対話modelをSageMakerへ](digests/2026/11/2026-11-19.md#polyai-dialog-rsn1-sagemaker) | 2026-11-19 |
+| [Cloud Storage object enrichments：非構造dataをin-placeでcontext化](digests/2026/11/2026-11-19.md#gcs-object-enrichments) | 2026-11-19 |
+| [CNC加工誤差予測：RMSE 3.84μm、推論3.62ms](digests/2026/11/2026-11-19.md#cnc-digital-twin-isslo-cnn) | 2026-11-19 |
+| [LLM逆解析：仮説・probe・記録のloop](digests/2026/11/2026-11-19.md#llm-assisted-reverse-engineering) | 2026-11-18 |
+| [E2E台帳：実装・scenario・test IDを照合](digests/2026/11/2026-11-19.md#e2e-ledger-strategy) | 2026-10-26 |
+
+
+[2026-11-18号](digests/2026/11/2026-11-18.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [OKF v0.3：agent用knowledge bundleの互換性・信頼・移管](digests/2026/11/2026-11-18.md#okf-v03) | 2026-11-18 |
+| [GitHub Copilot：team単位のAgent Plugins既定配布](digests/2026/11/2026-11-18.md#github-copilot-team-plugins) | 2026-11-18 |
+| [startup risk予測：事業計画・財務・networkの不一致を活用](digests/2026/11/2026-11-18.md#startup-risk-multimodal) | 2026-11-18 |
+| [病院需要予測：LSTMと線形modelがほぼ同精度](digests/2026/11/2026-11-18.md#hospital-demand-forecasting) | 2026-11-18（掲載版。preprintは2024-04-29） |
+| [AI生成testをmutationで評価](digests/2026/11/2026-11-18.md#mutation-test-quality) | 2026-11-17 |
+| [Cerebras disaggregated inference](digests/2026/11/2026-11-18.md#cerebras-disaggregated-inference) | 2026-11-17 |
+
+
+
+[2026-11-17号](digests/2026/11/2026-11-17.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [GPT-6.2 Astra／Sol：専門業務・coding・computer useを更新](digests/2026/11/2026-11-17.md#gpt-62-astra-sol) | 2026-11-17 |
+| [MAI Code 2／Flash：企業coding向けcost-performance model](digests/2026/11/2026-11-17.md#mai-code-2) | 2026-11-17 |
+| [Agent 365 Business Analytics：AI支出をROIへ接続](digests/2026/11/2026-11-17.md#agent-365-business-analytics) | 2026-11-17 |
+| [PreVAP：VAPを24時間前に予測するCatBoost](digests/2026/11/2026-11-17.md#prevap-vap-prediction) | 2026-11-17 |
+| [remote agentへcredentialを渡さないlend](digests/2026/11/2026-11-17.md#lend-agent-credentials) | 2026-11-13（11/17更新） |
+| [coding agentの検証loop](digests/2026/11/2026-11-17.md#claude-code-verification) | 2026-11-16 |
+
+[2026-11-16号](digests/2026/11/2026-11-16.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [Qwen4-Max：2.4T MoE・native vision・1M context](digests/2026/11/2026-11-16.md#qwen4-max) | 2026-11-16 |
+| [OpenScientist：臨床dataと文献を横断するagentic co-scientist](digests/2026/11/2026-11-16.md#openscientist-biomedical-agent) | 2026-11-16（掲載版。preprintは2026-03-15） |
+| [反応器のphysics-informed ML：壁面温度誤差0.5%未満](digests/2026/11/2026-11-16.md#reactor-physics-informed-ml) | 2026-11-16 |
+| [ロボット＋active learningで天然plastic代替材を逆設計](digests/2026/11/2026-11-16.md#robotics-active-learning-materials) | 2026-11-16（Protocol。原著は2024-03-18） |
+| [uBlock Origin element pickerのUXSS](digests/2026/11/2026-11-16.md#ublock-origin-uxss) | 2026-11-15 |
+| [Jiff 1.0：DSTとtime zoneを中心に置くRust日時library](digests/2026/11/2026-11-16.md#jiff-1) | 2026-11-15 |
+
+[2026-11-15号](digests/2026/11/2026-11-15.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
+
+| トピック | 発表元の公開日 |
+| --- | --- |
+| [企業間競争をgraph予測し複数LLM agentが検証](digests/2026/11/2026-11-15.md#competitive-graph-multiagent) | 2026-11-15 |
+| [GRACE-AI：risk tier・drift監視・説明を組み込むMLOps](digests/2026/11/2026-11-15.md#grace-ai-governed-mlops) | 2026-11-15 |
+| [HR離職予測：oversampling leakageとthreshold設計](digests/2026/11/2026-11-15.md#hr-job-change-leakage) | 2026-11-15 |
+| [Supply chain偽情報検知のlinear model比較](digests/2026/11/2026-11-15.md#supply-chain-disinformation) | 2026-11-15 |
+| [llama.cpp／ggml 1.0：公開C APIのsemantic versioning](digests/2026/11/2026-11-15.md#llama-ggml-v1) | 2026-11-13 |
+| [PyPI：package provenanceをSecurity tabへ](digests/2026/11/2026-11-15.md#pypi-provenance-ui) | 2026-11-06 |
+
 [2026-11-14号](digests/2026/11/2026-11-14.md) — AIニュース2件、事業向け2件、最近の話題のIT記事2件。話題記事枠のみ公開日例外。
 
 | トピック | 発表元の公開日 |
