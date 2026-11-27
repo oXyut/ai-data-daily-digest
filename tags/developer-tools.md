@@ -433,3 +433,10 @@
 | 2026-11-26 | [llama.cpp v1.1.0](../digests/2026/11/2026-11-26.md#llama-cpp-v110) | 2026-11-26 |
 | 2026-11-26 | [推論serverを介するmodel間side channel](../digests/2026/11/2026-11-26.md#inference-server-side-channels) | 2026-11-19 |
 | 2026-11-26 | [AWS EIP再利用によるsubdomain takeover](../digests/2026/11/2026-11-26.md#aws-eip-subdomain-takeover) | 2026-11-24（11/26更新） |
+
+## 2026-11-27
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-27 | [AMD RDNA向けllama.cpp fork](../digests/2026/11/2026-11-27.md#amd-llama-cpp-rdna-boosts) | 2026-11-26 |
+| 2026-11-27 | [1PasswordのGitHub／CI/CD侵害](../digests/2026/11/2026-11-27.md#onepassword-github-cicd-incident) | 2026-11-25 |
