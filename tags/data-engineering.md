@@ -244,3 +244,9 @@
 | 掲載号 | トピック | 一次情報の公開日 |
 | --- | --- | --- |
 | 2026-11-21 | [Valkeyのsorted setをB+ treeへ](../digests/2026/11/2026-11-21.md#valkey-fbtree) | 2026-11-16 |
+
+## 2026-11-27
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-27 | [workload-aware lakehouse maintenanceの階層型強化学習](../digests/2026/11/2026-11-27.md#lakehouse-maintenance-hierarchical-rl) | 2026-11-27 |
