@@ -496,3 +496,11 @@
 | 2026-11-26 | [Qwen Code 0.28.7：managed sessionの復旧](../digests/2026/11/2026-11-26.md#qwen-code-0287-managed-recovery) | 2026-11-26 |
 | 2026-11-26 | [llama.cpp v1.1.0](../digests/2026/11/2026-11-26.md#llama-cpp-v110) | 2026-11-26 |
 | 2026-11-26 | [推論serverを介するmodel間side channel](../digests/2026/11/2026-11-26.md#inference-server-side-channels) | 2026-11-19 |
+
+## 2026-11-27
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-27 | [FoxBrain v2.1：台湾向け繁体字LLM](../digests/2026/11/2026-11-27.md#foxbrain-v21-taiwan-llm) | 2026-11-27 |
+| 2026-11-27 | [LLMの費用効率と気候影響を分けるlevers](../digests/2026/11/2026-11-27.md#llm-cost-climate-different-levers) | 2026-11-27 |
+| 2026-11-27 | [AMD RDNA向けllama.cpp fork](../digests/2026/11/2026-11-27.md#amd-llama-cpp-rdna-boosts) | 2026-11-26 |
