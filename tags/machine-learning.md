@@ -449,3 +449,10 @@
 | 掲載号 | トピック | 発表元の公開日 |
 | --- | --- | --- |
 | 2026-11-26 | [農産物価格のphysics-informed graph予測](../digests/2026/11/2026-11-26.md#crop-price-pi-graph-cnn-lstm) | 2026-11-26 |
+
+## 2026-11-27
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-27 | [FoxBrain v2.1：台湾向け繁体字LLM](../digests/2026/11/2026-11-27.md#foxbrain-v21-taiwan-llm) | 2026-11-27 |
+| 2026-11-27 | [workload-aware lakehouse maintenanceの階層型強化学習](../digests/2026/11/2026-11-27.md#lakehouse-maintenance-hierarchical-rl) | 2026-11-27 |
