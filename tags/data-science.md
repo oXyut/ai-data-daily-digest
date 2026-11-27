@@ -446,3 +446,10 @@
 | --- | --- | --- |
 | 2026-11-26 | [農産物価格のphysics-informed graph予測](../digests/2026/11/2026-11-26.md#crop-price-pi-graph-cnn-lstm) | 2026-11-26 |
 | 2026-11-26 | [microgridのEV cluster scheduling](../digests/2026/11/2026-11-26.md#microgrid-ev-cluster-scheduling) | 2026-11-26 |
+
+## 2026-11-27
+
+| 掲載号 | トピック | 発表元の公開日 |
+| --- | --- | --- |
+| 2026-11-27 | [workload-aware lakehouse maintenanceの階層型強化学習](../digests/2026/11/2026-11-27.md#lakehouse-maintenance-hierarchical-rl) | 2026-11-27 |
+| 2026-11-27 | [LLMの費用効率と気候影響を分けるlevers](../digests/2026/11/2026-11-27.md#llm-cost-climate-different-levers) | 2026-11-27 |
